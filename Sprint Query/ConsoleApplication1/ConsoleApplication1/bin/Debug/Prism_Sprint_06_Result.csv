@@ -1,0 +1,24 @@
+Sprint original estimation of real time team
+Name,Sum of Original Estimate,Sum of Completed Work
+XiaoBin DENG,48,24
+Yong Chao BIAN,32,32
+Tong Feng,32,32
+Chen Yue Zhang,0,0
+Yinhua Zhao,54,36
+LI Qin,16,16
+WANG Yu(InterACT),16,8
+Jun CHEN,0,4
+Sheng Huang,0,0
+
+
+Sprint planned committed tasks VS status
+Name,New,Active,Closed
+
+
+Activity VS effort
+Activity,Sum of Original Estimate,% Original,Sum of Completed Work,% Real
+Development,78,39.39%,66,43.42%
+(blank),104,52.53%,82,53.95%
+Requirements,16,8.08%,0,0.00%
+Deployment,0,0.00%,4,2.63%
+Grand Total,198,1,152,1

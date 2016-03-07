@@ -1,0 +1,47 @@
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.WITDataStore.dll
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.WITDataStore.dll
+D:\TFS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\TFS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\TFS\Sprint Task\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\TFS\Sprint Task\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\TFS\Sprint Task\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\TFS\ChangeSet Tool\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\TFS\ChangeSet Tool\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\TFS\ChangeSet Tool\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\TFS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\TFS\ChangeSet Tool\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\TFS\ChangeSet Tool\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\TFS\ChangeSet Tool\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\TFS\ChangeSet Tool\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.WITDataStore.dll
+D:\TFS\ChangeSet Tool\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\Microsoft.WITDataStore.dll
+D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,38 @@
+Sprint original estimation of real time team
+Name,Sum of Original Estimate,Sum of Completed Work
+Xiu Li Zhang,71,71
+Dandan Li,78,61
+Limin YUE,24,24
+Dao Yong Zhang,56,8
+Yong Hao,85,60
+Jiayi Cai,55,55
+Yanhong Li,40,38
+XiaoBin DENG,24,32
+WANG Yu(InterACT),0,5
+
+
+Sprint planned committed tasks VS status
+Name,New,Active,Closed
+Xiu Li Zhang,0,0,1
+Dao Yong Zhang,0,0,2
+Dandan Li,0,0,2
+Limin YUE,0,0,1
+Yong Hao,0,0,2
+Jiayi Cai,0,0,4
+Yanhong Li,0,0,2
+XiaoBin DENG,0,0,1
+
+
+Activity VS effort
+Activity,Sum of Original Estimate,% Original,Sum of Completed Work,% Real
+Training,3,0.69%,3,0.85%
+Testing,177,40.88%,145,40.96%
+Commercial support,8,1.85%,1,0.28%
+Documentation,24,5.54%,32,9.04%
+Test automation,149,34.41%,98,27.68%
+Meeting,7,1.62%,5,1.41%
+(blank),24,5.54%,21,5.93%
+Development,36,8.31%,44,12.43%
+Requirements,4,0.92%,4,1.13%
+Knowledge transfer,1,0.23%,1,0.28%
+Grand Total,433,1,354,1

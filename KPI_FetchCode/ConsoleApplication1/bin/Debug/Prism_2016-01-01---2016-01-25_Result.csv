@@ -1,0 +1,257 @@
+ChangesetID,Owner,Group,CreateDate,LinkedType,LinkedId,Comment
+86ab01,Prism Build Account,Archive,1/15/2016 2:15:16 PM,unlinked,unlinked,daily backup of Jenkins config files
+c30ec4,Prism Build Account,Archive,1/14/2016 2:15:12 PM,unlinked,unlinked,daily backup of Jenkins config files
+e8b73f,Prism Build Account,Archive,1/13/2016 2:15:10 PM,unlinked,unlinked,daily backup of Jenkins config files
+190eae,Prism Build Account,Archive,1/12/2016 2:15:15 PM,unlinked,unlinked,daily backup of Jenkins config files
+80dcaf,Prism Build Account,Archive,1/11/2016 2:15:07 PM,unlinked,unlinked,daily backup of Jenkins config files
+5d703f,Prism Build Account,Archive,1/8/2016 2:15:10 PM,unlinked,unlinked,daily backup of Jenkins config files
+9b60e9,Prism Build Account,Archive,1/7/2016 2:15:10 PM,unlinked,unlinked,daily backup of Jenkins config files
+d93019,Prism Build Account,Archive,1/5/2016 2:15:30 PM,unlinked,unlinked,daily backup of Jenkins config files
+02c3f9,Prism Build Account,Archive,1/4/2016 2:15:28 PM,unlinked,unlinked,daily backup of Jenkins config files
+55a0dc,Hui Qiu,CDaas,1/18/2016 9:33:43 AM,User Story,352503,[QH WJ] #352503 update update folder structure.
+b1c419,Alien Jian Wang,CDaas,1/18/2016 9:24:58 AM,User Story,355957,[WJ QH] #355957 Add unit test for updating pipeline.
+166576,Hui Qiu,CDaas,1/18/2016 9:24:19 AM,User Story,352503,[QH WJ] #352503 update update folder structure.
+f37f31,Hui Qiu,CDaas,1/18/2016 9:11:06 AM,User Story,352503,[QH WJ] #352503 update update folder structure.
+fcb792,Hui Qiu,CDaas,1/18/2016 8:59:20 AM,User Story,352503,[QH WJ] #352503 update api key
+cfcc68,Hui Qiu,CDaas,1/18/2016 8:50:04 AM,User Story,352503,[qh wj] #352503 del username and token.
+839d08,Hui Qiu,CDaas,1/18/2016 8:46:05 AM,User Story,352503,[qh wj] #352503 create pipeline fix bug.
+e37bce,Hui Qiu,CDaas,1/18/2016 8:10:23 AM,User Story,352503,[qh wj] #352503 update view template.
+77e7a1,Hui Qiu,CDaas,1/18/2016 8:06:33 AM,User Story,352503,[qh wj] #352503 fix cdaas test fail.
+63f123,Hui Qiu,CDaas,1/18/2016 7:24:43 AM,User Story,352503,[QH WJ] #352503 delete unnecessary parameters.
+0f4eb7,Alien Jian Wang,CDaas,1/18/2016 7:24:45 AM,User Story,355957,[WJ QH] #355957 Change the update parameters.
+0492fc,Alien Jian Wang,CDaas,1/18/2016 6:00:56 AM,User Story,355957,[WJ QH] #355957 Fix bug.
+e2ecca,Alien Jian Wang,CDaas,1/18/2016 6:21:30 AM,User Story,355957,[WJ QH] #355957 Change the path.
+5ddc6e,Hui Qiu,CDaas,1/18/2016 6:09:19 AM,User Story,352503,[qh wj] #352503 refactor
+a94d27,Hui Qiu,CDaas,1/18/2016 3:32:23 AM,User Story,352503,[QH WJ] #352503 delete useless file.
+81cee6,Alien Jian Wang,CDaas,1/18/2016 3:31:01 AM,User Story,355957,[WJ QH] #355957 Fix bug.
+11aff9,Alien Jian Wang,CDaas,1/15/2016 9:53:58 AM,User Story,355957,[WJ QH] #355957 Add Update Defination framework.
+cb5d68,Hui Qiu,CDaas,1/15/2016 9:36:24 AM,User Story,352503,[QH WJ] #352503 refactor code bad smell.
+35930b,Alien Jian Wang,CDaas,1/15/2016 9:29:30 AM,User Story,355957,[WJ QH] #355957 Add Update Defination framework.
+1eb62d,Hui Qiu,CDaas,1/15/2016 3:23:44 AM,User Story,352503,[QH WJ] #352503 renaming
+ab6b4c,Alien Jian Wang,CDaas,1/15/2016 3:05:13 AM,User Story,352503,[WJ QH] #352503 Add local or server config for package scaforld.
+79a24e,Hui Qiu,CDaas,1/15/2016 2:51:04 AM,User Story,352503,[QH WJ] #352503 delete useless test.
+5de4e7,Hui Qiu,CDaas,1/15/2016 2:49:45 AM,User Story,352503,[QH WJ] #352503 delete useless test.
+b4d5c5,Alien Jian Wang,CDaas,1/14/2016 9:36:22 AM,User Story,352503,[WJ QH] #352503 Change nuspec to nuspec1 for package upload.
+ee96db,Alien Jian Wang,CDaas,1/14/2016 8:29:22 AM,User Story,352503,[WJ QH] #352503 Change lp preview qa the type for get packages.
+386862,Alien Jian Wang,CDaas,1/14/2016 8:11:31 AM,User Story,352503,[WJ QH] #352503 Add production task to template.
+66d3b9,Alien Jian Wang,CDaas,1/14/2016 8:07:49 AM,User Story,352503,[WJ QH] #352503 change push pkg function to common.
+3698a5,Hui Qiu,CDaas,1/14/2016 7:31:31 AM,User Story,352503,[QH WJ] #352503 update .gitignore
+888c60,Hui Qiu,CDaas,1/14/2016 7:28:17 AM,User Story,352503,[QH WJ] #352503 update go.local.config
+4fee6e,Hui Qiu,CDaas,1/14/2016 6:52:36 AM,User Story,352503,[QH WJ] #352503 update yaml template
+0b30d3,Hui Qiu,CDaas,1/14/2016 6:38:58 AM,User Story,352503,[QH WJ] #352503 scaffold add staging task template.
+529e93,Hui Qiu,CDaas,1/14/2016 3:23:03 AM,User Story,352503,[QH WJ] #352503 add package name in packageconfig.nuspec
+8b5d7e,Hui Qiu,CDaas,1/14/2016 2:32:05 AM,User Story,352503,[QH WJ] #352503 update nupkg folder structure.
+befb7e,Alien Jian Wang,CDaas,1/13/2016 8:07:15 AM,User Story,352503,[WJ QH] #352503 publish scaffold to nuget server.
+1c7d51,Alien Jian Wang,CDaas,1/13/2016 6:18:18 AM,User Story,352503,[qh wj] #352503 update code.
+a08ec8,Hui Qiu,CDaas,1/13/2016 5:51:47 AM,User Story,352503,[wj qh] #352503 copy yaml file to target dir.
+e84db0,Alien Jian Wang,CDaas,1/13/2016 5:37:58 AM,User Story,352503,[QH WJ] #352503 set default username and password values.
+e949f9,Alien Jian Wang,CDaas,1/13/2016 3:28:03 AM,User Story,352503,[QH WJ] #352503 Change directory structure.
+ca18c5,Alien Jian Wang,CDaas,1/13/2016 2:57:55 AM,User Story,352503,[QH WJ] #352503 Add small yaml template.
+499a58,Alien Jian Wang,CDaas,1/12/2016 9:36:30 AM,User Story,355957,[WJ WB] #355957 Add and delete jobs in pipeline.
+44a9f2,Hui Qiu,CDaas,1/12/2016 7:56:58 AM,User Story,355949,[yl qh] #355949 add preview task.
+6148b9,Alien Jian Wang,CDaas,1/12/2016 3:28:41 AM,User Story,355957,[WB WJ] #355957 Update pipeline framework.
+71f212,Yong Hao,CDaas,1/12/2016 3:16:05 AM,User Story,355962,[DY HY]#355962 update build defintion
+16da22,Yong Hao,CDaas,1/8/2016 3:05:24 AM,User Story,352497,[CJ HY] #352497 publish & provision refactor  %->? changing
+7ffeaf,Hui Qiu,CDaas,1/11/2016 9:50:58 AM,User Story,355949,[yl qh] #355949 fix bug.
+eff7a6,Hui Qiu,CDaas,1/11/2016 9:08:36 AM,User Story,355949,[YL QH] #355949 auto set publish test result in yaml file.
+22532c,dzhang5,CDaas,1/11/2016 8:33:42 AM,User Story,355940,[WB DY] #355940 Add update jenkins job function
+31e8b3,Jun CHEN,CDaas,1/11/2016 8:12:37 AM,unlinked,unlinked,[CJ] #n/a cleanup unneeded files
+2bde54,Jun CHEN,CDaas,1/11/2016 8:10:38 AM,User Story,355962,[CJ] #355962 update tfs build def
+a57c19,Hui Qiu,CDaas,1/11/2016 6:31:19 AM,User Story,355949,[YL QH] #355949 update yaml name to repositoryName.
+4ecb46,Alien Jian Wang,CDaas,1/8/2016 8:31:16 AM,User Story,352497,[qh WJ] #352497 Demo.
+85a388,Hui Qiu,CDaas,1/8/2016 7:32:16 AM,User Story,352503,[qh wj yl] #352503 update gitignore
+30723f,Hui Qiu,CDaas,1/8/2016 7:22:00 AM,User Story,352503,[QH WJ YL] #352503 fix it.ps1 indent.
+48b364,Alien Jian Wang,CDaas,1/8/2016 7:14:09 AM,User Story,352497,[qh WJ] #352497 refactor qa lp.
+53ad2b,Hui Qiu,CDaas,1/8/2016 6:36:55 AM,User Story,352503,[QH WJ YL] #352503 fix bug.
+6ea8c0,Hui Qiu,CDaas,1/8/2016 4:50:15 AM,User Story,352503,[QH WJ YL] #352503 int work version.
+8c5abb,Hui Qiu,CDaas,1/8/2016 4:06:58 AM,User Story,352503,[QH WJ] #352503 fix bug.
+2e9130,dzhang5,CDaas,1/8/2016 2:19:35 AM,User Story,355008,[WB  DY] #355008 enable GIT clean
+c6d7fe,Yong Hao,CDaas,1/8/2016 2:00:29 AM,User Story,352497,[CJ HY] #352497 provision& publish refactor  rename parameters
+090a90,Alien Jian Wang,CDaas,1/7/2016 9:56:11 AM,User Story,352497,[WB WJ] #352497 Extract function from it to shared.
+c2e4a6,Alien Jian Wang,CDaas,1/7/2016 9:36:02 AM,User Story,352497,[DY WB WJ] #352497 Fix descriptionset template bug.
+603508,Hui Qiu,CDaas,1/7/2016 9:33:46 AM,User Story,352503,[QH CJ] #352503 fix bug
+768795,Alien Jian Wang,CDaas,1/7/2016 8:50:47 AM,User Story,352497,[WB WJ] #352497 Update preview task.
+935012,Alien Jian Wang,CDaas,1/7/2016 8:48:19 AM,User Story,352497,[WB WJ] #352497 Update lp task.
+38546b,Alien Jian Wang,CDaas,1/7/2016 8:42:20 AM,User Story,352497,[WB WJ] #352497 Update qa task.
+168d24,Alien Jian Wang,CDaas,1/7/2016 8:35:12 AM,User Story,352497,[WB WJ] #352497 Refactor.
+8dab77,Alien Jian Wang,CDaas,1/7/2016 8:27:33 AM,User Story,352497,[WB WJ] #352497 Refactor.
+021b4e,Hui Qiu,CDaas,1/7/2016 8:04:45 AM,User Story,352503,[QH YL] #352503 fix bug
+f3e6a3,Hui Qiu,CDaas,1/7/2016 5:46:26 AM,User Story,352503,[QH YL] #352503 add .gitignore
+d38aec,Alien Jian Wang,CDaas,1/7/2016 7:59:46 AM,User Story,352497,[WB WJ] #352497 Add runTests.ps1 to itTest self-contain.
+861142,Alien Jian Wang,CDaas,1/7/2016 7:57:45 AM,User Story,352497,[WB WJ] #352497 Refactor it task to make itTest self-contain.
+2c5172,Yong Hao,CDaas,1/7/2016 6:03:10 AM,User Story,352497,[CJ HY] #352497 refactor the web app provision and deployment
+4654d7,Alien Jian Wang,CDaas,1/7/2016 6:02:29 AM,User Story,352497,[WB WJ] #352497 Fix it task.
+f2c667,Alien Jian Wang,CDaas,1/7/2016 3:33:44 AM,User Story,352497,[WB WJ] #352497 Update it task.
+ff1931,Hui Qiu,CDaas,1/7/2016 3:11:51 AM,User Story,352503,[QH HJ YL] #352503 fix bug for create pipeline.
+5080e7,Alien Jian Wang,CDaas,1/6/2016 10:15:38 AM,User Story,352497,[WB WJ] #352497 Fix bug.
+18a784,Alien Jian Wang,CDaas,1/6/2016 10:07:19 AM,User Story,352497,[WB WJ] #352497 Add shared function to shared.ps1.
+29edc8,Hui Qiu,CDaas,1/6/2016 8:01:53 AM,User Story,352503,[QH HJ] #352503 rename task name.
+76ea84,Hui Qiu,CDaas,1/6/2016 7:02:28 AM,User Story,352503,[QH HJ] #352503 copy tasks from templates if task name has been defined in yaml.
+ea484a,Yong Hao,CDaas,1/6/2016 6:40:01 AM,User Story,352497,[CJ HY] #352497 refactor deployment scripts
+ec572a,Hui Qiu,CDaas,1/6/2016 6:17:55 AM,User Story,352503,[QH HJ] #352503 extract method.
+a2b17b,Hui Qiu,CDaas,1/6/2016 6:05:13 AM,User Story,352503,[QH HJ] #352503 rename file to Create-Solution.ps1
+e9fd00,Hui Qiu,CDaas,1/6/2016 6:03:01 AM,User Story,352503,[QH HJ DY] #352503 add function to replace DummyName in config.
+3b1ae0,Hui Qiu,CDaas,1/6/2016 5:46:42 AM,User Story,352503,[QH HJ DY cj] #352503 del unuse folder.
+ce0a8b,Hui Qiu,CDaas,1/6/2016 5:37:40 AM,User Story,352503,[QH HJ DY] #352503 change folder.
+463808,Hui Qiu,CDaas,1/6/2016 5:36:13 AM,User Story,352503,[QH HJ DY] #352503 add package task integrate with daoyong.
+11a9ee,Hui Qiu,CDaas,1/6/2016 5:24:43 AM,User Story,352503,[QH HJ] #352503 rename service to plugin or sdk according to serviceName.
+2f5683,dzhang5,CDaas,1/6/2016 5:08:03 AM,User Story,352951,[DY  HY] #352951 update package task
+72c7cd,Alien Jian Wang,CDaas,1/6/2016 3:31:50 AM,User Story,352497,[WB WJ] #352497 Change go.ps1 and configs.
+848fa9,Alien Jian Wang,CDaas,1/6/2016 3:12:14 AM,User Story,352497,[WB WJ] #352497 Fix bug for ct.
+358d81,Hui Qiu,CDaas,1/6/2016 2:47:52 AM,User Story,352503,[QH WJ HJ] #352503 add tools folder and azure deploy ps1.
+d417d5,Hui Qiu,CDaas,1/6/2016 2:44:56 AM,User Story,352503,[QH HJ] #352503 add missing folder again.
+bb483f,Hui Qiu,CDaas,1/6/2016 2:40:30 AM,User Story,352503,[QH HJ] #352503 del dummy file.
+343619,Hui Qiu,CDaas,1/6/2016 2:39:14 AM,User Story,352503,[QH HJ] #352503 add missing folder.
+4de107,Hui Qiu,CDaas,1/6/2016 2:26:31 AM,User Story,352503,[QH HJ WJ] #352503 integrate clean/ct/ut tasks with wangjian
+4c0865,Hui Qiu,CDaas,1/5/2016 9:23:01 AM,User Story,352503,[QH WB] #352503 create folder structure and rename.
+cb4c69,Dao Yong Zhang,CDaas,1/5/2016 9:06:16 AM,error,3525951,[DY  HY] user story #3525951 update package task
+40023d,Alien Jian Wang,CDaas,1/5/2016 6:28:02 AM,User Story,352497,[WJ] #352497 Add ut and ct tasks  refactor funciton using new folder variables.
+49ab18,Xiaoyan Song,CDaas,1/5/2016 4:53:45 AM,User Story,352497,[WJ SXY] #352497 Rename Push-Package to PackPush-NugetPackage
+a492da,Alien Jian Wang,CDaas,1/5/2016 4:33:27 AM,User Story,352497,[cj wj] #352497 set environment for Dirs.
+1c568d,Hui Qiu,DemoApp,1/15/2016 10:14:26 AM,User Story,352503,[QH WJ] #352503 add ut.
+e756c6,Alien Jian Wang,DemoApp,1/14/2016 7:29:48 AM,User Story,352503,[WJ QH] #352503 push pkg to production nugetserver.
+09efd9,Alien Jian Wang,DemoApp,1/14/2016 6:38:32 AM,User Story,352503,[WJ QH] #352503 Add production task.
+49fd3f,Hui Qiu,DemoApp,1/14/2016 6:35:48 AM,User Story,352503,[QH WJ] #352503 add staging task.
+fe8fc1,Hui Qiu,DemoApp,1/14/2016 3:35:32 AM,User Story,352503,[QH WJ] #352503 fix bug.
+8c0de7,Hui Qiu,DemoApp,1/13/2016 11:30:08 AM,User Story,352503,[QH WJ] #352503
+283c6e,Hui Qiu,DemoApp,1/13/2016 10:24:37 AM,User Story,352503,[QH WJ] #352503 fix bug
+b1c91d,Hui Qiu,DemoApp,1/13/2016 9:45:49 AM,User Story,352503,[QH WJ] #352503 add ut.
+62f037,Hui Qiu,DemoApp,1/13/2016 9:20:55 AM,User Story,352503,[QH WJ] #352503 initial commit.
+a96f66,Hui Qiu,DemoApp,1/13/2016 3:10:42 AM,User Story,352503,[wj qh] #352503 delete all for demo.
+c29c63,Hui Qiu,DemoApp,1/12/2016 7:01:10 AM,User Story,355949,[yl qh] #355949 fix bug
+455bc5,Hui Qiu,DemoApp,1/12/2016 3:14:38 AM,User Story,355949,[qh yl] #355949 fix bug
+4d2c21,Hui Qiu,DemoApp,1/12/2016 2:54:06 AM,User Story,355949,[QH YL] #355949 fix bug
+7b7d22,Hui Qiu,DemoApp,1/11/2016 10:08:16 AM,User Story,355949,[yl qh] #355949 fix bug.
+8c2a9e,Hui Qiu,DemoApp,1/11/2016 9:46:56 AM,User Story,352503,[YL QH] #352503 fix bug
+37e9fc,Alien Jian Wang,DemoApp,1/8/2016 8:32:25 AM,User Story,352503,[qh wj yl] #352503 demo.
+63f808,Alien Jian Wang,DemoApp,1/8/2016 7:37:37 AM,unlinked,unlinked,Deleted /.vs
+9c87a6,Alien Jian Wang,DemoApp,1/8/2016 7:33:28 AM,User Story,352503,[qh wj yl] #352503 demo.
+5ae81a,Alien Jian Wang,DemoApp,1/8/2016 6:55:23 AM,User Story,352503,[qh wj yl] #352503 demo.
+9b250a,Alien Jian Wang,DemoApp,1/8/2016 6:12:41 AM,User Story,352503,[qh wj yl] #352503 delete all for demo.
+2ef6d1,Hui Qiu,DemoApp,1/8/2016 4:49:24 AM,User Story,352503,[QH WJ YL] #352503 int work version.
+4827e8,Hui Qiu,DemoApp,1/7/2016 9:53:24 AM,User Story,352503,[QH CJ] #352503 fix bug
+f24101,Hui Qiu,DemoApp,1/7/2016 5:48:59 AM,User Story,352503,[QH YL] #352503 add gitignore and set testDir envVirables.
+f01666,Hui Qiu,DemoApp,1/7/2016 3:09:05 AM,User Story,352503,[QH HJ YL] #352503 add ut/ct proj.
+b37839,Hui Qiu,DemoApp,1/7/2016 2:35:45 AM,unlinked,unlinked,[PipelineAdmin] #N/A Create Scaffold Scripts
+84de5f,Hui Qiu,DemoApp,1/7/2016 2:35:45 AM,unlinked,unlinked,[PipelineAdmin] #N/A Create Scaffold Scripts
+c4231c,Hui Qiu,DemoApp,1/7/2016 2:48:07 AM,unlinked,unlinked,Added file Readme.md
+fbb5df,Xiao Lei Song,MessageProcessing,1/18/2016 8:53:22 AM,User Story,354347,[Sxl LQ] #354347 Refector ProcessingModule
+46bef4,Xiao Lei Song,MessageProcessing,1/18/2016 8:29:24 AM,User Story,354347,[Sxl LQ] #354347 Refector unit test for EventDataWrapper
+c187bb,Yong Chao BIAN,MessageProcessing,1/18/2016 8:20:37 AM,User Story,358362,[YC] #358362 Remove print logic from receivesimulator
+047d0e,Alien Jian Wang,MessageProcessing,1/18/2016 7:28:31 AM,User Story,352503,[wj] #352503 Update Pipeline.
+bfe351,Yong Chao BIAN,MessageProcessing,1/18/2016 7:14:02 AM,User Story,358362,[YC] #358362 Remove not used reference
+c96040,Xiao Lei Song,MessageProcessing,1/18/2016 6:50:57 AM,User Story,354347,[Sxl LQ] #354347 Add unit test for EventDataWrapper
+7912b4,Yong Chao BIAN,MessageProcessing,1/18/2016 6:49:45 AM,User Story,358362,[YC] #358362 Rename the integration test
+293037,Yong Chao BIAN,MessageProcessing,1/18/2016 6:44:03 AM,User Story,358362,[YC] #358362 Add integration test case for messages with headers
+7e5916,Yong Chao BIAN,MessageProcessing,1/18/2016 6:19:57 AM,User Story,358362,[YC] #358362 Update ReceiveSimulator. Do not throw exception when there's no SendTime property
+7c02d7,Yong Chao BIAN,MessageProcessing,1/18/2016 6:08:22 AM,User Story,358362,[YC] #358362 Update the IotHub and storage connecting string
+3f8c70,Xiao Lei Song,MessageProcessing,1/15/2016 12:46:27 PM,User Story,354347,[Sxl] #354347 Statistic the performance from send to receive
+5584e3,Xiao Lei Song,MessageProcessing,1/15/2016 12:42:30 PM,User Story,354347,[Sxl LQ] #354347 Statistic the performance from send to receive
+555c16,Yong Chao BIAN,MessageProcessing,1/15/2016 8:16:07 AM,User Story,354347,[YC] #354347 Update the sender simulator. Ask user to input message number
+dea79b,LI Qin,MessageProcessing,1/15/2016 6:38:47 AM,User Story,354346,[LQ] #354346 nuget try to restore packages multiple times
+713f1f,Yong Chao BIAN,MessageProcessing,1/14/2016 9:28:52 AM,User Story,354347,[YC  CY  HJ] #354347 remove simpleEventProcessor to use ReceiveEventProcessor
+dc91c4,Yong Chao BIAN,MessageProcessing,1/14/2016 8:57:14 AM,User Story,354347,[YC  CY  HJ] #354347 Refactor receiver simulator
+5ec2f7,Xiao Lei Song,MessageProcessing,1/14/2016 8:40:09 AM,User Story,354347,[Sxl LQ] #354347 Add feature: ParserBolt Emit to TelemetryBolt  Fix bug
+cfaa98,Xiao Lei Song,MessageProcessing,1/14/2016 8:32:47 AM,User Story,354347,[Sxl LQ] #354347 Add feature: ParserBolt Emit to TelemetryBolt
+61830a,Xiao Lei Song,MessageProcessing,1/14/2016 7:25:54 AM,User Story,354347,[Sxl LQ] #354347 Emit to different storm downstream
+70f14d,dawnmoon,MessageProcessing,1/14/2016 6:32:16 AM,User Story,354347,#354347 refactor and remove the useless code of iot receiver part
+9707c0,dawnmoon,MessageProcessing,1/14/2016 6:29:59 AM,User Story,354347,#354347 refactor and remove the useless code of iot receiver part
+5bda41,Xiao Lei Song,MessageProcessing,1/14/2016 6:26:52 AM,User Story,354347,[Sxl LQ] #354347 Rename storm class
+4253fb,Yong Chao BIAN,MessageProcessing,1/14/2016 6:11:21 AM,User Story,354347,[YC  CY] #354347 Add more unit test for sender simulator
+0e3f95,Yong Chao BIAN,MessageProcessing,1/14/2016 5:44:36 AM,User Story,354347,[YC] #354347 Format the code
+cd856b,Yong Chao BIAN,MessageProcessing,1/14/2016 5:38:54 AM,User Story,354347,[YC] #354347 Follow up code review comments: Remvove comments code  Update name of the SerializableE
+3aaa4a,Xiao Lei Song,MessageProcessing,1/14/2016 5:16:46 AM,User Story,354347,[Sxl] #354347 Format send message and change change receiveer display
+451373,dawnmoon,MessageProcessing,1/14/2016 4:15:53 AM,User Story,354347,#354347 modified iot receiver buffer mechanism into muti-list way and modified related IotReader bol
+b733bc,dawnmoon,MessageProcessing,1/13/2016 9:53:59 AM,User Story,354347,#354347 refactor IotReader
+1a4067,Yong Chao BIAN,MessageProcessing,1/14/2016 3:01:38 AM,User Story,354347,[LQ  YC] #354347 Add SCP package in the ProcessingModule folder
+8bfdd1,Xiao Lei Song,MessageProcessing,1/13/2016 11:12:34 AM,User Story,354347,[Sxl] #354347 add telemetry eventhub config
+c4b76f,Yong Chao BIAN,MessageProcessing,1/13/2016 9:45:19 AM,User Story,354347,[LQ  YC] #354347 Send one survey and one telemetry
+174909,Xiao Lei Song,MessageProcessing,1/13/2016 9:21:34 AM,User Story,354347,[Sxl] #354347 surpport multi eventhub
+a31a1e,LI Qin,MessageProcessing,1/13/2016 8:19:52 AM,User Story,354347,[YC LQ] #354347 refactoring
+4ec96f,Yong Chao BIAN,MessageProcessing,1/13/2016 7:43:15 AM,User Story,354347,[LQ  YC] #354347 Remove obsolete code and comments
+cd4460,Yong Chao BIAN,MessageProcessing,1/13/2016 7:39:13 AM,User Story,354347,[LQ  YC] #354347 Fix IotReader in Storm
+892520,Yong Chao BIAN,MessageProcessing,1/13/2016 5:25:09 AM,User Story,354347,[YC] #354347 Following code review comments: Use UTC time and UTF8 encoding
+8b2169,Yong Chao BIAN,MessageProcessing,1/13/2016 3:09:12 AM,User Story,354347,[YC] #354347 Following code review comments: Use UTC time and UTF8 encoding
+dba439,LI Qin,MessageProcessing,1/13/2016 1:53:59 AM,unlinked,unlinked,Revert "[TF] Enable token server to fetch device token for device client"  This reverts commit dd53d
+dd53d0,Tong Feng,MessageProcessing,1/12/2016 11:04:35 AM,unlinked,unlinked,[TF] Enable token server to fetch device token for device client
+796b1c,LI Qin,MessageProcessing,1/12/2016 2:55:23 AM,User Story,354345,[LQ] #354345 refactoring
+a09d34,LI Qin,MessageProcessing,1/12/2016 2:46:43 AM,User Story,354345,[LQ] #354345 remove useless package of storm deployment
+d4c79d,Haijiao Yao,MessageProcessing,1/12/2016 2:30:03 AM,User Story,354347,[HJ] #354347 enable ut on pipeline
+924ba6,Yong Chao BIAN,MessageProcessing,1/11/2016 10:39:39 AM,User Story,354347,[YC  HJ] #354347 Add a UnitTest project and refactor sender to make it testable
+e35668,LI Qin,MessageProcessing,1/11/2016 10:46:29 AM,User Story,354345,[LQ] #354345 set storm parameters as script scope variables to fix pipeline failure
+e632c3,LI Qin,MessageProcessing,1/11/2016 10:27:22 AM,User Story,354345,[LQ] #354345 quick fix
+00cad7,LI Qin,MessageProcessing,1/11/2016 10:24:14 AM,User Story,354345,Revert "[LQ] #354345 quick fix pipeline failure"  This reverts commit 7e29e89f17c38b2b895712789b134a
+e8a3ee,dawnmoon,MessageProcessing,1/11/2016 9:58:19 AM,User Story,354343,[ZCY][#354343 modified iot receiver and storm]
+7e29e8,LI Qin,MessageProcessing,1/11/2016 9:51:48 AM,User Story,354345,[LQ] #354345 quick fix pipeline failure
+4bc196,LI Qin,MessageProcessing,1/11/2016 9:27:33 AM,User Story,354345,[LQ] #354345 kill storm job after integration test is pass
+3ca2ee,LI Qin,MessageProcessing,1/11/2016 9:28:57 AM,User Story,354345,[LQ] #354345 add reference dll for storm deployment tool
+f8c829,Yong Chao BIAN,MessageProcessing,1/11/2016 8:20:18 AM,User Story,354347,[YC  HJ] #354347 Refactor the sender code  remove duplication
+87503f,Yong Chao BIAN,MessageProcessing,1/11/2016 7:18:54 AM,User Story,354347,[YC  HJ] #354347 Update the assert method in integration test
+3b4a6b,Yong Chao BIAN,MessageProcessing,1/11/2016 7:11:39 AM,User Story,354347,[YC  HJ] #354347 Refactor the sender simulator
+32593d,Yong Chao BIAN,MessageProcessing,1/11/2016 6:53:09 AM,User Story,354347,[YC  HJ] #354347 Move deviceId and tag from message body to header
+6c3af7,LI Qin,MessageProcessing,1/11/2016 6:45:26 AM,User Story,354345,[LQ] #354345 deploy storm project to azure
+77afef,LI Qin,MessageProcessing,1/11/2016 5:32:42 AM,User Story,354345,[LQ] #354345 package storm zip spec files into nuget package
+6faf7e,Xiao Lei Song,MessageProcessing,1/8/2016 1:06:02 PM,User Story,354343,[Sxl] #354343 Fix config bug for EventHubWriterBolt
+a9c2c7,dawnmoon,MessageProcessing,1/8/2016 1:02:48 PM,User Story,354343,[ZCY] #354343 modified integration test to make it pass
+8276ad,Xiao Lei Song,MessageProcessing,1/8/2016 11:45:07 AM,User Story,354343,[Sxl] #354343 Refactor code  add configuration
+054165,dawnmoon,MessageProcessing,1/8/2016 11:42:53 AM,User Story,354343,[ZCY] #354343 modified storm iot reciever and use host mode
+5e0194,LI Qin,MessageProcessing,1/5/2016 8:11:58 AM,User Story,351806,[LQ YC] #351806 set nuspec file as encoding UTF8
+c2ce7d,LI Qin,MessageProcessing,1/8/2016 7:43:48 AM,User Story,354345,[LQ] #354345 generate spec/zip files for storm deployment
+fdc769,LI Qin,MessageProcessing,1/8/2016 7:12:41 AM,User Story,354345,[LQ] #354345 add storm deploy tool
+fa024e,Xiao Lei Song,MessageProcessing,1/8/2016 7:34:17 AM,User Story,354343,[Sxl] #354343 Add project Slb.Prism.RoPlankSimulator
+9007b8,Xiao Lei Song,MessageProcessing,1/8/2016 6:52:13 AM,User Story,354343,[Sxl] #354343 Add send eventdata to eventhub feature
+024e2b,Xiao Lei Song,MessageProcessing,1/8/2016 6:50:30 AM,User Story,354343,[Sxl] #354343 Add send eventdata to eventhub feature
+dbbe23,dawnmoon,MessageProcessing,1/8/2016 3:17:52 AM,User Story,354343,[ZCY] #354343 modified integration test and make it pass
+679938,Yong Chao BIAN,MessageProcessing,1/7/2016 12:10:26 PM,User Story,354343,[YC] #354343 Add the SCP.Net package to strom project due to the limition that strom project can onl
+9462fd,Yong Chao BIAN,MessageProcessing,1/7/2016 11:11:31 AM,User Story,354343,[YC] #354343 Update the project to fix build error
+41ef28,Yong Chao BIAN,MessageProcessing,1/7/2016 10:24:02 AM,User Story,354343,[YC] #354343 Delete the obsolete config file
+31cb21,Yong Chao BIAN,MessageProcessing,1/7/2016 10:23:27 AM,User Story,354343,[YC] #354343 Read from IotHub in strom processing module
+3625c1,Yong Chao BIAN,MessageProcessing,1/7/2016 7:19:26 AM,User Story,351806,[YC  HK] #351806 Add the survey processing module
+e36fa1,Yong Chao BIAN,MessageProcessing,1/7/2016 6:24:39 AM,unlinked,unlinked,[YC  HK] Add a rig client simulator console
+d28a5b,Xiao Lei Song,MessageProcessing,1/6/2016 2:33:50 AM,User Story,351806,[Sxl] #351806 Refactor it.ps1 code for MessageProcessing
+f98def,Xiao Lei Song,MessageProcessing,1/5/2016 10:52:58 AM,User Story,351806,[Sxl] #351806 Refactor it.ps1 code for MessageProcessing
+3ae5c4,Xiao Lei Song,MessageProcessing,1/5/2016 10:49:01 AM,User Story,351806,[Sxl] #351806 Refactor it.ps1 code for MessageProcessing
+80cabc,Xiao Lei Song,MessageProcessing,1/5/2016 10:15:25 AM,User Story,351806,[Sxl FT] #351806 make it pass
+f9e29b,Yong Chao BIAN,MessageProcessing,1/5/2016 8:55:14 AM,User Story,351806,[LQ  YC] #351806 Send survey messages in integration test
+07c88f,Yong Chao BIAN,MessageProcessing,1/5/2016 8:24:47 AM,User Story,351806,[LQ  YC] #351806 Update the encoding of nuspec to UTF8
+246e9b,Xiao Lei Song,MessageProcessing,1/5/2016 7:32:34 AM,User Story,351806,[Sxl FT] #351806 Refactor It code for MessageProcessing
+39659c,Yong Chao BIAN,MessageProcessing,1/5/2016 6:23:58 AM,User Story,351806,[LQ  YC] #351806 Wait longer time until IotHub message arrived
+055ade,Yong Chao BIAN,MessageProcessing,1/5/2016 6:13:42 AM,User Story,351806,[LQ  YC] #351806 Fix an exception when there's no message when receiving from IotHub
+e03199,LI Qin,MessageProcessing,1/5/2016 5:31:52 AM,User Story,351806,Revert "[LQ YC] #351806 update nuget feeds"  This reverts commit c1421001cb37b661aa08a164276ebd7fa2f
+210208,Yong Chao BIAN,MessageProcessing,1/5/2016 5:28:53 AM,User Story,351806,[YC  LQ] #351806 Correct the NuGetPackageVersion config
+c14210,LI Qin,MessageProcessing,1/5/2016 5:17:04 AM,User Story,351806,[LQ YC] #351806 update nuget feeds
+ebbf20,Xiaoyan Song,MessageProcessing,1/5/2016 5:03:31 AM,User Story,352497,[WJ SXY] #352497 Rename Push-Package to PackPush-NugetPackage
+65a1ce,LI Qin,MessageProcessing,1/5/2016 4:40:47 AM,User Story,351806,[YC LQ] #351806 add createIot package and fix provision
+a0d83b,Tong Feng,MessageProcessing,1/4/2016 11:13:49 AM,User Story,351806,[FT SXL] #351806 Resolve CD failure
+9e2729,Tong Feng,MessageProcessing,1/4/2016 10:36:19 AM,User Story,351806,[FT SXL] #351806 Auto create iot hub and storage if not exits
+71a27d,Xiaoyan Song,MessageProcessing,1/4/2016 9:33:19 AM,User Story,351806,[sxy  hj] #351806 refactor receiver related code
+1892cf,Xiaoyan Song,MessageProcessing,1/4/2016 8:57:51 AM,User Story,351806,[sxy  hj] #351806 remove receiveContext class
+5c9eb8,Xiaoyan Song,MessageProcessing,1/4/2016 8:42:48 AM,User Story,351806,[sxy  hj] #351806 extract strategy out of constructor
+92ca00,Xiaoyan Song,MessageProcessing,1/4/2016 8:45:29 AM,User Story,351806,[cj  sxy  hj] #351806 enable vitual studio to work with powershell in parallel
+3b620f,Yong Chao BIAN,MessageProcessing,1/4/2016 8:42:00 AM,User Story,351806,[LQ  YC] #351806 Add one message host receiver test
+b203e2,Yong Chao BIAN,MessageProcessing,1/4/2016 8:01:36 AM,User Story,351806,[LQ  YC] #351806 Add multiple messages test in integration test
+766ed3,Yong Chao BIAN,MessageProcessing,1/4/2016 7:53:38 AM,User Story,351806,[LQ  YC] #351806 Update the integration test case
+a1f822,LI Qin,MessageProcessing,1/4/2016 6:08:15 AM,User Story,351806,[LQ YC] #351806 it should depend on clean
+1eb08b,Yong Chao BIAN,MessageProcessing,1/4/2016 5:57:33 AM,User Story,351806,[LQ  YC] #351806 Implement integration test
+7a37a9,LI Qin,MessageProcessing,1/4/2016 5:37:27 AM,User Story,351806,[YC LQ] #351806 fix ut ct failure
+ca7af6,LI Qin,MessageProcessing,1/4/2016 3:52:18 AM,User Story,351806,[YC LQ] #351806 fix pkg failure
+64bdd5,Zhuyun DAI,PrismCore,1/15/2016 10:16:09 PM,unlinked,unlinked,[Prism] Support getting data in React data view.
+e5c066,Zhuyun DAI,PrismCore,1/15/2016 7:11:35 PM,unlinked,unlinked,[Prism] Fixed await deadlock.
+88dd45,Zhuyun DAI,PrismCore,1/13/2016 11:04:27 PM,unlinked,unlinked,[Prism] Apply pararrel queries to improve performance.
+a7d9ec,Zhuyun DAI,PrismCore,1/13/2016 7:43:22 PM,unlinked,unlinked,[Prism] Using async programing after upgrading to .net 4.5.
+7ca3f1,Zhuyun DAI,PrismCore,1/13/2016 6:53:30 PM,unlinked,unlinked,[Prism] Upgrade package dependencies in Data Framework.
+12f863,Zhuyun DAI,PrismCore,1/13/2016 4:45:43 PM,unlinked,unlinked,[Prism] Support configuring scale for performance test.
+0826a5,Zhuyun DAI,PrismCore,1/12/2016 11:08:04 PM,unlinked,unlinked,[Prism] Add a utility tool to write fake data to DB.
+3e7932,Zhuyun DAI,PrismCore,1/12/2016 8:15:27 PM,unlinked,unlinked,[Prism] Modify GetDataPointCount logic to iterate points instead of using CQL count(*) because count
+db88eb,Zhuyun DAI,PrismCore,1/8/2016 5:30:29 PM,unlinked,unlinked,[Prism] Add performance test page. This test does a pure Cassandra performance test.
+2e1602,Zhuyun DAI,PrismCore,1/7/2016 8:51:20 PM,unlinked,unlinked,[Prism] Add a new data view page implemented by React.
+51664e,Zhuyun DAI,PrismCore,1/5/2016 10:26:06 PM,unlinked,unlinked,[Prism] archive bash script to create Cassandra data folders and grant permissions in ubuntu.
+04e3be,Zhuyun DAI,PrismCore,1/5/2016 10:25:20 PM,unlinked,unlinked,[Prism] Update the versions of dependent packages.
+aa82ea,Yong Hao,Touch,1/5/2016 8:11:18 AM,error,305575,[HY LQ] #305575 code changes from code reivew comments
+74747b,LI Qin,Touch,1/5/2016 6:41:12 AM,User Story,350575,[LQ] #350575 re-factory
+64c1d4,LI Qin,Touch,1/4/2016 12:53:08 PM,User Story,350575,[LQ] #350575 fix integration test failure
+54993a,Xiao Lei Song,WITSML,1/5/2016 3:39:28 AM,User Story,351073,[Sxl] #351073 change server deploy config
+a67b27,Xiao Lei Song,WITSML,1/5/2016 3:34:26 AM,User Story,351073,[Sxl] #351073 split cloud service deploy as 2 step
+881d65,Xiao Lei Song,WITSML,1/4/2016 1:53:54 PM,User Story,351073,[Sxl] #351073 Refactor Login Param  it can login with sm and rm mode
+e7699a,Xiao Lei Song,WITSML,1/4/2016 12:35:08 PM,User Story,351073,[Sxl] #351073 Add create storage account feature for AzureDeploy.ps1
+82af0a,Xiao Lei Song,WITSML,1/4/2016 4:37:46 AM,error,3,[Sxl] #3

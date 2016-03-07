@@ -1,0 +1,22 @@
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.WITDataStore.dll
+D:\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\TFS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.WITDataStore.dll
+D:\TFS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\TFS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\TFS\Sprint Query\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\TFS\Sprint Query\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\TFS\Sprint Query\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\TFS\Sprint Query\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\TFS\Sprint Query\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\TFS\Sprint Query\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\TFS\Sprint Query\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.WITDataStore.dll

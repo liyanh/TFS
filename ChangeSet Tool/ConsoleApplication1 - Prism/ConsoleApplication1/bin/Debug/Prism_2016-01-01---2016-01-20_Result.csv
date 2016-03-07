@@ -1,0 +1,39 @@
+ChangesetID,Owner,Group,CreateDate,LinkedType,LinkedId,Comment
+86ab01,Prism Build Account,Archive,1/15/2016 2:15:16 PM,unlinked,unlinked,daily backup of Jenkins config files
+c30ec4,Prism Build Account,Archive,1/14/2016 2:15:12 PM,unlinked,unlinked,daily backup of Jenkins config files
+e8b73f,Prism Build Account,Archive,1/13/2016 2:15:10 PM,unlinked,unlinked,daily backup of Jenkins config files
+190eae,Prism Build Account,Archive,1/12/2016 2:15:15 PM,unlinked,unlinked,daily backup of Jenkins config files
+80dcaf,Prism Build Account,Archive,1/11/2016 2:15:07 PM,unlinked,unlinked,daily backup of Jenkins config files
+5d703f,Prism Build Account,Archive,1/8/2016 2:15:10 PM,unlinked,unlinked,daily backup of Jenkins config files
+9b60e9,Prism Build Account,Archive,1/7/2016 2:15:10 PM,unlinked,unlinked,daily backup of Jenkins config files
+d93019,Prism Build Account,Archive,1/5/2016 2:15:30 PM,unlinked,unlinked,daily backup of Jenkins config files
+02c3f9,Prism Build Account,Archive,1/4/2016 2:15:28 PM,unlinked,unlinked,daily backup of Jenkins config files
+55a0dc,Hui Qiu,CDaas,1/18/2016 9:33:43 AM,User Story,352503,[QH WJ] #352503 update update folder structure.
+b1c419,Alien Jian Wang,CDaas,1/18/2016 9:24:58 AM,User Story,355957,[WJ QH] #355957 Add unit test for updating pipeline.
+166576,Hui Qiu,CDaas,1/18/2016 9:24:19 AM,User Story,352503,[QH WJ] #352503 update update folder structure.
+f37f31,Hui Qiu,CDaas,1/18/2016 9:11:06 AM,User Story,352503,[QH WJ] #352503 update update folder structure.
+fcb792,Hui Qiu,CDaas,1/18/2016 8:59:20 AM,User Story,352503,[QH WJ] #352503 update api key
+cfcc68,Hui Qiu,CDaas,1/18/2016 8:50:04 AM,User Story,352503,[qh wj] #352503 del username and token.
+839d08,Hui Qiu,CDaas,1/18/2016 8:46:05 AM,User Story,352503,[qh wj] #352503 create pipeline fix bug.
+e37bce,Hui Qiu,CDaas,1/18/2016 8:10:23 AM,User Story,352503,[qh wj] #352503 update view template.
+77e7a1,Hui Qiu,CDaas,1/18/2016 8:06:33 AM,User Story,352503,[qh wj] #352503 fix cdaas test fail.
+63f123,Hui Qiu,CDaas,1/18/2016 7:24:43 AM,User Story,352503,[QH WJ] #352503 delete unnecessary parameters.
+0f4eb7,Alien Jian Wang,CDaas,1/18/2016 7:24:45 AM,User Story,355957,[WJ QH] #355957 Change the update parameters.
+0492fc,Alien Jian Wang,CDaas,1/18/2016 6:00:56 AM,User Story,355957,[WJ QH] #355957 Fix bug.
+e2ecca,Alien Jian Wang,CDaas,1/18/2016 6:21:30 AM,User Story,355957,[WJ QH] #355957 Change the path.
+5ddc6e,Hui Qiu,CDaas,1/18/2016 6:09:19 AM,User Story,352503,[qh wj] #352503 refactor
+a94d27,Hui Qiu,CDaas,1/18/2016 3:32:23 AM,User Story,352503,[QH WJ] #352503 delete useless file.
+81cee6,Alien Jian Wang,CDaas,1/18/2016 3:31:01 AM,User Story,355957,[WJ QH] #355957 Fix bug.
+11aff9,Alien Jian Wang,CDaas,1/15/2016 9:53:58 AM,User Story,355957,[WJ QH] #355957 Add Update Defination framework.
+cb5d68,Hui Qiu,CDaas,1/15/2016 9:36:24 AM,User Story,352503,[QH WJ] #352503 refactor code bad smell.
+35930b,Alien Jian Wang,CDaas,1/15/2016 9:29:30 AM,User Story,355957,[WJ QH] #355957 Add Update Defination framework.
+1eb62d,Hui Qiu,CDaas,1/15/2016 3:23:44 AM,User Story,352503,[QH WJ] #352503 renaming
+ab6b4c,Alien Jian Wang,CDaas,1/15/2016 3:05:13 AM,User Story,352503,[WJ QH] #352503 Add local or server config for package scaforld.
+79a24e,Hui Qiu,CDaas,1/15/2016 2:51:04 AM,User Story,352503,[QH WJ] #352503 delete useless test.
+5de4e7,Hui Qiu,CDaas,1/15/2016 2:49:45 AM,User Story,352503,[QH WJ] #352503 delete useless test.
+b4d5c5,Alien Jian Wang,CDaas,1/14/2016 9:36:22 AM,User Story,352503,[WJ QH] #352503 Change nuspec to nuspec1 for package upload.
+ee96db,Alien Jian Wang,CDaas,1/14/2016 8:29:22 AM,User Story,352503,[WJ QH] #352503 Change lp preview qa the type for get packages.
+386862,Alien Jian Wang,CDaas,1/14/2016 8:11:31 AM,User Story,352503,[WJ QH] #352503 Add production task to template.
+66d3b9,Alien Jian Wang,CDaas,1/14/2016 8:07:49 AM,User Story,352503,[WJ QH] #352503 change push pkg function to common.
+3698a5,Hui Qiu,CDaas,1/14/2016 7:31:31 AM,User Story,352503,[QH WJ] #352503 update .gitignore
+888c60,Hui Qiu,CDaas,1/14/2016 7:28:17 

@@ -1,0 +1,44 @@
+Sprint original estimation of real time team
+Name,Sum of Original Estimate,Sum of Completed Work
+Xiao Lei Song,56,48
+LI Qin,60,60
+WANG Yu(InterACT),24,55
+Yinhua Zhao,44,20
+,0,0
+Yong Chao BIAN,48,38
+Tong Feng,80,48
+XiaoBin DENG,60,60
+Pascal Hochart,20,21
+Dandan Li,60,50
+Xiaoyan Song,8,4
+Limin YUE,32,12
+
+
+Activity VS effort
+Activity,Sum of Original Estimate,% Original,Sum of Completed Work,% Real
+(blank),238,48.37%,237,56.97%
+Development,178,36.18%,122,29.33%
+Deployment,8,1.63%,8,1.92%
+Documentation,20,4.07%,19,4.57%
+Testing,48,9.76%,18,4.33%
+Requirements,0,0.00%,12,2.88%
+Grand Total,492,1,416,1
+
+
+StoryID, Assigned To, Status,Story Point,Task Complted,Title
+364212,Tong Feng,Closed,6,4,[Tech][Kickoff] Survey: Replace Storm with Service Fabric for view survey workflow
+367433,WANG Yu(InterACT),New,1,0.75,Unit Test coverage
+369883,Yong Chao BIAN,Closed,4,4.5,[Tech][Kickoff] Audit Logging are collected thru ElasticSearch+Kibana
+370591,Pascal Hochart,Resolved,4,2.625,[Tech] WebAPI documentation publication through Swagger for process reviews
+377279,LI Qin,Closed,3,2.25,[Tech][KickOff] Audit Logging: Rename service name from AuditTrail to AuditLogging
+377411,Xiao Lei Song,Active,3,1.5,[Kickoff] Survey: Multiple surveys published from different well and remote monitored (Pub/Sub Enablement)
+383307,Xiao Lei Song,Closed,4,4,[Kickoff][Tech] Prepare for Developing Listener Service
+383313,,New,4,0,Audit Logging : Integrates with ETP like producer message context
+383324,,New,null,1,Device Provisioning
+383357,WANG Yu(InterACT),Resolved,8,8,[Kickoff]Audit Logging: As multiple surveys are published from different wells, can audit particular well publication
+385672,Dandan Li,Active,null,2,KPI Dashboard
+386458,WANG Yu(InterACT),New,2,0.125,[Tech] Audit Logging: ElasticSearch Queriability in support of AuditLogging Service
+Sum
+All Story Points,39
+Closed Story Points,17
+Completed Tasks Points,44.5

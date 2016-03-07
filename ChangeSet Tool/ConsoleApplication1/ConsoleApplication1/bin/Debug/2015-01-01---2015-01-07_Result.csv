@@ -1,0 +1,161 @@
+ChangesetID,Owner,Group,CreateDate,Branch,LinkID,LinkType,Comment
+10908,RTTFSBuild,others,1/7/2015 7:31:52 PM,InterACT Core/Sources/Dev/,21878,Task,fix bug 21878 the dialog title word wrap issue for wellview application***NO_CI***
+10907,Ning Guo,others,1/7/2015 6:03:12 PM,InterACT Core/QATest/Dev/,,,nguo
+10906,Ning Guo,others,1/7/2015 5:58:32 PM,InterACT Core/QATest/Dev/,,,nguo
+10905,Yong Hao,QA,1/7/2015 5:46:29 PM,InterACT Core/QATest/Dev/,,,change to reference dll instead of project 
+10904,Chunxia Yang,others,1/7/2015 5:44:29 PM,InterACT Core/QATest/Dev/,,,try to fix unstable issue
+10903,RTTFSBuild,others,1/7/2015 5:37:44 PM,InterACT Core/Sources/Dev/,29248,User Story,Update help page for web api***NO_CI***
+10903,RTTFSBuild,others,1/7/2015 5:37:44 PM,InterACT Core/Sources/Dev/,20683,User Story,Update help page for web api***NO_CI***
+10902,Yong Chao BIAN,Real time,1/7/2015 5:36:14 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Fix selectedwellbore failure
+10901,Yong Hao,QA,1/7/2015 5:29:55 PM,InterACT Core/QATest/Dev/,,,update relative build output path
+10900,RTTFSBuild,others,1/7/2015 5:07:14 PM,InterACT Core/Sources/Dev/,21675,Task,Filter requestContextInfo query results by white list***NO_CI***
+10899,RTTFSBuild,others,1/7/2015 5:07:04 PM,InterACT Core/Sources/Dev/,21191,Bug,[Touch]fix bug 21191***NO_CI***
+10898,Angelo Ping Yin,others,1/7/2015 5:05:45 PM,InterACT Core/Sources/Dev/,,,Fix to ConfigFileFullName param name to use absolute configfile path
+10897,Yong Chao BIAN,Real time,1/7/2015 4:56:10 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Send mail notification when there's no channel to check
+10896,Yong Chao BIAN,Real time,1/7/2015 4:51:49 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Aggregate mail notification
+10895,Yong Hao,QA,1/7/2015 4:47:49 PM,InterACT Core/QATest/Dev/,,,add build configuration
+10894,RTTFSBuild,others,1/7/2015 4:32:04 PM,InterACT Core/Sources/Dev/,22705,Bug,fix realtime file size inconsistent issue in demo service***NO_CI***
+10893,Yong Hao,QA,1/7/2015 4:24:00 PM,InterACT Core/QATest/Dev/,,,update relative output path
+10892,Yong Chao BIAN,Real time,1/7/2015 4:11:29 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Log timeout information to log file
+10891,Ning Guo,others,1/7/2015 4:03:47 PM,InterACT Core/QATest/Dev/,,,nguo
+10890,Yong Chao BIAN,Real time,1/7/2015 3:57:15 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Add log when application startup and shutdown
+10889,RTTFSBuild,others,1/7/2015 3:57:10 PM,InterACT Core/Sources/Dev/,21676,Task,Refine white list and fix white list not working for empty string.***NO_CI***
+10888,Chunxia Yang,others,1/7/2015 3:50:18 PM,InterACT Core/QATest/Dev/,,,update code
+10887,Zhuyun Dai,Data delivery,1/7/2015 3:48:03 PM,InterACT Core/Sources/DevFTA/,21857,Task,[FTA] A web API for downloading file.
+10886,Yong Hao,QA,1/7/2015 3:39:27 PM,InterACT Core/QATest/Dev/,,,project build path use relative
+10885,Yizhou WANG,Real time,1/7/2015 3:37:15 PM,InterACT Core/DevTools/StatoilMonitorTool/,,,Creeate StatOil Witsml Log monitor project and UIs
+10884,Yong Chao BIAN,Real time,1/7/2015 3:13:14 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Fix logs filter not loaded on startup
+10883,RTTFSBuild,others,1/7/2015 2:59:45 PM,InterACT Core/Sources/Dev/,21809,Task,[Setup] Bootstrapper should check argument name correctness on command line.***NO_CI***
+10882,RTTFSBuild,others,1/7/2015 2:15:54 PM,InterACT Core/Sources/Dev/,29248,User Story,Add online document for web api***NO_CI***
+10882,RTTFSBuild,others,1/7/2015 2:15:54 PM,InterACT Core/Sources/Dev/,20683,User Story,Add online document for web api***NO_CI***
+10881,Yong Chao BIAN,Real time,1/7/2015 2:09:46 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Expand the root of channels tree
+10880,Yong Chao BIAN,Real time,1/7/2015 1:54:56 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Keep 2 digits precision of depth index
+10879,Yong Chao BIAN,Real time,1/7/2015 1:51:43 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Send mail notification when active log changes
+10878,Ning Guo,others,1/7/2015 1:51:27 PM,InterACT Core/QATest/Dev/,,,nguo
+10877,Yong Hao,QA,1/7/2015 1:41:13 PM,InterACT Core/QATest/Dev/,,,
+10876,Angelo Ping Yin,others,1/7/2015 10:58:46 AM,InterACT Core/Sources/Dev/,21834,Task,Update to use InterACT Setup default config file in setup or update folder
+10863,Yong Chao BIAN,Real time,1/6/2015 10:09:21 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Make regex IgnoreCase instead of calling tolower
+10862,Yong Chao BIAN,Real time,1/6/2015 10:02:39 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Make log filter case insensitive
+10861,Yong Chao BIAN,Real time,1/6/2015 9:47:41 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Save top_to_bottom log name to configuration file
+10860,Yong Chao BIAN,Real time,1/6/2015 9:14:31 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Fix password filed is not correct in settings view model
+10859,Yong Chao BIAN,Real time,1/6/2015 8:47:08 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Fix spot check time is not correct
+10858,Rama Prasad,Photon,1/6/2015 7:49:07 PM,InterACT Core/Sources/MainPX/,,,Iteration5 Freeze - DevPX (10857)
+10857,Rama Prasad,Photon,1/6/2015 7:46:47 PM,InterACT Core/Sources/DevPX/,,,Iteration5 Freeze - References update
+10856,RTTFSBuild,others,1/6/2015 7:23:41 PM,InterACT Core/Sources/Dev/,29248,User Story,Add online document for web api***NO_CI***
+10856,RTTFSBuild,others,1/6/2015 7:23:41 PM,InterACT Core/Sources/Dev/,20683,User Story,Add online document for web api***NO_CI***
+10855,Senthil Kumar,Photon,1/6/2015 7:14:56 PM,InterACT Core/Sources/DevPX/,,,Condition for Calling Templates and Conversation files removed
+10853,Ning Guo,others,1/6/2015 6:12:44 PM,InterACT Core/QATest/Dev/,,,nguo update test case 13900
+10852,RTTFSBuild,others,1/6/2015 5:45:12 PM,InterACT Core/Sources/Dev/,21672,Task,valid dataInputStatus***NO_CI***
+10851,Ning Guo,others,1/6/2015 5:40:29 PM,InterACT Core/QATest/Dev/,,,nguo update action and object
+10850,Ning Guo,others,1/6/2015 5:37:45 PM,InterACT Core/QATest/Dev/,,,nguo update case 13898,16399
+10849,Yong Hao,QA,1/6/2015 5:30:36 PM,InterACT Core/QATest/Dev/,,,test suite changing
+10848,Yong Hao,QA,1/6/2015 5:27:34 PM,InterACT Core/QATest/Dev/,,,restructure
+10847,RTTFSBuild,others,1/6/2015 5:08:07 PM,InterACT Core/Sources/Dev/,21804,Task,Change config tool to support changing 4 vitual directories.***NO_CI***
+10846,Chunlan HAN,Data delivery,1/6/2015 5:04:50 PM,InterACT Core/QATest/Dev/,,,Update SLB account password in App.config
+10845,Yong Hao,QA,1/6/2015 5:04:05 PM,InterACT Core/QATest/Dev/,,,a
+10844,Yong Hao,QA,1/6/2015 5:03:25 PM,InterACT Core/QATest/Dev/,,,Add htmlanchor searching by parameter
+10843,Yong Hao,QA,1/6/2015 4:59:38 PM,InterACT Core/QATest/Dev/,,,add witsml streaming section finding
+10842,Yong Chao BIAN,Real time,1/6/2015 2:46:24 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Select channel tab when selecting a wellbore
+10841,Yong Chao BIAN,Real time,1/6/2015 2:36:46 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Update trace message
+10840,Yong Chao BIAN,Real time,1/6/2015 2:34:34 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Refactor
+10839,Yong Chao BIAN,Real time,1/6/2015 2:28:47 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Fix imported channels are not correctly saved and loaded
+10838,Yong Chao BIAN,Real time,1/6/2015 1:55:42 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Fix exception when adding toptobottom wellbore
+10837,Yong Chao BIAN,Real time,1/6/2015 1:53:18 PM,InterACT Core/DevTools/StatoilMonitorTool/,,,Refactor: Move avaliable channels and imported channels to wellbore model
+10836,RTTFSBuild,others,1/6/2015 1:23:40 PM,InterACT Core/Sources/Dev/,21187,Bug,[Touch]fix bug 21187***NO_CI***
+10835,Zhuyun Dai,Data delivery,1/6/2015 11:45:52 AM,InterACT Core/Sources/DevFTA/,,,[Merge] Regular merge from Dev to DevFTA
+10834,RTTFSBuild,others,1/6/2015 11:18:40 AM,InterACT Core/Sources/Dev/,21377,Bug,Bug 21377:[Touch]Setting dialog should be closed if user clicks on other panel***NO_CI***
+10833,Yong Chao BIAN,Real time,1/6/2015 11:02:57 AM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Refactor
+10832,RTTFSBuild,others,1/6/2015 10:28:09 AM,InterACT Core/Sources/Dev/,21676,Task,fix built output path for PublishServer.UnitTest***NO_CI***
+10831,Zhuyun Dai,Data delivery,1/6/2015 9:26:55 AM,InterACT Core/Sources/DevFTA/,,,[Merge] Regular merge from Dev to DevFTA.
+10813,Rama Prasad,Photon,1/5/2015 10:24:52 PM,InterACT Core/Sources/MainPX/,,,Iteration5 Freeze - DevPX (10812)
+10812,Rama Prasad,Photon,1/5/2015 10:21:45 PM,InterACT Core/Sources/DevPX/,,,Iteration5 Freeze - NoChange reverted
+10811,RTTFSBuild,others,1/5/2015 8:50:15 PM,InterACT Core/Sources/Dev/,21761,Task,Change default install config file for all the shared folder path***NO_CI***
+10810,Tamilselvan Purushothaman,Photon,1/5/2015 8:21:14 PM,InterACT Core/Sources/DevPX/,,,Handled Null Exception Error - Fixed
+10809,RTTFSBuild,others,1/5/2015 8:12:38 PM,InterACT Core/Sources/Dev/,21191,Bug,[Touch]fix bug 21191***NO_CI***
+10808,RTTFSBuild,others,1/5/2015 6:53:45 PM,InterACT Core/Sources/Dev/,29248,User Story,fix bug in web api***NO_CI***
+10808,RTTFSBuild,others,1/5/2015 6:53:45 PM,InterACT Core/Sources/Dev/,20683,User Story,fix bug in web api***NO_CI***
+10807,RTTFSBuild,others,1/5/2015 5:40:13 PM,InterACT Core/Sources/Dev/,29248,User Story,Fix bug in webapi***NO_CI***
+10807,RTTFSBuild,others,1/5/2015 5:40:13 PM,InterACT Core/Sources/Dev/,20683,User Story,Fix bug in webapi***NO_CI***
+10806,Rama Prasad,Photon,1/5/2015 5:39:41 PM,InterACT Core/Sources/MainPX/,,,Iteration5 Freeze - DevPX (10805)
+10805,Rama Prasad,Photon,1/5/2015 5:37:43 PM,InterACT Core/Sources/DevPX/,,,Iteration5 Freeze - File version update
+10804,RTTFSBuild,others,1/5/2015 5:02:00 PM,InterACT Core/Sources/Dev/,21742,Task,Fix this bug by navigate the page to security check page***NO_CI***
+10803,RTTFSBuild,others,1/5/2015 5:01:51 PM,InterACT Core/Sources/Dev/,19282,Bug,Fix bug 19282 [Touch][GroupTest]Unit is cut in Channel list***NO_CI***
+10802,Yong Chao BIAN,Real time,1/5/2015 4:56:16 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Update the datagrid style
+10801,Limin YUE,Real time,1/5/2015 4:53:09 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Update time format in information/bottom bar
+10800,RTTFSBuild,others,1/5/2015 4:26:12 PM,InterACT Core/Sources/Dev/,21185,Bug,[Touch]fix bug 21185***NO_CI***
+10799,RTTFSBuild,others,1/5/2015 4:26:03 PM,InterACT Core/Sources/Dev/,19749,Bug,Bug 19749:[Touch]Full path bar will be moved after switching between horizontal and vertical view***NO_CI***
+10798,Yong Chao BIAN,Real time,1/5/2015 4:22:59 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Log WITSML API response to file
+10797,RTTFSBuild,others,1/5/2015 3:48:38 PM,InterACT Core/Sources/Dev/,21676,Task,refine RegexWhiteList***NO_CI***
+10796,Kai Xuan ZHANG,others,1/5/2015 3:20:54 PM,InterACT Core/DevTools/VTViewerIAETool/,9685,User Story,Enhance the 3rd DLL copy logic.
+10795,Yong Chao BIAN,Real time,1/5/2015 3:07:03 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Move the datetime format logic from model to view
+10794,RTTFSBuild,others,1/5/2015 2:37:19 PM,InterACT Core/Sources/Dev/,21608,Bug,Fix bug 21608 [Touch]Go to section, 15 mins was not set as default setting***NO_CI***
+10793,Yong Chao BIAN,Real time,1/5/2015 2:36:24 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Save log filter configuration and load the configuration on startup
+10792,Chunxia Yang,others,1/5/2015 2:22:58 PM,InterACT Core/QATest/Dev/,,,add loader cases
+10791,Chunxia Yang,others,1/5/2015 2:19:26 PM,InterACT Core/QATest/Dev/,,,add loader cases
+10790,Yong Hao,QA,1/5/2015 2:07:32 PM,InterACT Core/QATest/Dev/,,,add new features
+10789,Yong Chao BIAN,Real time,1/5/2015 1:43:06 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Do not close add wellbore window after adding a wellbore
+10788,Yong Hao,QA,1/5/2015 1:38:21 PM,InterACT Core/QATest/Dev/,,,restore daily test with pretest code
+10787,Yong Chao BIAN,Real time,1/5/2015 1:37:11 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Change error message when the data format not recognized
+10786,Yong Chao BIAN,Real time,1/5/2015 1:33:44 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Change the default datetime format
+10785,RTTFSBuild,others,1/5/2015 12:34:12 PM,InterACT Core/Sources/Dev/,,,[Merge] From dev-imds to Dev***NO_CI***
+10784,Yong Hao,QA,1/5/2015 12:09:39 PM,InterACT Core/QATest/Dev/,,,new features added
+10783,Yong Hao,QA,1/5/2015 12:08:56 PM,InterACT Core/QATest/Dev/,,,new feature added
+10782,Zhiwei WANG,others,1/5/2015 11:44:42 AM,InterACT Core/Sources/Dev-iMDS/,21675,Task,Filter PUML query results by white list
+10781,Tong Feng,Data delivery,1/5/2015 11:43:56 AM,InterACT Core/Sources/Dev-iMDS/,20949,Task,Check distributionJobId duplication before private section create and edit
+10780,Yong Hao,QA,1/5/2015 10:17:46 AM,InterACT Core/QATest/Dev/,,,provide configurable execution account
+10778,Yong Chao BIAN,Real time,1/4/2015 9:17:58 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Check server, username, password before monitoring
+10777,Yong Chao BIAN,Real time,1/4/2015 8:57:17 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Fix channel selection not working
+10776,Yong Chao BIAN,Real time,1/4/2015 8:29:05 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Change background color of DiffMD column on startup
+10775,Yong Chao BIAN,Real time,1/4/2015 8:19:18 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Enable color on imported channel list
+10774,Yong Chao BIAN,Real time,1/4/2015 8:03:36 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Use different color when there are lagged channels in avaliable channels list
+10773,Yong Chao BIAN,Real time,1/4/2015 7:30:53 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Select wellbore and channels to enable/disable mail notification
+10772,Shuping LIU,Visualization,1/4/2015 7:27:00 PM,InterACT Core/Sources/Dev-iMDS/,21668,Task,Task 21668 remove security vulnerabilites in audit trail page 
+10771,Yong Chao BIAN,Real time,1/4/2015 7:21:20 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Support ft when calculating lagged channel number
+10770,Yong Chao BIAN,Real time,1/4/2015 7:14:11 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Move data formatting logic from model to view
+10769,Rama Prasad,Photon,1/4/2015 6:20:24 PM,InterACT Core/Sources/MainPX/,,,Iteration5 Freeze - DevPX (10768)
+10768,Rama Prasad,Photon,1/4/2015 6:17:03 PM,InterACT Core/Sources/DevPX/,,,Iteration5 Freeze - References fixes
+10767,Yong Chao BIAN,Real time,1/4/2015 6:03:20 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Fix channel request time is set to 0 when querying header
+10766,RTTFSBuild,others,1/4/2015 6:00:38 PM,InterACT Core/Sources/Dev/,21185,Bug,[Touch]fix bug 21185***NO_CI***
+10765,Yong Chao BIAN,Real time,1/4/2015 5:47:18 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Enable progress bar
+10764,Chunlan HAN,Data delivery,1/4/2015 5:41:43 PM,InterACT Core/QATest/Dev/,,,Update DataExchange server URL from ResourceIDs.cs
+10763,Limin YUE,Real time,1/4/2015 5:34:06 PM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Enhance some minor functions
+10762,Yong Hao,QA,1/4/2015 5:28:32 PM,InterACT Core/QATest/Dev/,,,Add Both Administrator/SmokeAdmin
+10761,Yong Hao,QA,1/4/2015 5:28:04 PM,InterACT Core/QATest/Dev/,,,Add Both Administrator/SmokeAdmin
+10760,RTTFSBuild,others,1/4/2015 5:24:56 PM,InterACT Core/Sources/Dev/,29248,User Story,Fix bug in new web api***NO_CI***
+10760,RTTFSBuild,others,1/4/2015 5:24:56 PM,InterACT Core/Sources/Dev/,20683,User Story,Fix bug in new web api***NO_CI***
+10759,Chunxia Yang,others,1/4/2015 5:22:36 PM,InterACT Core/QATest/Dev/,,,add 13900
+10758,Yong Hao,QA,1/4/2015 4:38:28 PM,InterACT Core/QATest/Dev/,,,a
+10757,Yong Hao,QA,1/4/2015 4:28:09 PM,InterACT Core/QATest/Dev/,,,a
+10756,Yong Hao,QA,1/4/2015 4:19:21 PM,InterACT Core/QATest/Dev/,,,a
+10755,Yong Hao,QA,1/4/2015 4:19:03 PM,InterACT Core/QATest/Dev/,,,a
+10754,Chunxia Yang,others,1/4/2015 4:12:39 PM,InterACT Core/QATest/Dev/,,,add new files
+10753,Chunxia Yang,others,1/4/2015 4:09:50 PM,InterACT Core/QATest/Dev/,,,merge component code
+10752,Yong Hao,QA,1/4/2015 3:31:36 PM,InterACT Core/QATest/Dev/,,,a
+10751,Yong Hao,QA,1/4/2015 3:29:31 PM,InterACT Core/QATest/Dev/,,,a
+10750,Chunlan HAN,Data delivery,1/4/2015 3:24:29 PM,InterACT Core/QATest/Dev/,,,Update WITSML streaming
+10749,Chunxia Yang,others,1/4/2015 2:37:45 PM,InterACT Core/QATest/Dev/,,,bug fix
+10748,Yong Hao,QA,1/4/2015 1:45:05 PM,InterACT Core/QATest/Dev/,,,progress
+10747,Yong Hao,QA,1/4/2015 1:22:43 PM,InterACT Core/QATest/Dev/,,,a
+10746,Yong Hao,QA,1/4/2015 1:08:24 PM,InterACT Core/QATest/Dev/,,,Automation Code Restructure
+10745,RTTFSBuild,others,1/4/2015 1:06:42 PM,InterACT Core/Sources/Dev/,17407,User Story,revert change on slide animation***NO_CI***
+10744,Chunxia Yang,others,1/4/2015 1:01:56 PM,InterACT Core/QATest/Dev/,,,fix an error
+10743,Chunxia Yang,others,1/4/2015 12:58:49 PM,InterACT Core/QATest/Dev/,,,fix en error
+10742,RTTFSBuild,others,1/4/2015 12:13:59 PM,InterACT Core/Sources/Dev/,17407,User Story,Fix bug a lot of false hits  from marc***NO_CI***
+10741,WANG Yu(InterACT),Real time,1/4/2015 11:12:40 AM,InterACT Core/DevTools/DataImportExportAutoTest/,,,change solution configuration.
+10740,Yong Chao BIAN,Real time,1/4/2015 11:01:01 AM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Change the default window size and position
+10739,Yong Chao BIAN,Real time,1/4/2015 10:59:14 AM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Filter logs with wildcard
+10738,Yong Hao,QA,1/4/2015 10:54:35 AM,InterACT Core/QATest/Dev/,,,RestructureQA Test Code
+10737,Yong Hao,QA,1/4/2015 10:49:29 AM,InterACT Core/QATest/Dev/,,,Restructure Automation code branch
+10736,Yong Hao,QA,1/4/2015 10:48:32 AM,InterACT Core/QATest/Dev/,,,Restructure Automation Code Branch
+10735,Zhuyun Dai,Data delivery,1/4/2015 10:32:32 AM,InterACT Core/Sources/DevFTA/,,,[Merge] Regular merge from Dev to DevFTA
+10734,Chunxia Yang,others,1/4/2015 10:14:06 AM,InterACT Core/QATest/Dev/,,,update file path
+10733,Yong Chao BIAN,Real time,1/4/2015 10:02:42 AM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Catch sending mail exception
+10732,Chunxia Yang,others,1/4/2015 9:39:32 AM,InterACT Core/QATest/Dev/,,,data exchange cases
+10731,Chunxia Yang,others,1/4/2015 9:38:52 AM,InterACT Core/QATest/Dev/,,,fix an error
+10730,Rama Prasad,Photon,1/4/2015 3:26:09 AM,InterACT Core/Sources/MainPX/,,,Iteration5 Freeze - DevPX (10729)
+10729,Rama Prasad,Photon,1/4/2015 3:23:31 AM,InterACT Core/Sources/DevPX/,,,Iteration5 Freeze - Web.Config update in PorwerShell (proximity & RTServices)
+10728,Yong Chao BIAN,Real time,1/4/2015 12:40:02 AM,InterACT Core/DevTools/StatoilMonitorTool/,20643,User Story,Add mail notification
+10727,Tong Feng,Data delivery,1/3/2015 12:50:53 AM,InterACT Core/DevTools/IAFileUpload/,,,Refactor Fileupload to use common web request helper
+10726,Tong Feng,Data delivery,1/2/2015 11:53:24 PM,InterACT Core/DevTools/IAFileUpload/,,,Make account generator an exe
+10725,RTTFSBuild,others,1/2/2015 10:06:56 PM,InterACT Core/DevTools/IAFileUpload/,,,Change Api Test to generate data in new organization***NO_CI***
+10724,Tong Feng,Data delivery,1/1/2015 10:22:59 PM,InterACT Core/DevTools/IAFileUpload/,,,Achieve the function of generating user accounts as well as a code generator

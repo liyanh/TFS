@@ -1,0 +1,593 @@
+ChangesetID,Owner,Group,CreateDate,Comment
+e8b73f,Prism Build Account,Archive,1/13/2016 2:15:10 PM,daily backup of Jenkins config files
+190eae,Prism Build Account,Archive,1/12/2016 2:15:15 PM,daily backup of Jenkins config files
+80dcaf,Prism Build Account,Archive,1/11/2016 2:15:07 PM,daily backup of Jenkins config files
+5d703f,Prism Build Account,Archive,1/8/2016 2:15:10 PM,daily backup of Jenkins config files
+9b60e9,Prism Build Account,Archive,1/7/2016 2:15:10 PM,daily backup of Jenkins config files
+d93019,Prism Build Account,Archive,1/5/2016 2:15:30 PM,daily backup of Jenkins config files
+02c3f9,Prism Build Account,Archive,1/4/2016 2:15:28 PM,daily backup of Jenkins config files
+981489,Prism Build Account,Archive,12/31/2015 2:15:14 PM,daily backup of Jenkins config files
+49587e,Prism Build Account,Archive,12/30/2015 2:15:12 PM,daily backup of Jenkins config files
+1a8684,Prism Build Account,Archive,12/29/2015 2:15:11 PM,daily backup of Jenkins config files
+238a9a,Prism Build Account,Archive,12/28/2015 2:15:08 PM,daily backup of Jenkins config files
+97ce10,Prism Build Account,Archive,12/24/2015 2:15:15 PM,daily backup of Jenkins config files
+0785d7,Prism Build Account,Archive,12/21/2015 2:15:07 PM,daily backup of Jenkins config files
+420809,Prism Build Account,Archive,12/18/2015 2:15:08 PM,daily backup of Jenkins config files
+a60613,Prism Build Account,Archive,12/17/2015 2:15:26 PM,daily backup of Jenkins config files
+7c9c94,Prism Build Account,Archive,12/16/2015 2:15:28 PM,daily backup of Jenkins config files
+087988,Prism Build Account,Archive,12/15/2015 2:15:13 PM,daily backup of Jenkins config files
+5904a4,Prism Build Account,Archive,12/15/2015 3:57:58 AM,daily backup of Jenkins config files
+7deff2,Prism Build Account,Archive,12/15/2015 3:56:44 AM,daily backup of Jenkins config files
+befb7e,Alien Jian Wang,CDaas,1/13/2016 8:07:15 AM,[WJ QH] #352503 publish scaffold to nuget server.
+1c7d51,Alien Jian Wang,CDaas,1/13/2016 6:18:18 AM,[qh wj] #352503 update code.
+a08ec8,Hui Qiu,CDaas,1/13/2016 5:51:47 AM,[wj qh] #352503 copy yaml file to target dir.
+e84db0,Alien Jian Wang,CDaas,1/13/2016 5:37:58 AM,[QH WJ] #352503 set default username and password values.
+e949f9,Alien Jian Wang,CDaas,1/13/2016 3:28:03 AM,[QH WJ] #352503 Change directory structure.
+ca18c5,Alien Jian Wang,CDaas,1/13/2016 2:57:55 AM,[QH WJ] #352503 Add small yaml template.
+499a58,Alien Jian Wang,CDaas,1/12/2016 9:36:30 AM,[WJ WB] #355957 Add and delete jobs in pipeline.
+44a9f2,Hui Qiu,CDaas,1/12/2016 7:56:58 AM,[yl qh] #355949 add preview task.
+6148b9,Alien Jian Wang,CDaas,1/12/2016 3:28:41 AM,[WB WJ] #355957 Update pipeline framework.
+71f212,Yong Hao,CDaas,1/12/2016 3:16:05 AM,[DY HY]#355962 update build defintion
+16da22,Yong Hao,CDaas,1/8/2016 3:05:24 AM,[CJ HY] #352497 publish & provision refactor  %->? changing
+7ffeaf,Hui Qiu,CDaas,1/11/2016 9:50:58 AM,[yl qh] #355949 fix bug.
+eff7a6,Hui Qiu,CDaas,1/11/2016 9:08:36 AM,[YL QH] #355949 auto set publish test result in yaml file.
+22532c,dzhang5,CDaas,1/11/2016 8:33:42 AM,[WB DY] #355940 Add update jenkins job function
+31e8b3,Jun CHEN,CDaas,1/11/2016 8:12:37 AM,[CJ] #n/a cleanup unneeded files
+2bde54,Jun CHEN,CDaas,1/11/2016 8:10:38 AM,[CJ] #355962 update tfs build def
+a57c19,Hui Qiu,CDaas,1/11/2016 6:31:19 AM,[YL QH] #355949 update yaml name to repositoryName.
+4ecb46,Alien Jian Wang,CDaas,1/8/2016 8:31:16 AM,[qh WJ] #352497 Demo.
+85a388,Hui Qiu,CDaas,1/8/2016 7:32:16 AM,[qh wj yl] #352503 update gitignore
+30723f,Hui Qiu,CDaas,1/8/2016 7:22:00 AM,[QH WJ YL] #352503 fix it.ps1 indent.
+48b364,Alien Jian Wang,CDaas,1/8/2016 7:14:09 AM,[qh WJ] #352497 refactor qa lp.
+53ad2b,Hui Qiu,CDaas,1/8/2016 6:36:55 AM,[QH WJ YL] #352503 fix bug.
+6ea8c0,Hui Qiu,CDaas,1/8/2016 4:50:15 AM,[QH WJ YL] #352503 int work version.
+8c5abb,Hui Qiu,CDaas,1/8/2016 4:06:58 AM,[QH WJ] #352503 fix bug.
+2e9130,dzhang5,CDaas,1/8/2016 2:19:35 AM,[WB  DY] #355008 enable GIT clean
+c6d7fe,Yong Hao,CDaas,1/8/2016 2:00:29 AM,[CJ HY] #352497 provision& publish refactor  rename parameters
+090a90,Alien Jian Wang,CDaas,1/7/2016 9:56:11 AM,[WB WJ] #352497 Extract function from it to shared.
+c2e4a6,Alien Jian Wang,CDaas,1/7/2016 9:36:02 AM,[DY WB WJ] #352497 Fix descriptionset template bug.
+603508,Hui Qiu,CDaas,1/7/2016 9:33:46 AM,[QH CJ] #352503 fix bug
+768795,Alien Jian Wang,CDaas,1/7/2016 8:50:47 AM,[WB WJ] #352497 Update preview task.
+935012,Alien Jian Wang,CDaas,1/7/2016 8:48:19 AM,[WB WJ] #352497 Update lp task.
+38546b,Alien Jian Wang,CDaas,1/7/2016 8:42:20 AM,[WB WJ] #352497 Update qa task.
+168d24,Alien Jian Wang,CDaas,1/7/2016 8:35:12 AM,[WB WJ] #352497 Refactor.
+8dab77,Alien Jian Wang,CDaas,1/7/2016 8:27:33 AM,[WB WJ] #352497 Refactor.
+021b4e,Hui Qiu,CDaas,1/7/2016 8:04:45 AM,[QH YL] #352503 fix bug
+f3e6a3,Hui Qiu,CDaas,1/7/2016 5:46:26 AM,[QH YL] #352503 add .gitignore
+d38aec,Alien Jian Wang,CDaas,1/7/2016 7:59:46 AM,[WB WJ] #352497 Add runTests.ps1 to itTest self-contain.
+861142,Alien Jian Wang,CDaas,1/7/2016 7:57:45 AM,[WB WJ] #352497 Refactor it task to make itTest self-contain.
+2c5172,Yong Hao,CDaas,1/7/2016 6:03:10 AM,[CJ HY] #352497 refactor the web app provision and deployment
+4654d7,Alien Jian Wang,CDaas,1/7/2016 6:02:29 AM,[WB WJ] #352497 Fix it task.
+f2c667,Alien Jian Wang,CDaas,1/7/2016 3:33:44 AM,[WB WJ] #352497 Update it task.
+ff1931,Hui Qiu,CDaas,1/7/2016 3:11:51 AM,[QH HJ YL] #352503 fix bug for create pipeline.
+5080e7,Alien Jian Wang,CDaas,1/6/2016 10:15:38 AM,[WB WJ] #352497 Fix bug.
+18a784,Alien Jian Wang,CDaas,1/6/2016 10:07:19 AM,[WB WJ] #352497 Add shared function to shared.ps1.
+29edc8,Hui Qiu,CDaas,1/6/2016 8:01:53 AM,[QH HJ] #352503 rename task name.
+76ea84,Hui Qiu,CDaas,1/6/2016 7:02:28 AM,[QH HJ] #352503 copy tasks from templates if task name has been defined in yaml.
+ea484a,Yong Hao,CDaas,1/6/2016 6:40:01 AM,[CJ HY] #352497 refactor deployment scripts
+ec572a,Hui Qiu,CDaas,1/6/2016 6:17:55 AM,[QH HJ] #352503 extract method.
+a2b17b,Hui Qiu,CDaas,1/6/2016 6:05:13 AM,[QH HJ] #352503 rename file to Create-Solution.ps1
+e9fd00,Hui Qiu,CDaas,1/6/2016 6:03:01 AM,[QH HJ DY] #352503 add function to replace DummyName in config.
+3b1ae0,Hui Qiu,CDaas,1/6/2016 5:46:42 AM,[QH HJ DY cj] #352503 del unuse folder.
+ce0a8b,Hui Qiu,CDaas,1/6/2016 5:37:40 AM,[QH HJ DY] #352503 change folder.
+463808,Hui Qiu,CDaas,1/6/2016 5:36:13 AM,[QH HJ DY] #352503 add package task integrate with daoyong.
+11a9ee,Hui Qiu,CDaas,1/6/2016 5:24:43 AM,[QH HJ] #352503 rename service to plugin or sdk according to serviceName.
+2f5683,dzhang5,CDaas,1/6/2016 5:08:03 AM,[DY  HY] #352951 update package task
+72c7cd,Alien Jian Wang,CDaas,1/6/2016 3:31:50 AM,[WB WJ] #352497 Change go.ps1 and configs.
+848fa9,Alien Jian Wang,CDaas,1/6/2016 3:12:14 AM,[WB WJ] #352497 Fix bug for ct.
+358d81,Hui Qiu,CDaas,1/6/2016 2:47:52 AM,[QH WJ HJ] #352503 add tools folder and azure deploy ps1.
+d417d5,Hui Qiu,CDaas,1/6/2016 2:44:56 AM,[QH HJ] #352503 add missing folder again.
+bb483f,Hui Qiu,CDaas,1/6/2016 2:40:30 AM,[QH HJ] #352503 del dummy file.
+343619,Hui Qiu,CDaas,1/6/2016 2:39:14 AM,[QH HJ] #352503 add missing folder.
+4de107,Hui Qiu,CDaas,1/6/2016 2:26:31 AM,[QH HJ WJ] #352503 integrate clean/ct/ut tasks with wangjian
+4c0865,Hui Qiu,CDaas,1/5/2016 9:23:01 AM,[QH WB] #352503 create folder structure and rename.
+cb4c69,Dao Yong Zhang,CDaas,1/5/2016 9:06:16 AM,[DY  HY] user story #3525951 update package task
+40023d,Alien Jian Wang,CDaas,1/5/2016 6:28:02 AM,[WJ] #352497 Add ut and ct tasks  refactor funciton using new folder variables.
+49ab18,Xiaoyan Song,CDaas,1/5/2016 4:53:45 AM,[WJ SXY] #352497 Rename Push-Package to PackPush-NugetPackage
+a492da,Alien Jian Wang,CDaas,1/5/2016 4:33:27 AM,[cj wj] #352497 set environment for Dirs.
+df89fa,Alien Jian Wang,CDaas,1/4/2016 10:31:52 AM,[yl wj] #352497 Refactor compile.
+20b6b4,Hui Qiu,CDaas,1/4/2016 9:58:46 AM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/CDaaS
+0a6e97,Alien Jian Wang,CDaas,1/4/2016 9:57:47 AM,[yl wj] #352497 Update task for compile.
+20c70a,Hui Qiu,CDaas,1/4/2016 9:58:07 AM,[HQ  WB] #352503 create servicename function
+533b83,Hui Qiu,CDaas,1/4/2016 9:27:08 AM,[QH WB] #352503 create service folder in targetPath.
+112a01,Isaac Han,CDaas,1/4/2016 8:45:43 AM,[HK] #350503 Rename 'tools' folder to 'Tools'
+0e8a11,Isaac Han,CDaas,1/4/2016 9:05:31 AM,[HK] #352503 Fix references.
+c24202,Hui Qiu,CDaas,1/4/2016 8:30:25 AM,[QH WB] #352503 throw exception if yaml file not contain serviceName.
+a95590,Isaac Han,CDaas,1/4/2016 8:42:57 AM,[HK] #352503 Rename 'tests' folder to 'Tests'.
+ee4816,Isaac Han,CDaas,1/4/2016 8:30:18 AM,[HK] #352503 Fix reference in test files.
+25d5fe,Isaac Han,CDaas,1/4/2016 8:26:19 AM,[HK] #352503 Move NuGallery into 'tools' folder.
+9c626b,Isaac Han,CDaas,1/4/2016 8:23:55 AM,[HK] #352503 Rename 'scripts' folder to 'PipelineTemplate'
+45a408,Alien Jian Wang,CDaas,1/4/2016 8:06:35 AM,update task for clean.
+4e8f57,Hui Qiu,CDaas,1/4/2016 7:23:54 AM,[QH WB]
+4842a3,LI Qin,CDaas,12/31/2015 8:57:16 AM,[LQ] #351080 set template ps1 encoding as UTF-8
+c0a6dd,Alien Jian Wang,CDaas,12/30/2015 6:29:31 AM,[DY WJ] #352173 Delete useless file Bind-BDToJenkinsJob.ps1 and Bind-BDToJenkinsJob.Tests.ps1.
+94fff6,Alien Jian Wang,CDaas,12/30/2015 6:17:21 AM,[DY WJ] #351094 Init disable publish test result.
+640d19,Alien Jian Wang,CDaas,12/30/2015 6:15:40 AM,[DY WJ] #352173 refactor the code for code review.
+fb32a4,Alien Jian Wang,CDaas,12/30/2015 4:10:46 AM,[dy wj] #351094 Add publish test result to scarffold.
+0f0e74,Alien Jian Wang,CDaas,12/29/2015 9:32:58 AM,[dy wj] #351094 Add descriptionsetter_template
+904952,Hui Qiu,CDaas,12/28/2015 6:16:09 AM,[QH CJ] #350472 add two nuget server
+409199,Xiao Lei Song,CDaas,12/21/2015 5:52:59 AM,[Sxl HJ] #N/A Fix GitServer value in go.ps1.config
+9e0983,Pascal Hochart,CDaas,12/17/2015 4:28:07 PM,[PH] #332385  Task #347319 : Use my account to provision  delete all lines that are not working  cha
+0c4901,Yong Chao BIAN,CDaas,12/17/2015 12:40:26 PM,[YC] #347525 Package PublishSettings and publish.ps1 in nuget
+1a4c38,LI Qin,CDaas,12/17/2015 11:52:56 AM,[LQ] #342339 rename staging by naming conversion
+582950,iapair,CDaas,12/17/2015 8:55:48 AM,[HY ZDY]001 practicing and trying
+217430,Yong Chao BIAN,CDaas,12/17/2015 8:38:40 AM,[YC] #344150 Remove go.ps1.config from gitignore
+6fc48b,Yong Chao BIAN,CDaas,12/17/2015 8:11:05 AM,[YC] #344150 Correct the git server url
+a98dee,Yong Chao BIAN,CDaas,12/17/2015 7:39:58 AM,[YC] #344150 Read Git server from config
+f9dd92,Yong Chao BIAN,CDaas,12/17/2015 7:33:01 AM,[YC] #344150 Update the usage
+e5f138,Yong Chao BIAN,CDaas,12/17/2015 6:43:55 AM,[YC] #344150 Exclude go.ps1.config from git
+abf6c0,Yong Chao BIAN,CDaas,12/17/2015 6:40:48 AM,[YC] #344150 Move TFS  Git  Jenkins  User  Token to config file
+f5c0c2,LI Qin,CDaas,12/17/2015 6:27:15 AM,[HK LQ] #342339 order jenkins builders
+dde7b3,Hui Qiu,Demo,12/30/2015 9:09:05 AM,[QH LQ] #350472 fix pipline bug.
+b33089,Hui Qiu,Demo,12/30/2015 8:38:17 AM,[QH] #350472 demo pipeline.
+9bfd54,LI Qin,Demo,12/29/2015 11:15:25 AM,[LQ] #350575 fix package fail in pipeline
+fb997e,LI Qin,Demo,12/29/2015 10:07:27 AM,[LQ HY] #350575 fix merge lost
+01d4f7,LI Qin,Demo,12/29/2015 9:22:16 AM,[LQ] #350575 encode it.ps1 with UTF-8
+971f7a,LI Qin,Demo,12/28/2015 11:18:05 AM,[LQ HY] #350575 merge provision/publish code from Touch
+223e19,LI Qin,Demo,12/28/2015 4:08:34 AM,[LQ HY] #344150 update scripts from Touch
+7a36d7,LI Qin,Demo,12/28/2015 11:18:05 AM,[LQ HY] #350575 merge provision/publish code from Touch
+3b8041,LI Qin,Demo,12/28/2015 4:08:34 AM,[LQ HY] #344150 update scripts from Touch
+e1b5c8,Alien Jian Wang,Demo,12/24/2015 10:53:02 AM,[wj  lq] #350575 configuration.
+d83dc2,Alien Jian Wang,Demo,12/24/2015 10:28:47 AM,[wj  lq] #350575 make ut  package ct work.
+ffbd31,Alien Jian Wang,Demo,12/24/2015 9:43:00 AM,[wj lq]  Do configration.
+b762dc,Alien Jian Wang,Demo,12/24/2015 9:37:15 AM,[wj lq]  Add clean  ut  it task.
+aec9e1,Alien Jian Wang,Demo,12/24/2015 9:24:43 AM,[wj lq]  Add it task.
+03f357,Alien Jian Wang,Demo,12/24/2015 9:18:32 AM,[wj lq]#350575 Resolve merging conflict.
+1da62c,LI Qin,Demo,12/24/2015 9:02:10 AM,[LQ WJ] #350575 publish.ps1 refactoring
+3227a5,LI Qin,Demo,12/24/2015 8:17:27 AM,[LQ WJ] #350575 add call publish.ps1 in it.ps1
+ef0318,Alien Jian Wang,Demo,12/24/2015 5:24:37 AM,[wj lq] #350575 Fix csproj
+024a31,LI Qin,Demo,12/24/2015 4:27:09 AM,[LQ WJ] #350575 refactoring and add provision.ps1
+dc57bb,LI Qin,Demo,12/24/2015 2:59:55 AM,[LQ WJ] #350575 add provision.ps1
+43b989,Alien Jian Wang,Demo,12/23/2015 7:07:34 AM,[hk wj] #350575 Add Azure resource group.
+b45ecd,Alien Jian Wang,Demo,12/22/2015 7:08:36 AM,[hk wj] #350575 Access dependency service in VersionAPI.
+49ff3b,Alien Jian Wang,Demo,12/22/2015 2:29:39 AM,[hk wj] #350575 Add parameters.xml for urls.
+d971c7,Alien Jian Wang,Demo,12/21/2015 8:33:00 AM,[hk wj] #350575 Resovle the conflict.
+0eac3a,Dao Yong Zhang,Demo,12/21/2015 7:43:45 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+10e4ae,Yong Hao,Demo,12/21/2015 5:37:56 AM,failed assert results verifying in TFS
+6fa54b,Yong Hao,Demo,12/21/2015 5:35:34 AM,test test to  verify TFS test result recording
+4c3ee2,Yong Hao,Demo,12/21/2015 5:32:44 AM,new added lp tests
+5a8eff,Yong Hao,Demo,12/21/2015 3:35:25 AM,Add a  new ut case
+b6b728,Yong Hao,Demo,12/21/2015 3:32:43 AM,Add a new LP test project
+b1741b,Alien Jian Wang,Demo,12/18/2015 9:37:20 AM,[wy  wj] #347525 Add script for publish dependecy service.
+2c5317,WANG Yu(InterACT),Demo,12/18/2015 7:45:13 AM,[WY WJ] #347525 update publish.ps1
+2a8554,Alien Jian Wang,Demo,12/18/2015 7:26:12 AM,[wy wj] #347525 Add nuspec.
+1e8772,Alien Jian Wang,Demo,12/18/2015 7:20:18 AM,[wy wj] #347525 Init WebTouchDemo.
+caa231,Xiao Lei Song,Demo,12/16/2015 7:12:13 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+d8625f,Xiao Lei Song,Demo,12/16/2015 6:59:48 AM,[Sxl] #344150 clear demo folder
+5addee,Xiao Lei Song,Demo,12/15/2015 10:55:33 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+395561,Xiao Lei Song,Demo,12/15/2015 10:46:47 AM,[Sxl YC] #344150 clear demo folder
+d10ad3,Xiao Lei Song,Demo,12/15/2015 10:42:36 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+90423d,Xiao Lei Song,Demo,12/15/2015 10:37:57 AM,[Sxl YC] #344150 clear demo folder
+0cdb32,Xiao Lei Song,Demo,12/15/2015 10:34:42 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+3d608c,Xiao Lei Song,Demo,12/15/2015 10:32:36 AM,[Sxl YC] #344150 Clear Demo Folder
+efe58b,Xiao Lei Song,Demo,12/15/2015 10:24:59 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+811a44,Xiao Lei Song,Demo,12/15/2015 9:24:27 AM,[Sxl YC] #344150 clear demo folder
+5c8d75,Xiao Lei Song,Demo,12/15/2015 9:22:07 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+caed27,Xiao Lei Song,Demo,12/15/2015 9:21:02 AM,[Sxl YC] #344150 clear demo folder
+45cad2,Xiao Lei Song,Demo,12/15/2015 9:18:47 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+edbdf9,Xiao Lei Song,Demo,12/15/2015 8:38:49 AM,[Sxl YC] #344150 Clean demo folder
+c60a9a,Xiao Lei Song,Demo,12/15/2015 8:34:04 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+8789f5,Xiao Lei Song,Demo,12/15/2015 8:32:39 AM,[Sxl YC] #344150 Clean demo folder
+ac7af7,Xiao Lei Song,Demo,12/15/2015 8:20:57 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+4c15d2,Xiao Lei Song,Demo,12/15/2015 7:50:11 AM,[XL  YC] #344150 Cleanup Demo repo
+fad1e5,Xiao Lei Song,Demo,12/15/2015 7:46:20 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+f7e1a3,Xiao Lei Song,Demo,12/15/2015 7:39:44 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+bf21fd,Xiao Lei Song,Demo,12/15/2015 7:45:04 AM,[XL  YC] #344150 Cleanup Demo repo
+ca6306,Hui Qiu,Demo,12/14/2015 7:56:46 AM,[QH  YC] #346781 Remove SwapWebApp.ps1 to fix demo pipeline failure.
+7d2b85,Hui Qiu,Demo,12/14/2015 7:51:42 AM,[QH  YC] #346781 Remove publish.ps1 to fix demo pipeline failure.
+fb978c,Hui Qiu,Demo,12/14/2015 7:48:17 AM,[QH  YC] #346781 Remove some mandatory param to fix demo pipeline failure.
+91679d,LI Qin,Demo,12/11/2015 9:54:52 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+184286,LI Qin,Demo,12/11/2015 9:46:30 AM,[SXL  LQ] #344150 remove all files
+67711a,Hui Qiu,Demo,12/10/2015 10:44:12 AM,[QH YH] #346382 change out-file path
+ea779f,Hui Qiu,Demo,12/10/2015 10:38:22 AM,[QH YH] #346382 change out-file path
+609f2b,Hui Qiu,Demo,12/10/2015 10:14:55 AM,[QH YH] #346382 tmp_go.ps1 for intergration test.
+9a7ee4,LI Qin,Demo,12/4/2015 9:48:56 AM,delete
+d5edf5,LI Qin,Demo,12/4/2015 9:41:45 AM,[LQ] #N/A demo commit
+ce271d,LI Qin,Demo,12/4/2015 8:46:51 AM,[LQ] #N/A remove demo project
+f9e212,LI Qin,Demo,12/4/2015 7:28:57 AM,[LQ] #N/A rollback
+de4a4d,LI Qin,Demo,12/4/2015 7:23:30 AM,[LQ HK] #N/A add PackageVersion as latest for demo  rollback later
+4d0fc3,LI Qin,Demo,12/4/2015 6:05:22 AM,[LQ] #343064 remove useless nuspec file
+1ea86b,LI Qin,Demo,12/4/2015 5:33:20 AM,[LQ] #343064 add demo project
+8c0de7,Hui Qiu,DemoApp,1/13/2016 11:30:08 AM,[QH WJ] #352503
+283c6e,Hui Qiu,DemoApp,1/13/2016 10:24:37 AM,[QH WJ] #352503 fix bug
+b1c91d,Hui Qiu,DemoApp,1/13/2016 9:45:49 AM,[QH WJ] #352503 add ut.
+62f037,Hui Qiu,DemoApp,1/13/2016 9:20:55 AM,[QH WJ] #352503 initial commit.
+a96f66,Hui Qiu,DemoApp,1/13/2016 3:10:42 AM,[wj qh] #352503 delete all for demo.
+c29c63,Hui Qiu,DemoApp,1/12/2016 7:01:10 AM,[yl qh] #355949 fix bug
+455bc5,Hui Qiu,DemoApp,1/12/2016 3:14:38 AM,[qh yl] #355949 fix bug
+4d2c21,Hui Qiu,DemoApp,1/12/2016 2:54:06 AM,[QH YL] #355949 fix bug
+7b7d22,Hui Qiu,DemoApp,1/11/2016 10:08:16 AM,[yl qh] #355949 fix bug.
+8c2a9e,Hui Qiu,DemoApp,1/11/2016 9:46:56 AM,[YL QH] #352503 fix bug
+37e9fc,Alien Jian Wang,DemoApp,1/8/2016 8:32:25 AM,[qh wj yl] #352503 demo.
+63f808,Alien Jian Wang,DemoApp,1/8/2016 7:37:37 AM,Deleted /.vs
+9c87a6,Alien Jian Wang,DemoApp,1/8/2016 7:33:28 AM,[qh wj yl] #352503 demo.
+5ae81a,Alien Jian Wang,DemoApp,1/8/2016 6:55:23 AM,[qh wj yl] #352503 demo.
+9b250a,Alien Jian Wang,DemoApp,1/8/2016 6:12:41 AM,[qh wj yl] #352503 delete all for demo.
+2ef6d1,Hui Qiu,DemoApp,1/8/2016 4:49:24 AM,[QH WJ YL] #352503 int work version.
+4827e8,Hui Qiu,DemoApp,1/7/2016 9:53:24 AM,[QH CJ] #352503 fix bug
+f24101,Hui Qiu,DemoApp,1/7/2016 5:48:59 AM,[QH YL] #352503 add gitignore and set testDir envVirables.
+f01666,Hui Qiu,DemoApp,1/7/2016 3:09:05 AM,[QH HJ YL] #352503 add ut/ct proj.
+b37839,Hui Qiu,DemoApp,1/7/2016 2:35:45 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+84de5f,Hui Qiu,DemoApp,1/7/2016 2:35:45 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+c4231c,Hui Qiu,DemoApp,1/7/2016 2:48:07 AM,Added file Readme.md
+a80f9b,Balaji Kannappan,ETP,12/1/2015 7:26:02 PM,Moved the missing module inside to ETP
+03d761,Xiao Lei Song,ETP,12/1/2015 2:40:14 AM,Upgrade WindowsAzure SDK form 2.7 to 2.8
+f3f570,Yizhou WANG,ETP,10/29/2015 5:32:48 AM,Migrate from TFS
+8bfdd1,Xiao Lei Song,MessageProcessing,1/13/2016 11:12:34 AM,[Sxl] #354347 add telemetry eventhub config
+c4b76f,Yong Chao BIAN,MessageProcessing,1/13/2016 9:45:19 AM,[LQ  YC] #354347 Send one survey and one telemetry
+174909,Xiao Lei Song,MessageProcessing,1/13/2016 9:21:34 AM,[Sxl] #354347 surpport multi eventhub
+a31a1e,LI Qin,MessageProcessing,1/13/2016 8:19:52 AM,[YC LQ] #354347 refactoring
+4ec96f,Yong Chao BIAN,MessageProcessing,1/13/2016 7:43:15 AM,[LQ  YC] #354347 Remove obsolete code and comments
+cd4460,Yong Chao BIAN,MessageProcessing,1/13/2016 7:39:13 AM,[LQ  YC] #354347 Fix IotReader in Storm
+892520,Yong Chao BIAN,MessageProcessing,1/13/2016 5:25:09 AM,[YC] #354347 Following code review comments: Use UTC time and UTF8 encoding
+8b2169,Yong Chao BIAN,MessageProcessing,1/13/2016 3:09:12 AM,[YC] #354347 Following code review comments: Use UTC time and UTF8 encoding
+dba439,LI Qin,MessageProcessing,1/13/2016 1:53:59 AM,Revert "[TF] Enable token server to fetch device token for device client"  This reverts commit dd53d
+dd53d0,Tong Feng,MessageProcessing,1/12/2016 11:04:35 AM,[TF] Enable token server to fetch device token for device client
+796b1c,LI Qin,MessageProcessing,1/12/2016 2:55:23 AM,[LQ] #354345 refactoring
+a09d34,LI Qin,MessageProcessing,1/12/2016 2:46:43 AM,[LQ] #354345 remove useless package of storm deployment
+d4c79d,Haijiao Yao,MessageProcessing,1/12/2016 2:30:03 AM,[HJ] #354347 enable ut on pipeline
+924ba6,Yong Chao BIAN,MessageProcessing,1/11/2016 10:39:39 AM,[YC  HJ] #354347 Add a UnitTest project and refactor sender to make it testable
+e35668,LI Qin,MessageProcessing,1/11/2016 10:46:29 AM,[LQ] #354345 set storm parameters as script scope variables to fix pipeline failure
+e632c3,LI Qin,MessageProcessing,1/11/2016 10:27:22 AM,[LQ] #354345 quick fix
+00cad7,LI Qin,MessageProcessing,1/11/2016 10:24:14 AM,Revert "[LQ] #354345 quick fix pipeline failure"  This reverts commit 7e29e89f17c38b2b895712789b134a
+e8a3ee,dawnmoon,MessageProcessing,1/11/2016 9:58:19 AM,[ZCY][#354343 modified iot receiver and storm]
+7e29e8,LI Qin,MessageProcessing,1/11/2016 9:51:48 AM,[LQ] #354345 quick fix pipeline failure
+4bc196,LI Qin,MessageProcessing,1/11/2016 9:27:33 AM,[LQ] #354345 kill storm job after integration test is pass
+3ca2ee,LI Qin,MessageProcessing,1/11/2016 9:28:57 AM,[LQ] #354345 add reference dll for storm deployment tool
+f8c829,Yong Chao BIAN,MessageProcessing,1/11/2016 8:20:18 AM,[YC  HJ] #354347 Refactor the sender code  remove duplication
+87503f,Yong Chao BIAN,MessageProcessing,1/11/2016 7:18:54 AM,[YC  HJ] #354347 Update the assert method in integration test
+3b4a6b,Yong Chao BIAN,MessageProcessing,1/11/2016 7:11:39 AM,[YC  HJ] #354347 Refactor the sender simulator
+32593d,Yong Chao BIAN,MessageProcessing,1/11/2016 6:53:09 AM,[YC  HJ] #354347 Move deviceId and tag from message body to header
+6c3af7,LI Qin,MessageProcessing,1/11/2016 6:45:26 AM,[LQ] #354345 deploy storm project to azure
+77afef,LI Qin,MessageProcessing,1/11/2016 5:32:42 AM,[LQ] #354345 package storm zip spec files into nuget package
+6faf7e,Xiao Lei Song,MessageProcessing,1/8/2016 1:06:02 PM,[Sxl] #354343 Fix config bug for EventHubWriterBolt
+a9c2c7,dawnmoon,MessageProcessing,1/8/2016 1:02:48 PM,[ZCY] #354343 modified integration test to make it pass
+8276ad,Xiao Lei Song,MessageProcessing,1/8/2016 11:45:07 AM,[Sxl] #354343 Refactor code  add configuration
+054165,dawnmoon,MessageProcessing,1/8/2016 11:42:53 AM,[ZCY] #354343 modified storm iot reciever and use host mode
+5e0194,LI Qin,MessageProcessing,1/5/2016 8:11:58 AM,[LQ YC] #351806 set nuspec file as encoding UTF8
+fdc769,LI Qin,MessageProcessing,1/8/2016 7:12:41 AM,[LQ] #354345 add storm deploy tool
+c2ce7d,LI Qin,MessageProcessing,1/8/2016 7:43:48 AM,[LQ] #354345 generate spec/zip files for storm deployment
+fa024e,Xiao Lei Song,MessageProcessing,1/8/2016 7:34:17 AM,[Sxl] #354343 Add project Slb.Prism.RoPlankSimulator
+9007b8,Xiao Lei Song,MessageProcessing,1/8/2016 6:52:13 AM,[Sxl] #354343 Add send eventdata to eventhub feature
+024e2b,Xiao Lei Song,MessageProcessing,1/8/2016 6:50:30 AM,[Sxl] #354343 Add send eventdata to eventhub feature
+dbbe23,dawnmoon,MessageProcessing,1/8/2016 3:17:52 AM,[ZCY] #354343 modified integration test and make it pass
+679938,Yong Chao BIAN,MessageProcessing,1/7/2016 12:10:26 PM,[YC] #354343 Add the SCP.Net package to strom project due to the limition that strom project can onl
+9462fd,Yong Chao BIAN,MessageProcessing,1/7/2016 11:11:31 AM,[YC] #354343 Update the project to fix build error
+41ef28,Yong Chao BIAN,MessageProcessing,1/7/2016 10:24:02 AM,[YC] #354343 Delete the obsolete config file
+31cb21,Yong Chao BIAN,MessageProcessing,1/7/2016 10:23:27 AM,[YC] #354343 Read from IotHub in strom processing module
+3625c1,Yong Chao BIAN,MessageProcessing,1/7/2016 7:19:26 AM,[YC  HK] #351806 Add the survey processing module
+e36fa1,Yong Chao BIAN,MessageProcessing,1/7/2016 6:24:39 AM,[YC  HK] Add a rig client simulator console
+d28a5b,Xiao Lei Song,MessageProcessing,1/6/2016 2:33:50 AM,[Sxl] #351806 Refactor it.ps1 code for MessageProcessing
+f98def,Xiao Lei Song,MessageProcessing,1/5/2016 10:52:58 AM,[Sxl] #351806 Refactor it.ps1 code for MessageProcessing
+3ae5c4,Xiao Lei Song,MessageProcessing,1/5/2016 10:49:01 AM,[Sxl] #351806 Refactor it.ps1 code for MessageProcessing
+80cabc,Xiao Lei Song,MessageProcessing,1/5/2016 10:15:25 AM,[Sxl FT] #351806 make it pass
+f9e29b,Yong Chao BIAN,MessageProcessing,1/5/2016 8:55:14 AM,[LQ  YC] #351806 Send survey messages in integration test
+07c88f,Yong Chao BIAN,MessageProcessing,1/5/2016 8:24:47 AM,[LQ  YC] #351806 Update the encoding of nuspec to UTF8
+246e9b,Xiao Lei Song,MessageProcessing,1/5/2016 7:32:34 AM,[Sxl FT] #351806 Refactor It code for MessageProcessing
+39659c,Yong Chao BIAN,MessageProcessing,1/5/2016 6:23:58 AM,[LQ  YC] #351806 Wait longer time until IotHub message arrived
+055ade,Yong Chao BIAN,MessageProcessing,1/5/2016 6:13:42 AM,[LQ  YC] #351806 Fix an exception when there's no message when receiving from IotHub
+e03199,LI Qin,MessageProcessing,1/5/2016 5:31:52 AM,Revert "[LQ YC] #351806 update nuget feeds"  This reverts commit c1421001cb37b661aa08a164276ebd7fa2f
+210208,Yong Chao BIAN,MessageProcessing,1/5/2016 5:28:53 AM,[YC  LQ] #351806 Correct the NuGetPackageVersion config
+c14210,LI Qin,MessageProcessing,1/5/2016 5:17:04 AM,[LQ YC] #351806 update nuget feeds
+ebbf20,Xiaoyan Song,MessageProcessing,1/5/2016 5:03:31 AM,[WJ SXY] #352497 Rename Push-Package to PackPush-NugetPackage
+65a1ce,LI Qin,MessageProcessing,1/5/2016 4:40:47 AM,[YC LQ] #351806 add createIot package and fix provision
+a0d83b,Tong Feng,MessageProcessing,1/4/2016 11:13:49 AM,[FT SXL] #351806 Resolve CD failure
+9e2729,Tong Feng,MessageProcessing,1/4/2016 10:36:19 AM,[FT SXL] #351806 Auto create iot hub and storage if not exits
+71a27d,Xiaoyan Song,MessageProcessing,1/4/2016 9:33:19 AM,[sxy  hj] #351806 refactor receiver related code
+1892cf,Xiaoyan Song,MessageProcessing,1/4/2016 8:57:51 AM,[sxy  hj] #351806 remove receiveContext class
+5c9eb8,Xiaoyan Song,MessageProcessing,1/4/2016 8:42:48 AM,[sxy  hj] #351806 extract strategy out of constructor
+92ca00,Xiaoyan Song,MessageProcessing,1/4/2016 8:45:29 AM,[cj  sxy  hj] #351806 enable vitual studio to work with powershell in parallel
+3b620f,Yong Chao BIAN,MessageProcessing,1/4/2016 8:42:00 AM,[LQ  YC] #351806 Add one message host receiver test
+b203e2,Yong Chao BIAN,MessageProcessing,1/4/2016 8:01:36 AM,[LQ  YC] #351806 Add multiple messages test in integration test
+766ed3,Yong Chao BIAN,MessageProcessing,1/4/2016 7:53:38 AM,[LQ  YC] #351806 Update the integration test case
+a1f822,LI Qin,MessageProcessing,1/4/2016 6:08:15 AM,[LQ YC] #351806 it should depend on clean
+1eb08b,Yong Chao BIAN,MessageProcessing,1/4/2016 5:57:33 AM,[LQ  YC] #351806 Implement integration test
+7a37a9,LI Qin,MessageProcessing,1/4/2016 5:37:27 AM,[YC LQ] #351806 fix ut ct failure
+ca7af6,LI Qin,MessageProcessing,1/4/2016 3:52:18 AM,[YC LQ] #351806 fix pkg failure
+5e705e,Yong Chao BIAN,MessageProcessing,1/4/2016 3:29:08 AM,[LQ  YC] #351806 Remove not used project and add nuspec file to integration test project
+2375a1,dawnmoon,MessageProcessing,12/31/2015 6:13:42 AM,[Prism]adjust project structure
+3e7529,dawnmoon,MessageProcessing,12/30/2015 8:56:56 AM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/MessageProcessing
+9fe852,dawnmoon,MessageProcessing,12/30/2015 8:56:38 AM,create new Slb.Prism.CoreServices.MessageProcessing.IntegrationTest
+d8e470,Tong Feng,MessageProcessing,12/30/2015 8:46:50 AM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/MessageProcessing
+0b5cd3,Tong Feng,MessageProcessing,12/30/2015 8:46:33 AM,Make the script parameterized and refactor it
+e443a0,Yinhua Zhao,MessageProcessing,12/30/2015 7:09:53 AM,[DXB  ZYH] #351806 Update nuspec file for integration test
+2efff3,Tong Feng,MessageProcessing,12/30/2015 7:04:34 AM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/MessageProcessing
+fd7f9d,Tong Feng,MessageProcessing,12/30/2015 7:04:05 AM,change complie.ps1 to resolve package
+47a750,Yinhua Zhao,MessageProcessing,12/30/2015 6:52:03 AM,[DXB  ZYH] #351806 Release nuspec
+4d3e45,Tong Feng,MessageProcessing,12/30/2015 6:03:53 AM,Intial sumit create iot hub resouce script
+cc27c7,Yong Chao BIAN,MessageProcessing,12/29/2015 10:00:07 AM,[YC  XB] #351806 Remove the obsolate file
+5471eb,Yong Chao BIAN,MessageProcessing,12/29/2015 9:56:32 AM,[YC  XB] #351806 Change the default project from console to web project
+fd296c,XiaoBin DENG,MessageProcessing,12/29/2015 9:15:31 AM,[DXB BYC] #351806 update pkg.ps1
+9c7199,XiaoBin DENG,MessageProcessing,12/29/2015 7:57:59 AM,[DXB BYC] #351806 update compile.ps1
+895ea1,XiaoBin DENG,MessageProcessing,12/29/2015 7:44:54 AM,[DXB BYC] #351806 update clean.ps1
+ba3647,XiaoBin DENG,MessageProcessing,12/29/2015 7:32:47 AM,[DXB BYC] #351806 correct subscription name
+b918f8,Yong Chao BIAN,MessageProcessing,12/29/2015 7:19:13 AM,[YC  XB] #351806 Update package version from 2015.1 to 2016.1
+7c597b,Yong Chao BIAN,MessageProcessing,12/29/2015 7:12:11 AM,[YC  XB] #351806 Add an integration test case
+36f09f,Yong Chao BIAN,MessageProcessing,12/29/2015 6:34:41 AM,[YC  XB] #351806 Add gitignore and MessageProcessing solution files
+b3c6d4,Jun Chen,MessageProcessing,12/29/2015 5:21:04 AM,[CJ  YD] #n/a fix pipeline failure
+9d45da,Yong Chao BIAN,MessageProcessing,12/29/2015 5:00:36 AM,Ignore contract test for the time being
+8eb972,Yinhua Zhao,MessageProcessing,12/29/2015 2:33:57 AM,[ZYH DXB] #351806 Determine package name for current service
+73f6ad,Yinhua Zhao,MessageProcessing,12/29/2015 1:40:22 AM,[DXB YLM ZYH] #351806 Update repository name to MessageProcessing
+7aa16a,Yinhua Zhao,MessageProcessing,12/28/2015 8:03:46 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+053314,Yinhua Zhao,MessageProcessing,12/28/2015 7:35:02 AM,[DXB  ZYH  YLM] #351806 create pipeline yaml for IoTIngestionService
+d9a033,Yong Chao BIAN,Metadata,12/18/2015 8:37:04 AM,Add tasks
+6b8f9c,Yong Chao BIAN,Metadata,12/18/2015 8:02:25 AM,add ut
+200f2b,Yong Chao BIAN,Metadata,12/18/2015 7:53:05 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+7685e0,Yong Chao BIAN,Metadata,12/18/2015 6:05:32 AM,Cleanup metadata
+a86f38,Yong Chao BIAN,Metadata,12/18/2015 5:42:52 AM,add more tasks
+1eb692,Yong Chao BIAN,Metadata,12/18/2015 5:32:11 AM,Add metadata code
+1eeb21,Yong Chao BIAN,Metadata,12/18/2015 5:21:08 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+181019,Yong Chao BIAN,Metadata,12/18/2015 5:17:41 AM,cleanup metadata service
+e24f21,Yong Chao BIAN,Metadata,12/18/2015 5:15:24 AM,Cleanup metadata service
+d7ba7c,Yong Chao BIAN,Metadata,12/18/2015 4:08:01 AM,[YC] #344150 add preview
+cc2052,Yong Chao BIAN,Metadata,12/18/2015 3:30:42 AM,[YC] #344150 Add lp production saqp staging tasks
+833309,Yong Chao BIAN,Metadata,12/17/2015 1:09:30 PM,[YC] #344150 Add lp  preview saqp staging
+8e650c,Yong Chao BIAN,Metadata,12/17/2015 1:02:00 PM,[YC] #344150 add ct it pkg qa tasks
+5ef1aa,Yong Chao BIAN,Metadata,12/17/2015 12:59:17 PM,[YC] #344150 Add ut task
+7f1045,Yong Chao BIAN,Metadata,12/17/2015 12:55:15 PM,[YC] #344150 Add clean and compile task
+a1da18,Yong Chao BIAN,Metadata,12/17/2015 12:51:50 PM,[YC] #344150 Add Metadata code
+61e08d,Yong Chao BIAN,Metadata,12/17/2015 12:44:23 PM,[PipelineAdmin] #N/A Create Scaffold Scripts
+0a9d04,Yong Chao BIAN,Metadata,12/17/2015 12:33:18 PM,[YC] #344150 cleanup Metadata
+d5d14b,Yong Chao BIAN,Metadata,12/17/2015 9:39:56 AM,[YC] #344150 Remove scafflod code from Metadata
+ffd2eb,WANG Yu(InterACT),Metadata,12/17/2015 9:23:37 AM,[WY WJ] #347525 Package PublishSettings and publish.ps1 in nuget.
+a70693,Yong Chao BIAN,Metadata,12/17/2015 9:11:31 AM,[YC] #344150 Add task qa
+03c28d,Yong Chao BIAN,Metadata,12/17/2015 8:49:57 AM,[YC] #344150 Update publish settings
+53e8ad,Yong Chao BIAN,Metadata,12/17/2015 8:41:27 AM,[YC] #344150 Implement ct it pkg
+9f35ad,Yong Chao BIAN,Metadata,12/17/2015 8:35:27 AM,[YC] #344150 Upudate tasks
+e376e7,LI Qin,Metadata,12/17/2015 8:32:20 AM,[LQ] #342339 add dummy integration test
+d31fb2,Yong Chao BIAN,Metadata,12/17/2015 8:07:57 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+4ecb0b,Yong Chao BIAN,Metadata,12/17/2015 6:58:31 AM,[YC] #344150 Cleanup Metadata service
+f3099f,Yong Chao BIAN,Metadata,12/17/2015 6:57:14 AM,[YC] #344150 Remove localconfig from gitignore
+9b8bcd,LI Qin,Metadata,12/16/2015 10:52:48 AM,[LQ] #342339 make ct it pkg preview qa staging local pass
+c7d879,LI Qin,Metadata,12/16/2015 9:41:44 AM,[LQ] #342339 make clean compile ut pass for demo
+0f1ff2,Alien Jian Wang,Metadata,12/16/2015 9:24:22 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+789b5a,LI Qin,Metadata,12/16/2015 9:05:03 AM,[WJ LQ] #342339 remove all scaffold scripts for demo
+0ad463,LI Qin,Metadata,12/16/2015 8:44:11 AM,[WJ LQ] #342339 make it pass with smoketest only
+107655,Alien Jian Wang,Metadata,12/16/2015 8:14:48 AM,[lq wj] #342339 Upload publishsettings for azure.
+a73a2b,LI Qin,Metadata,12/16/2015 7:56:29 AM,[YC LQ] #342339 add metadata projects and make clean compile ut ct pkg pass
+51bc01,LI Qin,Metadata,12/16/2015 6:52:56 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+ddfd20,Yong Chao BIAN,Metadata,12/16/2015 6:37:44 AM,[YC] #344150 Cleanup repo
+e45ff8,LI Qin,Metadata,12/16/2015 5:30:40 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+a7d9ec,Zhuyun DAI,PrismCore,1/13/2016 7:43:22 PM,[Prism] Using async programing after upgrading to .net 4.5.
+7ca3f1,Zhuyun DAI,PrismCore,1/13/2016 6:53:30 PM,[Prism] Upgrade package dependencies in Data Framework.
+12f863,Zhuyun DAI,PrismCore,1/13/2016 4:45:43 PM,[Prism] Support configuring scale for performance test.
+0826a5,Zhuyun DAI,PrismCore,1/12/2016 11:08:04 PM,[Prism] Add a utility tool to write fake data to DB.
+3e7932,Zhuyun DAI,PrismCore,1/12/2016 8:15:27 PM,[Prism] Modify GetDataPointCount logic to iterate points instead of using CQL count(*) because count
+db88eb,Zhuyun DAI,PrismCore,1/8/2016 5:30:29 PM,[Prism] Add performance test page. This test does a pure Cassandra performance test.
+2e1602,Zhuyun DAI,PrismCore,1/7/2016 8:51:20 PM,[Prism] Add a new data view page implemented by React.
+51664e,Zhuyun DAI,PrismCore,1/5/2016 10:26:06 PM,[Prism] archive bash script to create Cassandra data folders and grant permissions in ubuntu.
+04e3be,Zhuyun DAI,PrismCore,1/5/2016 10:25:20 PM,[Prism] Update the versions of dependent packages.
+17c19a,Zhuyun DAI,PrismCore,12/18/2015 10:02:42 PM,[Prism] Update setup_env_ubuntu.sh to fix some issues: 1. seeds need to be set the same as listen_ad
+4186f8,Zhuyun DAI,PrismCore,12/18/2015 6:27:47 PM,[Prism] Add a new tenant for stress test.
+e76ba7,Zhuyun DAI,PrismCore,12/17/2015 8:35:32 PM,[Prism] Release FileStore web application code.
+5be1a8,Zhuyun DAI,PrismCore,12/17/2015 5:31:23 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+7c6e99,Zhuyun DAI,PrismCore,12/17/2015 5:31:16 PM,[Prism] Add File Store link in root web page.
+6bc3c4,Zhuyun Dai,PrismCore,12/17/2015 5:20:21 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+0bc9e6,Zhuyun Dai,PrismCore,12/17/2015 5:20:12 PM,[Prism] Upgrade to latest Data framework.
+898934,Zhuyun DAI,PrismCore,12/17/2015 5:11:48 PM,[Prism] Move TimeDataRow creation method to DataFactory.
+b45e0c,Zhuyun DAI,PrismCore,12/17/2015 4:47:20 PM,[Prism] Update relied NuGet packages.
+02157d,Zhuyun DAI,PrismCore,12/17/2015 4:40:03 PM,[Prism] Change version from prerelease to formal version.
+0e0512,Zhuyun DAI,PrismCore,12/17/2015 4:37:11 PM,[Prism] Move data model creation code to DataFactory as static methods.
+f23a67,Zhuyun DAI,PrismCore,12/17/2015 3:53:41 PM,[Prism] Move ChannelMetaData creation method from IDataContext to ChannelMetaData as a static method
+51b17e,Zhuyun DAI,PrismCore,12/17/2015 3:46:57 PM,[Prism] Move DataBlock creation method from IDataContext to DataBlock as a static method.
+d57155,Zhuyun DAI,PrismCore,12/17/2015 3:41:43 PM,[Prism] Move TimeDataRow Creation method from IDataContext to TimeDataRowBase as a static method.
+44fad9,Zhuyun DAI,PrismCore,12/16/2015 11:18:22 PM,[Prism] Refactor Data framework data models  removing unnecessary interfaces.
+b00b65,Zhuyun DAI,PrismCore,12/16/2015 8:35:55 PM,[Prism] Support getting channels' data point counts on the fly. This method can be slow. So only use
+8b24bd,Zhuyun DAI,PrismCore,12/16/2015 7:43:10 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+0cfeea,Zhuyun DAI,PrismCore,12/16/2015 7:43:07 PM,[Prism] Getting imin and imax only need limit 1.
+44f824,LI Qin,PrismCore,12/16/2015 11:35:28 AM,[LQ] #342339 move MetadataService to Metadata Repo
+80e601,Yong Chao BIAN,PrismCore,12/16/2015 7:26:26 AM,[LQ  YC] #344150 Rename project name(add slb.prism.core prefix)
+63a8ff,Yong Chao BIAN,PrismCore,12/16/2015 7:16:44 AM,[LQ  YC] #344150 Rename project name(add slb.prism.core prefix)
+01a91e,Zhuyun DAI,PrismCore,12/15/2015 7:35:59 PM,[Prism] Add internal cache for Cassandra data imple.
+c5a150,Zhuyun DAI,PrismCore,12/15/2015 4:05:41 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+95f533,Zhuyun DAI,PrismCore,12/15/2015 4:05:34 PM,[Prism] Add ToString() implementation for ObjectUri.
+c03ce8,Alien Jian Wang,PrismCore,12/15/2015 8:14:04 AM,[wj  lq] #342339 delete scripts created manually.
+b5a267,Alien Jian Wang,PrismCore,12/15/2015 6:38:10 AM,[wj hj] #342339 Add saqp task.
+c8eec2,Alien Jian Wang,PrismCore,12/15/2015 6:19:22 AM,[wj hj] #342339 Delete IntegrationTest and LPTest.
+ea8a81,WANG Yu(InterACT),PrismCore,12/15/2015 3:54:15 AM,[WY  HK] #342339 fix package issue - skipped pushing package to nuget.
+df96ba,Zhuyun DAI,PrismCore,12/14/2015 10:33:12 PM,[Prism] Add paging UI in data view (UI only).
+9fff93,Zhuyun DAI,PrismCore,12/14/2015 9:16:07 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+69fb91,Zhuyun DAI,PrismCore,12/14/2015 9:16:03 PM,[Prism] Show data points in reverse order.
+cd0c2c,Zhuyun Dai,PrismCore,12/14/2015 8:23:44 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+a5a622,Zhuyun Dai,PrismCore,12/14/2015 8:23:42 PM,[Prism] Release write data to DB logic in ChannelWriter.
+69c8be,Zhuyun DAI,PrismCore,12/14/2015 5:28:58 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+632a46,Zhuyun DAI,PrismCore,12/14/2015 5:28:45 PM,[Prism] Release Prism POC Portal as the Azure root web site.
+37cbbf,Zhuyun Dai,PrismCore,12/14/2015 5:11:05 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+b67bc2,Zhuyun Dai,PrismCore,12/14/2015 5:00:57 PM,[Prism] Initial release channel writer for writing data from EventHub to Database.
+cae27c,Alien Jian Wang,PrismCore,12/14/2015 10:17:58 AM,[wj  wy] Fix config to package.
+477f67,Yizhou WANG,PrismCore,12/14/2015 8:20:27 AM,Remote failed contract test case  will add it later
+585ed9,Yizhou WANG,PrismCore,12/14/2015 8:11:08 AM,Fix Unit Test issues
+cc4aef,Zhuyun Dai,PrismCore,12/11/2015 10:27:44 PM,[Prism] Use Base64 to encode data in IotHub and eventHub.
+8bcca8,Zhuyun Dai,PrismCore,12/11/2015 10:13:26 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+7a40bc,Zhuyun Dai,PrismCore,12/11/2015 10:13:05 PM,[Prism] Add base64 encoding support in protocol.
+10c338,Alien Jian Wang,PrismCore,12/11/2015 7:41:51 AM,[WJ  WY] #342339 Copy all powershell script to prismcore.
+b4710d,WANG Yu(InterACT),PrismCore,12/11/2015 7:26:37 AM,[WY  WJ]#342339 Add prismCore publish settings.
+ad89ef,Tong Feng,PrismCore,12/11/2015 2:26:42 AM,Leverage thread pool in handling internal queues instead of one single thread behind actor
+8d017d,Zhuyun Dai,PrismCore,12/9/2015 9:51:57 PM,[Prism] Implement internal queues and threading in pipeline.
+a89e80,Zhuyun Dai,PrismCore,12/9/2015 7:27:26 PM,[Prism] Move all variable settings to App.config. For actors  use CloudConfigurationManager.
+537b2d,Zhuyun Dai,PrismCore,12/8/2015 10:33:18 PM,[Prism] Create internal queue and thread mechanism in ChannelWriter.
+f5656e,Zhuyun Dai,PrismCore,12/8/2015 9:49:35 PM,[Prism] Change Async method names in DataSerializer.
+b47e07,Zhuyun Dai,PrismCore,12/8/2015 8:57:44 PM,[Prism] Complete the initial pipeline for MSE computation.
+f60a6c,Zhuyun Dai,PrismCore,12/7/2015 6:57:42 PM,[Prism] Display real time when receiving data.
+60d570,Zhuyun Dai,PrismCore,12/7/2015 6:00:54 PM,[Prism] Enable Pub/Sub mechanism for ChannelStreamer and ComputationModule.
+5e089e,Zhuyun Dai,PrismCore,12/4/2015 3:03:26 PM,[Prism] Change to a clean output display in the data receiver from EventHub.
+5026f6,Zhuyun Dai,PrismCore,12/3/2015 10:52:13 PM,[Prism] Implement wellrouter and channelrouter and channelwriter logic.
+ffa4a7,Zhuyun Dai,PrismCore,12/3/2015 10:30:00 PM,[Prism] Add uniform exception handlers.
+aa1545,Zhuyun Dai,PrismCore,12/2/2015 3:51:53 PM,[Prism] Update packages.
+1e5d36,Zhuyun Dai,PrismCore,12/2/2015 3:30:59 PM,[Prism] Clean code.
+1eed8b,Zhuyun Dai,PrismCore,12/1/2015 8:27:12 PM,[Prism] Add ChannelWriter as a stateless actor.
+4a263e,Zhuyun Dai,PrismCore,12/1/2015 7:37:50 PM,[Prism] Fix demo error
+396587,Zhuyun Dai,PrismCore,12/1/2015 6:27:07 PM,[Prism] Fix reference error.
+80e68e,Zhuyun DAI,PrismCore,12/1/2015 4:38:28 PM,[Prism] Initial release the Java version of Framework.Data.
+d54152,Zhuyun DAI,PrismCore,11/30/2015 8:08:26 PM,[Prism] Commit SFCalculation code changes on behalf of Balaji.
+81fc96,Balaji Kannappan,PrismCore,11/30/2015 7:28:17 PM,Added missing files
+7c58dd,Balaji Kannappan,PrismCore,11/30/2015 7:06:04 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+983245,Balaji Kannappan,PrismCore,11/30/2015 7:04:41 PM,Checked in Missing computationModule & Interface
+d7ad40,Yizhou WANG,PrismCore,11/30/2015 8:12:28 AM,Rename Solution files
+1880a7,Yizhou WANG,PrismCore,11/30/2015 7:41:44 AM,Renamed projects and added unit test and Contract tests.
+30c1fb,Balaji Kannappan,PrismCore,11/29/2015 11:27:38 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+f05afb,Balaji Kannappan,PrismCore,11/29/2015 11:26:26 PM,1.Added Initial implementation for PubRegisterar  ChannelStreamer   ComputationModule. 2. Whole orch
+a470bc,Yizhou WANG,PrismCore,11/24/2015 12:32:11 PM,Add Config example code
+a5db8b,Yizhou WANG,PrismCore,11/23/2015 2:20:17 PM,Create Metadata Service
+eb83d0,Yizhou WANG,PrismCore,11/23/2015 1:11:32 PM,Create initial version of OSDD service
+82d390,Zhuyun DAI,PrismCore,11/21/2015 4:51:57 PM,[Prism] Initial release Service Fabric Calculation POC solution.
+b40c18,Zhuyun DAI,PrismCore,11/20/2015 3:11:59 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismCore
+8d670f,Zhuyun DAI,PrismCore,11/20/2015 3:11:28 PM,[Prism] Upgrade Data package to latest.
+e6cab5,Balaji Kannappan,PrismCore,11/18/2015 9:12:41 PM,Cleaned up code
+a7b90c,Balaji Kannappan,PrismCore,11/18/2015 12:58:16 AM,Add WITSML Parser library to the Solution
+1a9ca3,Balaji Kannappan,PrismCore,11/18/2015 12:33:17 AM,Storm Implementation of Real time data processing pipeline
+fae18f,Zhuyun DAI,PrismCore,11/17/2015 4:52:17 PM,[Prism] Framework.Data version upgraded.
+9969da,Zhuyun DAI,PrismCore,11/17/2015 4:49:57 PM,[Prism] Use map<text  text> to store channel meta properties for extensibility.
+d9ead1,Zhuyun DAI,PrismCore,11/17/2015 3:37:51 PM,[Prism] Not to send request when nothing is selected.
+cf06c7,Zhuyun DAI,PrismCore,11/17/2015 3:00:44 PM,[Prism] Well format datetime.
+046e62,Zhuyun DAI,PrismCore,11/16/2015 10:41:42 PM,[Prism] Update package version.
+8d9b12,Zhuyun DAI,PrismCore,11/16/2015 10:40:10 PM,[Prism] Support getting the last several data points.
+169cd8,Zhuyun DAI,PrismCore,11/16/2015 9:55:17 PM,[Prism] Refactor PutViaIndex unit test.
+da13f2,Zhuyun DAI,PrismCore,11/16/2015 9:10:29 PM,[Prism] Support row count limit in GetData.
+19c2c8,Zhuyun DAI,PrismCore,11/16/2015 6:41:01 PM,[Prism] Supporting specify the row count limit to return in GetTimeData.
+140b88,Zhuyun DAI,PrismCore,11/16/2015 5:39:57 PM,[Prism] Change to use time index ascending order to store data point columns.
+913846,Zhuyun DAI,PrismCore,11/16/2015 3:33:38 PM,[Prism] Refactor channel creating code to prepare for depth channel.
+ab9c69,Zhuyun DAI,PrismCore,11/13/2015 9:36:40 PM,[Prism] Extract meta data validation code.
+5cc9e9,Zhuyun DAI,PrismSDK,11/12/2015 10:46:21 PM,[Prism] Upgrade Framework.Data package.
+14d105,Zhuyun DAI,PrismSDK,11/12/2015 10:24:26 PM,[Prism] Fix build error.
+25ac81,Zhuyun DAI,PrismSDK,11/12/2015 10:20:38 PM,[Prism] Move PlanckAdapter to PrismSDK repository.
+7a432a,Zhuyun DAI,PrismSDK,11/12/2015 10:13:38 PM,Merge branch 'master' of https://tfs.slb.com/tfs/slb1/Prism/_git/PrismSDK
+11a6cd,Zhuyun DAI,PrismSDK,11/12/2015 9:55:16 PM,[Prism] Release .gitignore file.
+e931a7,unknown,PrismSDK,11/11/2015 8:36:35 AM,new folder for Planck Adapter
+aa82ea,Yong Hao,Touch,1/5/2016 8:11:18 AM,[HY LQ] #305575 code changes from code reivew comments
+74747b,LI Qin,Touch,1/5/2016 6:41:12 AM,[LQ] #350575 re-factory
+64c1d4,LI Qin,Touch,1/4/2016 12:53:08 PM,[LQ] #350575 fix integration test failure
+d49ce9,Hui Qiu,Touch,12/31/2015 9:49:17 AM,[QH WJ] #350472 delete staging if exist.
+1980cf,Hui Qiu,Touch,12/31/2015 9:31:05 AM,[QH WJ] #350472 add stage code.
+8e72e1,LI Qin,Touch,12/31/2015 8:28:44 AM,[LQ HY] #350575 uncomment Delete-AzureResourceGroup
+d0b77c,Yong Hao,Touch,12/31/2015 7:32:54 AM,[LQ HY] #350575 add interagtion tests to integrate service from touch and touchdemo
+dab002,LI Qin,Touch,12/31/2015 2:42:22 AM,[LQ HY] #350575 re-factory
+193663,Hui Qiu,Touch,12/30/2015 7:57:30 AM,[QH LQ] #350472 fix pipline bug.
+d0930b,Hui Qiu,Touch,12/30/2015 7:44:30 AM,[QH LQ] #350472 publish nupkg to postint feed.
+03dba6,LI Qin,Touch,12/30/2015 5:25:12 AM,[LQ HY] #350575 make qa lp preview pass using int's code
+2e04e8,LI Qin,Touch,12/30/2015 3:22:06 AM,[LQ HY] #350575 fix pipeline fail
+377956,LI Qin,Touch,12/30/2015 3:09:14 AM,[LQ HY] #350575 add dependencies
+7c90a7,LI Qin,Touch,12/29/2015 2:52:29 AM,[LQ  HY] #350575 re-factory
+813302,LI Qin,Touch,12/29/2015 7:40:50 AM,[LQ HY] #350575 remove local nugetfeed
+179875,LI Qin,Touch,12/28/2015 10:58:05 AM,[LQ HY] #350575 inject dependency urls into Azure config
+f7be76,Alien Jian Wang,Touch,12/29/2015 7:39:08 AM,[cj wj] #351094 fix bug.
+6594ae,Alien Jian Wang,Touch,12/29/2015 7:29:28 AM,[cj wj] #351094 fix bug.
+cfd6da,Jun Chen,Touch,12/29/2015 4:32:07 AM,[CJ] #350472 fix pipeline error
+8c00cf,Alien Jian Wang,Touch,12/29/2015 3:00:16 AM,[dy wj] #351094 Roll back publish test result.
+92d807,Alien Jian Wang,Touch,12/29/2015 2:40:44 AM,[dy wj] #351094 test It.
+446c8c,Alien Jian Wang,Touch,12/29/2015 2:29:14 AM,[dy wj] #351094 test It.
+b603ce,Alien Jian Wang,Touch,12/29/2015 1:29:46 AM,[dy wj] #351094 test It.
+91f5cc,Hui Qiu,Touch,12/28/2015 11:25:05 AM,[WJ QH] #350472 fix bug
+27265d,Hui Qiu,Touch,12/28/2015 10:57:55 AM,[QH CJ] #350472 update nuget ci retrieve feed url.
+deaf3f,Hui Qiu,Touch,12/28/2015 10:42:46 AM,[QH CJ] #350472 update nuget ci retrieve feed url.
+a97e5c,Hui Qiu,Touch,12/28/2015 10:29:50 AM,[QH CJ] #350472 add nuget feeds in setting
+9ac13b,Hui Qiu,Touch,12/28/2015 10:09:13 AM,[QH CJ] #350472 add nuget feeds in setting
+831206,Alien Jian Wang,Touch,12/28/2015 9:59:27 AM,[DY WJ] #351094 Resolve conflict.
+b02fcc,Hui Qiu,Touch,12/28/2015 9:23:18 AM,[QH CJ] #350472 add nuget feeds in setting
+015644,Alien Jian Wang,Touch,12/28/2015 9:18:51 AM,[DY WJ] #351094 Publish Integration test to package build.
+3ea62f,LI Qin,Touch,12/28/2015 6:00:08 AM,[LQ HY] #344150 update qa lp preview tasks
+d8e5cc,LI Qin,Touch,12/25/2015 11:52:53 AM,[LQ] #344595 get publishSettings and swap automatically
+90863e,LI Qin,Touch,12/25/2015 11:02:06 AM,[LQ] #344595 add automated provision webApp
+235201,LI Qin,Touch,12/25/2015 7:42:50 AM,[LQ] #344595 create and remove ResourceGroup automatically
+ce47ae,LI Qin,Touch,12/25/2015 7:23:32 AM,[LQ] #344595 refactoring
+5e4af1,Hui Qiu,Touch,12/24/2015 10:41:33 AM,[QH LQ HK] #350472 publish to azure in qa stage.
+373f13,Hui Qiu,Touch,12/24/2015 10:18:47 AM,[QH LQ HK] #350472 remove packages.config after push to postint.
+e6da52,LI Qin,Touch,12/24/2015 10:20:40 AM,[LQ QH WJ] #350575 merge deploy dependency code from demo
+3551e3,Hui Qiu,Touch,12/24/2015 10:11:49 AM,[QH LQ HK] #350472 fix contains bug
+3239f2,Hui Qiu,Touch,12/24/2015 9:54:37 AM,[QH HK] #350472 pass dependency in qa stage.
+71a6ba,Hui Qiu,Touch,12/24/2015 7:55:03 AM,[QH LQ HK] #350472 nuget pack and push packages.config
+a0402a,Hui Qiu,Touch,12/24/2015 7:32:57 AM,[QH LQ HK] #350472 nuget pack and push packages.config
+170794,Hui Qiu,Touch,12/24/2015 3:20:48 AM,[QH LQ HK] #350472 publish to azure in integration.
+30ca3e,Hui Qiu,Touch,12/24/2015 2:54:31 AM,[QH LQ HK] #350472 restore set nuget feed to local path in go.server.config
+46b167,Hui Qiu,Touch,12/24/2015 2:41:04 AM,[QH HK] #350472 restore nuget pkg from prd ci
+542ff8,Jun Chen,Touch,12/23/2015 8:43:39 AM,[CJ] #341459 add TenantId for Azure service principle login
+18312d,LI Qin,Touch,12/22/2015 8:31:25 AM,[QH LQ] #350472 remove nuget2.2.exe
+167f2d,LI Qin,Touch,12/22/2015 6:21:46 AM,[QH LQ] #350472 add nuget2.2.exe
+ac70ac,LI Qin,Touch,12/22/2015 6:18:29 AM,[LQ] #350472 refactoring
+35622c,LI Qin,Touch,12/22/2015 2:52:12 AM,[QH LQ] #350472 don't install psake package when compile
+8196af,Alien Jian Wang,Touch,12/18/2015 10:31:38 AM,[wj wy] #347525 change to scripts to publish.ps1.
+4d1947,Alien Jian Wang,Touch,12/18/2015 10:03:57 AM,[wj wy] #347525 Add scripts to publish dependecy service.
+ac5976,WANG Yu(InterACT),Touch,12/18/2015 6:49:35 AM,[WY WJ] #347525 remove environment variable dependency in publish.ps1 to publish sevice inside nuget
+65c939,Alien Jian Wang,Touch,12/17/2015 9:14:55 AM,[wy wj] #347525 change invoke function.
+a1d81a,WANG Yu(InterACT),Touch,12/17/2015 9:00:47 AM,[WY WJ] #347525 Deploy sevice by the script and settings inside service package
+98deb9,WANG Yu(InterACT),Touch,12/17/2015 7:37:04 AM,[WY WJ] #347525 Package PublishSettings and publish.ps1
+95e398,LI Qin,Touch,12/16/2015 11:21:25 AM,[LQ] #342339 remove ServicePath config
+a87a2d,WANG Yu(InterACT),Touch,12/16/2015 8:14:29 AM,[WY  HK] #348700 add psut task to run powershell unit test.
+82fc69,WANG Yu(InterACT),Touch,12/16/2015 7:42:41 AM,[WY HK] #348700 Add test for it.ps1.
+0c0661,WANG Yu(InterACT),Touch,12/16/2015 7:36:40 AM,[WY HK] #348700 add unit test for it.ps1.
+e8b019,WANG Yu(InterACT),Touch,12/16/2015 7:34:27 AM,[WY HK] #348700 Add Pester tool.
+2b1a82,WANG Yu(InterACT),Touch,12/16/2015 6:08:45 AM,[WY HK] #347525 Add TODO comments.
+7f1f17,WANG Yu(InterACT),Touch,12/16/2015 2:34:03 AM,[WY HK] #347525 uncomment the code of deploying dependent services.
+a36ecc,LI Qin,Touch,12/15/2015 10:06:45 AM,[WJ LQ] #342339 create azure nuspec file for service project
+2c9798,LI Qin,Touch,12/15/2015 9:06:35 AM,[WJ LQ] #342339 extract swap as a shared function
+5e4d3f,WANG Yu(InterACT),Touch,12/15/2015 9:56:11 AM,[WY HK] #347525 revert.
+68a3c8,Xiaoyan Song,Touch,12/15/2015 9:43:18 AM,[SXY] #328397 modify nuspec to only pkg loadtest file once
+efac7a,WANG Yu(InterACT),Touch,12/15/2015 9:23:11 AM,[WY HK] #347525 Refactoring.
+d67aaf,WANG Yu(InterACT),Touch,12/15/2015 9:17:42 AM,[WY HK] #347525 Fix variable overwritten issue.
+5396ee,LI Qin,Touch,12/15/2015 8:52:46 AM,[WJ LQ] #342339 extract pack&push package as a shared function
+284f4c,WANG Yu(InterACT),Touch,12/15/2015 8:42:07 AM,[WY HK] #347525 Exclude scaffold_shared and adjust log message.
+dfc3c0,WANG Yu(InterACT),Touch,12/15/2015 8:25:48 AM,[WY HK] #347525 deploy latest services expect for itself. Depends on Pascal's work.
+fa33b8,LI Qin,Touch,12/11/2015 9:21:16 AM,[XL  LQ] #344150 add import psm1 in IncludeAll.ps1
+bbbfa3,LI Qin,Touch,12/11/2015 5:40:30 AM,[XL  LQ] #344150 rename build.ps1 to IncludeAll.ps1
+e5bf71,LI Qin,Touch,12/7/2015 10:28:02 AM,[LQ  YC] #344150 Use absolute path in swap task
+cccae1,LI Qin,Touch,12/7/2015 10:05:49 AM,[LQ  YC] #344150 Remove the obsolate file
+7e7476,LI Qin,Touch,12/7/2015 10:04:48 AM,[LQ  YC] #344150 Move the shared functions to scripts/modules/shared.ps1
+14c863,LI Qin,Touch,12/7/2015 9:12:00 AM,[LQ  YC] #344150 Add missing task files
+7cd198,LI Qin,Touch,12/7/2015 9:07:58 AM,[LQ  YC] #344150 Move all tasks to tasks folder
+c1d1bf,LI Qin,Touch,12/7/2015 8:49:25 AM,[YC  LQ] #344150 throw exection when build fail
+dd7bc2,LI Qin,Touch,12/7/2015 6:55:34 AM,[LQ  YC] #344150 Move clean task to the tasks folder
+8ebb55,phochart,Touch,12/7/2015 7:43:27 AM,[PH] #341459  task #341460: Exclude deployment project from build
+17c889,phochart,Touch,12/7/2015 12:05:31 AM,[PH] #341459/ Task 341460: WebTouch deployment project  Related Work Items: #341459  #341460
+20c4e7,LI Qin,Touch,12/4/2015 4:51:12 AM,[LQ] #343064 add test-path for unittest dll
+90e89c,LI Qin,Touch,12/3/2015 12:08:04 PM,[LQ] #336967 copy tfs.ps1 to Touch for testing
+3e5a58,Hui Qiu,Touch,12/3/2015 9:16:30 AM,[QH LQ] #336967 lptest stop if no loadtest file were found.
+4d170e,Hui Qiu,Touch,12/3/2015 8:51:19 AM,[QH LQ] #336967 fix setparameter bug
+631e17,Hui Qiu,Touch,12/3/2015 6:52:42 AM,[QH HJ] #336967 extract project name for deploy.cmd
+573c18,Hui Qiu,Touch,12/3/2015 3:39:19 AM,[QH HJ] #336967 change smoketest url to destinationAppUrl.
+bac442,Hui Qiu,Touch,12/3/2015 3:14:25 AM,[QH HJ] #336967 remove publish.ps1 from nupkg.
+10d2e7,LI Qin,Touch,12/2/2015 10:00:38 AM,[HJ LQ] #339967 remove reference publishConfig.xml to fix pipeline
+cdb7a0,LI Qin,Touch,12/2/2015 9:45:58 AM,[HJ LQ] #339967 apply publishSetting to swap
+c3f2b2,LI Qin,Touch,12/2/2015 9:34:24 AM,[HJ LQ] #339967 replace publishConfig.xml with publishSettings
+5c7e3e,Haijiao Yao,Touch,12/2/2015 9:23:58 AM,[HJ  LQ] #339967 add staging publish settings
+886806,Haijiao Yao,Touch,12/2/2015 7:05:13 AM,[LQ  HJ] #337105 remove publish api key from local config
+1f6164,Haijiao Yao,Touch,12/2/2015 5:37:33 AM,[HJ LQ] #337105 add nocache for nuget
+906203,Haijiao Yao,Touch,12/2/2015 2:38:04 AM,[HJ] #337105 clean code related to the local build
+2b1d99,Haijiao Yao,Touch,12/1/2015 10:13:28 AM,[ZYH  HJ] #337105 extract release version to config file
+bb622c,Haijiao Yao,Touch,12/1/2015 7:41:32 AM,[ZYH  HJ] #337105 replace nuget package name with env varible
+54993a,Xiao Lei Song,WITSML,1/5/2016 3:39:28 AM,[Sxl] #351073 change server deploy config
+a67b27,Xiao Lei Song,WITSML,1/5/2016 3:34:26 AM,[Sxl] #351073 split cloud service deploy as 2 step
+881d65,Xiao Lei Song,WITSML,1/4/2016 1:53:54 PM,[Sxl] #351073 Refactor Login Param  it can login with sm and rm mode
+e7699a,Xiao Lei Song,WITSML,1/4/2016 12:35:08 PM,[Sxl] #351073 Add create storage account feature for AzureDeploy.ps1
+82af0a,Xiao Lei Song,WITSML,1/4/2016 4:37:46 AM,[Sxl] #3
+174607,Xiao Lei Song,WITSML,12/31/2015 9:47:24 AM,[Sxl] #351073 change witsml config
+5cd592,Xiao Lei Song,WITSML,12/30/2015 10:50:11 AM,[Sxl] #351073 change user password in go.ps1.server.config
+e38b3e,Xiao Lei Song,WITSML,12/30/2015 10:37:44 AM,[Sxl] #351073 Refacotr witsml deploy code
+5a25aa,Xiao Lei Song,WITSML,12/30/2015 9:46:57 AM,[Sxl] #351073 Refactor Witsml deployment code
+42add7,Xiao Lei Song,WITSML,12/29/2015 10:09:51 AM,[Sxl] After deploy EventHub  Change Ingest.ConnectionString value
+d88075,Xiao Lei Song,WITSML,12/29/2015 5:38:00 AM,[Sxl]#351073 Rename config item for witsml
+74f787,Haijiao Yao,WITSML,12/29/2015 3:33:02 AM,[hj] #351073 enable shared access when create enventhub
+c5b2e8,Xiao Lei Song,WITSML,12/28/2015 10:00:20 AM,[Sxl] #351073 Add swap feature for witsml publish
+8db7a8,Haijiao Yao,WITSML,12/28/2015 9:50:47 AM,[hj] #351073 trigger a new build to test event hub creation
+93df01,Haijiao Yao,WITSML,12/28/2015 8:29:09 AM,[hj] #351073 create eventhub if not exist on azure
+e8e1df,Xiao Lei Song,WITSML,12/25/2015 8:50:11 AM,[Sxl] #351073 test it task
+14b467,Xiao Lei Song,WITSML,12/25/2015 8:17:34 AM,[Sxl] #351073 test it task
+b37c38,Xiao Lei Song,WITSML,12/25/2015 5:31:26 AM,[Sxl] #351073 test it task
+b660ad,Xiao Lei Song,WITSML,12/25/2015 5:17:09 AM,[Sxl] #351073 test it task
+5eb97d,Xiao Lei Song,WITSML,12/25/2015 4:48:09 AM,[Sxl] #351073 config azure user to deploy cloud service
+038be0,Jun Chen,WITSML,12/25/2015 3:18:45 AM,[CJ] #n/a enable all information output
+0778d6,Xiao Lei Song,WITSML,12/24/2015 12:06:39 PM,[Sxl] #351073 Change cloud config
+466639,Xiao Lei Song,WITSML,12/24/2015 10:35:30 AM,[Sxl] #351073 make ut and ct pass
+1005fc,Xiao Lei Song,WITSML,12/24/2015 10:18:48 AM,[Sxl] #351073 upload unget package and download unget pkackage for pulish cloud service
+9ffb99,Xiao Lei Song,WITSML,12/24/2015 7:36:44 AM,[Sxl] #351073 Change go.ps1.server.config
+a18856,Xiao Lei Song,WITSML,12/24/2015 5:12:20 AM,[Sxl Hj] #3510173 Add publish cloud service feature
+c934d9,Haijiao Yao,WITSML,12/24/2015 3:11:35 AM,[HJ] #351073 enable nuget pkg and publish to nuget server
+eae245,Xiao Lei Song,WITSML,12/24/2015 2:19:14 AM,[Sxl HJ] #351073 Add feature of publish cloud service
+5c79ed,Xiao Lei Song,WITSML,12/23/2015 7:33:25 AM,[Sxl HJ] #351073 Add publish azure cloud service feature
+b09701,Xiao Lei Song,WITSML,12/22/2015 9:12:50 AM,[Sxl Hj] #351073 Add package task for witsml
+5c1ede,Xiao Lei Song,WITSML,12/22/2015 8:27:43 AM,[Sxl Hj] #351073 Add complie task for witsml
+a5b83f,Xiao Lei Song,WITSML,12/22/2015 8:12:14 AM,[Sxl Hj] #351073 Add clean task for witsml
+11bea4,Xiao Lei Song,WITSML,12/22/2015 5:58:34 AM,[Sxl HJ] #351073 Rename Witsml solution to match naming convention
+d218f2,Xiao Lei Song,WITSML,12/21/2015 5:45:37 AM,[PipelineAdmin] #N/A Create Scaffold Scripts
+479f4b,Yizhou WANG,WITSML,12/15/2015 12:32:27 PM,[Yizhou] Fix build issues  and change configuration for cloud access  Related Work Items: #328412
+266a4c,Balaji Kannappan,WITSML,12/1/2015 9:34:06 PM,WITSML Store API POC
+67a4cb,Hui Qiu,WITSML,11/9/2015 3:42:10 AM,demo init commit
