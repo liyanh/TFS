@@ -35,3 +35,6 @@ D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\
 D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 D:\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Tfs tool Github\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Tfs tool Github\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Tfs tool Github\TFS\ChangeSet Tool\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
