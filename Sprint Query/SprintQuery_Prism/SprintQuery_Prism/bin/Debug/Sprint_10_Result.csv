@@ -1,0 +1,40 @@
+Sprint member effort
+Name,Sum of Original Estimate,Sum of Completed Work
+Dao Yong Zhang,24,28
+Xiaoyan Song,64,64
+WANG Yu(InterACT),24,70
+Yong Chao BIAN,24,60
+Yanhong Li,24,20
+LI Qin,56,56
+Xiao Lei Song,48,72
+XiaoBin DENG,64,64
+Yinhua Zhao,64,54
+Tong Feng,60,60
+Limin YUE,0,14
+Dandan Li,68,60
+Sheng Huang,0,0
+
+
+Activity VS effort
+Activity,Sum of Original Estimate,% Original,Sum of Completed Work,% Real
+Development,220,42.31%,296,47.59%
+(blank),180,34.62%,198,31.83%
+Documentation,32,6.15%,46,7.40%
+Testing,8,1.54%,4,0.64%
+Design,24,4.62%,24,3.86%
+Requirements,56,10.77%,54,8.68%
+Grand Total,520,1,622,1
+
+
+User Story
+StoryID, Assigned To, Status,Story Point,Completed effort in This Sprint,Title,LeadTime
+364198,,New,null,8.25,Just Effort Track,
+383297,WANG Yu(InterACT),Closed,4,5,[Spike][KickOff] Azure Message Queue versus Rabbit MQ,-0.21
+383357,WANG Yu(InterACT),Closed,8,4.25,[Kickoff]Audit Logging: As multiple surveys are published from different wells. can audit particular well publication,24.92
+384966,XiaoBin DENG,Closed,10,7.5,[Tech][KickOff]Survey: Prism Message Structure - ETP encapsulation (scope = Survey),16.96
+389124,Yong Chao BIAN,Closed,1,2.125,[Tech] [SignOff] Restructure MessageProcessing service for new version scaffold and new service name,9.92
+391767,Tong Feng,Closed,4,6.5,[Spike][KickOff][SignOff] Redesign listener service for scalability.,9.08
+391768,Yinhua Zhao,Closed,1,7.125,[Tech][Kickoff][Signoff] Define and document the listener service API,6.96
+Sum
+Closed Story Points,28
+Completed effort in Closed Story,52.75

@@ -20,3 +20,11 @@ D:\TFS\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\bin\Debug\SprintQuery.pd
 D:\TFS\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
 D:\TFS\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\bin\Debug\Microsoft.WITDataStore.dll
 D:\TFS\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\obj\Debug\SprintQuery.csprojResolveAssemblyReference.cache
+C:\Users\YLi102\Desktop\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\bin\Debug\SprintQuery.exe.config
+C:\Users\YLi102\Desktop\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\obj\Debug\SprintQuery.exe
+C:\Users\YLi102\Desktop\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\obj\Debug\SprintQuery.pdb
+C:\Users\YLi102\Desktop\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\bin\Debug\SprintQuery.exe
+C:\Users\YLi102\Desktop\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\bin\Debug\SprintQuery.pdb
+C:\Users\YLi102\Desktop\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\YLi102\Desktop\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\bin\Debug\Microsoft.WITDataStore.dll
+C:\Users\YLi102\Desktop\Sprint Query\SprintQuery_Prism\SprintQuery_Prism\obj\Debug\SprintQuery.csprojResolveAssemblyReference.cache

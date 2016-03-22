@@ -1,0 +1,23 @@
+Sprint original estimation of real time team
+Name,Sum of Original Estimate,Sum of Completed Work
+
+
+Activity VS effort
+Activity,Sum of Original Estimate,% Original,Sum of Completed Work,% Real
+Grand Total,0,1,0,1
+
+
+StoryID, Assigned To, Status,Story Point,Completed effort in This Sprint,Title,LeadTime(hours)
+351748,,New,null,0,[WY.XY]<100 users & <10 locations & < 100 computers view one same survey at the same time.,
+369714,,New,4,0,RT InterAct Support,
+383324,Yinhua Zhao,Active,7,0,[YH.SP][Kickoff] Rig Planck Simulator can provision itself with Device Management Service on Prism (authentication is skipped),
+391769,Xiao Lei Song,Active,3,0,[DY][KickOff][Tech] Listener Service - Option Non-Scalable,
+391770,XiaoBin DENG,Active,4,0,[LQ.XB][KickOff] Stream Router : Adopt Prism Message to route the incoming stream of data,
+391790,Tong Feng,Active,null,0,[FT][Kickoff]DeviceMessage error listener service,
+395170,,New,null,0,[XB.LQ][Tech] Add wellboreId where it is required,
+401972,,New,null,0,[Yongchao]ROE view new survey notification and survey data on simulator deployed on Azure ,
+401975,,New,null,0,As an ROE. I can see it when multiple surveys are imported from rig-side,
+403324,,New,null,0,[Sheng. Chenyue]ROE accept survey and the accept command is sent back to rig,
+Sum
+Closed Story Points,0
+Completed effort in Closed Story,0

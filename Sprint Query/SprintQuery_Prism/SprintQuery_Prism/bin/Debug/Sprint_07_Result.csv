@@ -1,4 +1,4 @@
-Sprint original estimation of real time team
+Sprint member effort
 Name,Sum of Original Estimate,Sum of Completed Work
 LI Qin,64,64
 Xiaoyan Song,54,54
@@ -18,18 +18,17 @@ Design,24,8.39%,32,10.36%
 Grand Total,286,1,309,1
 
 
-StoryID, Assigned To, Status,Story Point,Title
-358296,LI Qin,Closed,3,[KickOff]Audit trace which device send for each survey
-364198,,New,null,Just Effort Track
-364952,Yong Chao BIAN,Closed,3,[Tech][KickOff] Setup a logstash related server on VM on cloud
-364955,LI Qin,Closed,2,[Tech][Kickoff]Implement audit trail service to write Trace log.
-364959,LI Qin,Closed,4,[Tech][Kickoff] Isolate local and Pipeline env
-364994,Yong Chao BIAN,Closed,4,[Tech][Kickoff] Cleanup IoT/EventHub before IT
-365637,Xiaoyan Song,Closed,4,[Tech][KickOff] Refactor Configuration for Message Processing
-365649,WANG Yu(InterACT),Closed,2,[Tech][Kickoff]Create Pipeline for Audit Trail service
-365665,Xiao Lei Song,Closed,3,[KickOff][Spike] SignalR usage
-369724,Tong Feng,Closed,3,[Spike] Service Fabric usage
+User Story
+StoryID, Assigned To, Status,Story Point,Completed effort in This Sprint,Title,LeadTime
+358296,LI Qin,Closed,3,3,[KickOff]Audit trace which device send for each survey,26.83
+364952,Yong Chao BIAN,Closed,3,2,[Tech][KickOff] Setup a logstash related server on VM on cloud,28.71
+364955,LI Qin,Closed,2,2,[Tech][Kickoff]Implement audit trail service to write Trace log.,20.25
+364959,LI Qin,Closed,4,3.5,[Tech][Kickoff] Isolate local and Pipeline env,7.21
+364994,Yong Chao BIAN,Closed,4,1,[Tech][Kickoff] Cleanup IoT/EventHub before IT,-12.96
+365637,Xiaoyan Song,Closed,4,3,[Tech][KickOff] Refactor Configuration for Message Processing,7.21
+365649,WANG Yu(InterACT),Closed,2,3.5,[Tech][Kickoff]Create Pipeline for Audit Trail service,20.00
+365665,Xiao Lei Song,Closed,3,4,[KickOff][Spike] SignalR usage,-13.04
+369724,Tong Feng,Closed,3,3.5,[Spike] Service Fabric usage,0.04
 Sum
-All Story Points,28
 Closed Story Points,28
-Completed Tasks Points,38.625
+Completed effort in Closed Story,25.5
