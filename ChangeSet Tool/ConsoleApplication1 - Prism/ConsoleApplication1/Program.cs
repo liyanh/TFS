@@ -31,20 +31,15 @@ namespace ConsoleApplication1
         static DateTime DateEnd = DateTime.Now;
         static string startdate = "";
         static string enddate = "";
-       
+
         static void Main(string[] args)
-        {                       
+        {
             Console.WriteLine("123!");
-                                
             Boolean startDateBoo = true;
             while (startDateBoo)
             {
                 try
                 {
-                    //DateTime.TryParse(string.Format("{yyyy-MM-DD}:00", starttime),out dt);                   
-                    // /*
-                    //* 暂时注释，输入时间 datestart and dateend,try timeformate catch
-
                     System.Console.Write("Input the start time (yyyy-mm-dd): ");
                     startdate = Console.ReadLine();
                     string starttime = startdate + " 00:00:00";
@@ -78,12 +73,11 @@ namespace ConsoleApplication1
             }
 
             //创建文件                       
-            FileStream fs = new FileStream(Environment.CurrentDirectory + "\\" + "Prism_" + startdate + "---" + enddate  + "_Result.csv", FileMode.OpenOrCreate, FileAccess.Write, FileShare.Read);
+            FileStream fs = new FileStream(Environment.CurrentDirectory + "\\" + "Prism_" + startdate + "---" + enddate + "_Result.csv", FileMode.OpenOrCreate, FileAccess.Write, FileShare.Read);
             fs.SetLength(0);
             StreamWriter sw = new StreamWriter(fs);
             sw.WriteLine("ChangesetID,Owner,Group,CreateDate,LinkedType,LinkedId,Comment");
 
-            //服务器连接，相关对象的获取 
             string comId = "";
             string aurhou = "";
             string audate = "";
@@ -93,47 +87,22 @@ namespace ConsoleApplication1
             string linkedId = "unlinked";
             string linkedType = "unlinked";
 
-            
-            string reqUriCommit = "https://tfs.slb.com/tfs/SLB1/Prism/_apis/git/repositories/CDaas/commits/59016e0b82da6ee063a5905d3eea5b2ea9aa02ba?api-version=1.0";
-            HttpWebRequest requestCommit = WebRequest.Create(reqUriCommit) as HttpWebRequest;
-            requestCommit.Credentials = new NetworkCredential("YLi102", "Lifor#900516");
-            var responseCommitValue = string.Empty;
-            using (var response = requestCommit.GetResponse() as HttpWebResponse)
-            {
+            string[] serbra = {"Core.Library.Protocol","Core.Library.Sabre","Core.Service.AuditLogging","Core.Service.ChannelData.Listener",
+                                "Core.Service.ChannelData.Reader","Core.Service.ChannelData.Writer","Core.Service.Command","Core.Service.DemoApp",
+                                "Core.Service.Entitlement","Core.Service.Listener","Core.Service.StreamRouter","Core.Service.SurveryData.Writer",
+                                "Core.Service.SurveyData.Listener","Core.Service.SurveyData.Reader"};
+            //string[] serbra = {"CDaas"};
 
-                if (response.StatusCode != HttpStatusCode.OK)
-                {
-                    var message = String.Format("Request failed. Received HTTP {0}", response.StatusCode);
-                    throw new ApplicationException(message);
-                }
-
-                // grab the response
-                using (var responseStream = response.GetResponseStream())
-                {
-                    if (responseStream != null)
-                        using (var reader = new StreamReader(responseStream))
-                        {
-                            responseCommitValue = reader.ReadToEnd();
-                        }
-                }
-            }
-            Console.WriteLine(responseCommitValue);                
-            
-
-
-            //string[] serbra = {"Archive","CDaas","Demo","DemoApp","ETP","MessageProcessing","Metadata","PrismCore","PrismSDK","Touch","WITSML"};
-            string[] serbra = {"CDaas"};
-
-            foreach(string team in serbra)
+            foreach (string team in serbra)
             {
                 Console.WriteLine(team);
-                string reqUri = "https://tfs.slb.com/tfs/SLB1/Prism/_apis/git/repositories/" + team + "/commits?fromDate=" + startdate + "&toDate=" + enddate + "&api-version=1.0";                
+                string reqUri = "https://tfs.slb.com/tfs/SLB1/Prism/_apis/git/repositories/" + team + "/commits?fromDate=" + startdate + "&toDate=" + enddate + "&api-version=1.0";
                 HttpWebRequest request = WebRequest.Create(reqUri) as HttpWebRequest;
-                request.Credentials = new NetworkCredential("YLi102","Lifor#900516");
+                request.Credentials = new NetworkCredential("YLi102", "Lifor#900516");
                 var responseValue = string.Empty;
                 using (var response = request.GetResponse() as HttpWebResponse)
                 {
-               
+
                     if (response.StatusCode != HttpStatusCode.OK)
                     {
                         var message = String.Format("Request failed. Received HTTP {0}", response.StatusCode);
@@ -148,22 +117,22 @@ namespace ConsoleApplication1
                             {
                                 responseValue = reader.ReadToEnd();
                             }
-                    }                
+                    }
                 }
 
                 JObject respJson = JObject.Parse(responseValue);
-                Console.WriteLine(respJson["count"]);                
+                Console.WriteLine(respJson["count"]);
 
                 JArray arr = JArray.Parse(respJson["value"].ToString());
                 foreach (JObject comjob in arr)
                 {
                     Console.WriteLine(comjob["commitId"].ToString());
-                    comId = comjob["commitId"].ToString().Substring(0, 6);
+                    comId = comjob["commitId"].ToString();
                     aurhou = comjob["author"]["name"].ToString();
                     audate = comjob["author"]["date"].ToString();
                     committer = comjob["committer"]["name"].ToString();
                     comdate = comjob["committer"]["date"].ToString();
-                    comment = comjob["comment"].ToString();                    
+                    comment = comjob["comment"].ToString();
 
                     Dictionary<string, string> itemMap = new Dictionary<string, string>();
                     Regex itemId = new Regex("#\\d+");
@@ -201,7 +170,7 @@ namespace ConsoleApplication1
                                     }
                                 }
 
-                                //Console.WriteLine(commitInfo);
+                                Console.WriteLine(commitInfo);
                                 JObject itemJson = JObject.Parse(commitInfo);
                                 linkedType = itemJson["fields"]["System.WorkItemType"].ToString();
                             }
@@ -217,19 +186,60 @@ namespace ConsoleApplication1
                         linkedId = "unlinked";
                         linkedType = "unlinked";
                     }
-                    sw.WriteLine("" + comId + ',' + aurhou + ',' + team + ',' + audate + ',' + linkedType + ',' + linkedId + ',' + Regex.Replace(comment, @"[\n\r,]", " "));
-                }
-            }
-                              			
-            sw.Close();
-			fs.Close();
-            System.Console.WriteLine("      done!");
-            System.Console.WriteLine("**********end**********");
-          
-			Thread.Sleep(5000);
-            
-        }
-        
-    }
 
+                    if ("unlinked".Equals(linkedId) == false)
+                    {
+                        Boolean commitBe = false;
+                        string usHistoryUri = "https://tfs.slb.com/tfs/SLB1/_apis/wit/workitems/" + linkedId + "/history";
+                        //Console.WriteLine(commitInfoUri);
+                        HttpWebRequest historyReq = WebRequest.Create(usHistoryUri) as HttpWebRequest;
+                        historyReq.Credentials = new NetworkCredential("YLi102", "Lifor#900516");
+                        var historyInfo = string.Empty;
+                        try
+                        {
+                            using (var historyResp = historyReq.GetResponse() as HttpWebResponse)
+                            {
+
+                                if (historyResp.StatusCode != HttpStatusCode.OK)
+                                {
+                                    var message = String.Format("Request failed. Received HTTP {0}", historyResp.StatusCode);
+                                    throw new ApplicationException(message);
+                                }
+
+                                // grab the response
+                                using (var responseStream = historyResp.GetResponseStream())
+                                {
+                                    if (responseStream != null)
+                                        using (var reader = new StreamReader(responseStream))
+                                        {
+                                            historyInfo = reader.ReadToEnd();
+                                        }
+                                }
+                            }
+
+                            //Console.WriteLine(commitInfo);
+                            JObject itemJson = JObject.Parse(historyInfo);
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine(comId);
+                            linkedType = "error";
+                        }
+
+                        sw.WriteLine("" + comId + ',' + aurhou + ',' + team + ',' + audate + ',' + linkedType + ',' + linkedId + ',' + Regex.Replace(comment, @"[\n\r,]", " "));
+                    }
+                }
+
+                sw.Close();
+                fs.Close();
+                System.Console.WriteLine("      done!");
+                System.Console.WriteLine("**********end**********");
+
+                Thread.Sleep(5000);
+
+            }
+
+        }
+
+    }
 }

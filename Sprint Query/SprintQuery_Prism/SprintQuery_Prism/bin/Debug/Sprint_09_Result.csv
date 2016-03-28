@@ -25,16 +25,16 @@ Grand Total,492,1,416,1
 
 
 User Story
-StoryID, Assigned To, Status,Story Point,Completed effort in This Sprint,Title,LeadTime
-364212,Tong Feng,Closed,6,4,[Tech][Kickoff] Survey: Replace Storm with Service Fabric for view survey workflow,14.71
-367433,WANG Yu(InterACT),New,1,0.75,Unit Test coverage,
-369883,Yong Chao BIAN,Closed,4,4.5,[Tech][Kickoff] Audit Logging are collected thru ElasticSearch+Kibana,15.79
-370591,Pascal Hochart,Resolved,4,2.625,[Tech] WebAPI documentation publication through Swagger for process reviews,7.33
-377279,LI Qin,Closed,3,2.25,[Tech][KickOff] Audit Logging: Rename service name from AuditTrail to AuditLogging,4.13
-383307,Xiao Lei Song,Closed,4,4,[Kickoff][Spike] Prepare for Developing Listener Service,10.13
-385672,Dandan Li,Active,null,2,KPI Dashboard,
-386458,WANG Yu(InterACT),New,2,0.125,[Tech] Audit Logging: ElasticSearch Queriability in support of AuditLogging Service,
-393677,,Closed,null,0,[Spike] Device Provisioning,16.04
+StoryID, Assigned To, Status,Story Point,Completed effort in This Sprint,Title,Start Time,Lead Time
+364212,Tong Feng,Closed,6,4,[Tech][Kickoff] Survey: Replace Storm with Service Fabric for view survey workflow,2/15/2016 4:47:27 PM,14.71
+367433,WANG Yu(InterACT),New,1,0.75,Unit Test coverage,2/25/2016 11:40:30 AM,
+369883,Yong Chao BIAN,Closed,4,4.5,[Tech][Kickoff] Audit Logging are collected thru ElasticSearch+Kibana,2/15/2016 4:02:49 PM,15.79
+370591,Pascal Hochart,Resolved,4,2.625,[Tech] WebAPI documentation publication through Swagger for process reviews,2/25/2016 9:39:16 AM,7.33
+377279,LI Qin,Closed,3,2.25,[Tech][KickOff] Audit Logging: Rename service name from AuditTrail to AuditLogging,2/22/2016 11:17:22 AM,4.13
+383307,Xiao Lei Song,Closed,4,4,[Kickoff][Spike] Prepare for Developing Listener Service,2/23/2016 9:47:46 AM,10.13
+385672,Dandan Li,Active,null,2,KPI Dashboard,2/25/2016 2:45:52 PM,
+386458,WANG Yu(InterACT),New,2,0.125,[Tech] Audit Logging: ElasticSearch Queriability in support of AuditLogging Service,2/29/2016 9:22:26 AM,
+393677,,Closed,null,0,[Spike] Device Provisioning,2/22/2016 4:06:49 PM,16.04
 Sum
 Closed Story Points,17
 Completed effort in Closed Story,22.125

@@ -78,7 +78,7 @@ namespace SprintQuery
             sw.WriteLine();
             sw.WriteLine();
             sw.WriteLine("User Story");
-            sw.WriteLine("StoryID, Assigned To, Status,Story Point,Completed effort in This Sprint,Title,LeadTime");
+            sw.WriteLine("StoryID, Assigned To, Status,Story Point,Completed effort in This Sprint,Title,Start Time,Lead Time");
             double usTaskCompPoint = usTaskComp / 8;
             foreach (KeyValuePair<string, List<string>> item in user_story)
             {
@@ -195,6 +195,7 @@ namespace SprintQuery
                 }
                 story_Info.Add((usCompletedEffort / 8).ToString());
                 story_Info.Add(rev.Fields["Title"].Value.ToString().Replace(",", "."));
+                story_Info.Add(startTime(wi));
                 story_Info.Add(leadTime(wi));
                 string storyId = rev.Fields["Id"].Value.ToString();
                 user_story.Add(storyId, story_Info);
@@ -206,19 +207,12 @@ namespace SprintQuery
         private static string leadTime(WorkItem wi)
         {
             string leadTime = string.Empty;
-            Revision rev = getWorkItemRevision(wi);
+            Revision rev = getWorkItemRevision(wi);           
             string usState = rev.Fields["State"].Value.ToString();
             if ("Closed".Equals(usState) | "Resolved".Equals(usState))
             {
-                DateTime earliestTask = DateTime.Now;
-                DateTime usEnd = new DateTime();
-                List<WorkItem> childItems= getWorkItemChild(wi);
-                foreach (WorkItem child in childItems)
-                {
-                    Revision revChild = getWorkItemRevision(child);
-                    DateTime taskCreate = DateTime.Parse(revChild.Fields["Created Date"].Value.ToString(), CultureInfo.InvariantCulture);
-                    earliestTask = earliestTask < taskCreate ? earliestTask : taskCreate;
-                }                
+                DateTime earliestTask = DateTime.Parse(startTime(wi), CultureInfo.InvariantCulture);
+                DateTime usEnd = new DateTime();                                
                 if (rev.Fields["Closed Date"].Value != null)
                 {
                     usEnd = DateTime.Parse(rev.Fields["Closed Date"].Value.ToString(), CultureInfo.InvariantCulture);
@@ -231,6 +225,28 @@ namespace SprintQuery
                 leadTime = (dura.Days + Convert.ToDouble(dura.Hours)/24).ToString("0.00");
             }           
             return leadTime;            
+        }
+
+        //user story start time
+        private static string startTime(WorkItem wi)
+        {
+            string stTime = null;
+            DateTime earliestTask = DateTime.Now;
+            List<WorkItem> childItems = getWorkItemChild(wi);
+            if (childItems.Count() == 0)
+            {
+                return stTime;
+            }
+            else
+            {
+                foreach (WorkItem child in childItems)
+                {
+                    Revision revChild = getWorkItemRevision(child);
+                    DateTime taskCreate = DateTime.Parse(revChild.Fields["Created Date"].Value.ToString(), CultureInfo.InvariantCulture);
+                    earliestTask = earliestTask < taskCreate ? earliestTask : taskCreate;
+                }
+                return earliestTask.ToString();
+            }
         }
 
         //closed user story story point vs acturl copmleted work effort

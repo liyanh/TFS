@@ -1,0 +1,6 @@
+D:\TFS\KPI_Code_Duplication\KPI_Code_Duplication\bin\Debug\KPI_Code_Duplication.exe.config
+D:\TFS\KPI_Code_Duplication\KPI_Code_Duplication\bin\Debug\KPI_Code_Duplication.exe
+D:\TFS\KPI_Code_Duplication\KPI_Code_Duplication\bin\Debug\KPI_Code_Duplication.pdb
+D:\TFS\KPI_Code_Duplication\KPI_Code_Duplication\obj\Debug\KPI_Code_Duplication.exe
+D:\TFS\KPI_Code_Duplication\KPI_Code_Duplication\obj\Debug\KPI_Code_Duplication.pdb
+D:\TFS\KPI_Code_Duplication\KPI_Code_Duplication\obj\Debug\KPI_Code_Duplication.csprojResolveAssemblyReference.cache

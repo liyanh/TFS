@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Machado.Microsoft.TeamFoundation</id>
+    <version>12.0.0.0</version>
+    <title>[unofficial] Microsoft.TeamFoundation</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <projectUrl>http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.aspx</projectUrl>
+    <iconUrl>https://alexandre-machado.visualstudio.com/_static/tfs/20140421T193458/_content/tfs-large-icons.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>[Obs.:] Para Microsoft.TeamFoundation 15+, por favor consulte: https://www.visualstudio.com/integrate
+
+Visual Studio Team Foundation</description>
+  </metadata>
+</package>

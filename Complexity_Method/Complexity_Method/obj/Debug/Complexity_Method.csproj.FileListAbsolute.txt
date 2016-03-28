@@ -1,0 +1,6 @@
+D:\TFS\Complexity_Method\Complexity_Method\bin\Debug\Complexity_Method.exe.config
+D:\TFS\Complexity_Method\Complexity_Method\bin\Debug\Complexity_Method.exe
+D:\TFS\Complexity_Method\Complexity_Method\bin\Debug\Complexity_Method.pdb
+D:\TFS\Complexity_Method\Complexity_Method\obj\Debug\Complexity_Method.exe
+D:\TFS\Complexity_Method\Complexity_Method\obj\Debug\Complexity_Method.pdb
+D:\TFS\Complexity_Method\Complexity_Method\obj\Debug\Complexity_Method.csprojResolveAssemblyReference.cache

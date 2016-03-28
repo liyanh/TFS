@@ -1,0 +1,98 @@
+ChangesetID,Owner,Group,CreateDate,LinkedType,LinkedId,Comment
+6427a82b28dd4b51e26fddc52fc630d242ca72e1,XiaoBin DENG,Core.Library.Protocol,3/7/2016 9:49:29 AM,User Story,384966,[DXB LQ] #384966 Define SurveyPoint data type
+8d68ecbac4c4939253282eb9aec4c6e118ce54e0,XiaoBin DENG,Core.Library.Protocol,3/7/2016 7:04:16 AM,User Story,384966,[DXB LQ] #384966 Update survey protocol fields to array type
+2508e86a53a03d2896e918dd58ac52e470b6198d,XiaoBin DENG,Core.Library.Protocol,3/7/2016 6:29:41 AM,User Story,384966,[DXB LQ] #384966 Enhance prism message definition  add survey protocol
+1b8d1340ef514580a339c3c49b8132507476dc34,LI Qin,Core.Library.Protocol,3/4/2016 4:16:42 AM,User Story,384966,[LQ DXB] #384966 fix pipeline failure
+d8bcebe45fa0f8f3a8a3fa2f43fde7788d4a4604,LI Qin,Core.Library.Protocol,3/4/2016 4:07:38 AM,User Story,384966,[LQ DXB] #384966 compile as Debug configuration to make package works firstly
+db664c1ca528356386e677ed661626e10031504e,LI Qin,Core.Library.Protocol,3/4/2016 3:59:41 AM,User Story,384966,[LQ DXB] #384966 add publish nuget package
+79023525984eae35dfa1846cd3714d9a5915252e,LI Qin,Core.Library.Protocol,3/4/2016 3:22:25 AM,User Story,384966,[LQ DXB] #384966 move nuspec out of DeployPackage folder for packaging
+ee17038041d9e9a1949ae9eb98fe434a309b1c00,LI Qin,Core.Library.Protocol,3/3/2016 10:30:40 AM,User Story,384966,[LQ DXB] #384966 remove useless files
+60ba925ad870d0d18c3f8829c0c5ba776b741273,LI Qin,Core.Library.Protocol,3/3/2016 10:27:28 AM,User Story,384966,[LQ DXB] #384966 remove package project
+7f8fd76bc729d9e6bf35ccf330a4e1c8a03a4367,XiaoBin DENG,Core.Library.Protocol,3/3/2016 8:59:38 AM,User Story,384966,[DXB LQ] #384966 Add empty ct test
+2128e94903a9461843a7c5b2bbfe6e3ae3a4f269,XiaoBin DENG,Core.Library.Protocol,3/3/2016 8:39:17 AM,User Story,384966,[DXB LQ] #384966 Change for Initial Pipeline
+07ea3af3705acfdf4b746439c4c13f80f2e221de,Chen Yue Zhang,Core.Library.Sabre,3/7/2016 4:46:38 PM,unlinked,unlinked,refactor rect  remove Rect class and add util functions
+a380886b893144bdd9bb835bcf0c3f2296ae3949,Chen Yue Zhang,Core.Library.Sabre,3/7/2016 11:56:01 AM,unlinked,unlinked,add VDL insert code
+35fd4511ba5909078e1de5c9bc9716d611b576f6,Chen Yue Zhang,Core.Library.Sabre,3/7/2016 9:55:59 AM,unlinked,unlinked,add waveform image preview to insert
+5997aea381d17de109a665b83912c3b8535240c1,Chen Yue Zhang,Core.Library.Sabre,3/4/2016 11:55:01 AM,unlinked,unlinked,add area fill
+5704cc5e94bb68d04c7e8c171404424a5dcc2e67,Chen Yue Zhang,Core.Library.Sabre,3/3/2016 12:07:05 PM,unlinked,unlinked,add obj for insert
+2334970abcc05df47c2e4a213a13e339bf1a015d,Chen Yue Zhang,Core.Library.Sabre,3/3/2016 10:51:03 AM,unlinked,unlinked,modified insert draw
+157815e5d115b6d76d3903bab193aa5d20afd560,Chen Yue Zhang,Core.Library.Sabre,3/3/2016 10:45:59 AM,unlinked,unlinked,insert refactor
+866425f3fe7f02315072128e90f765166129d9a1,Chen Yue Zhang,Core.Library.Sabre,3/3/2016 10:39:15 AM,unlinked,unlinked,modified insert logic
+aee765e16aca1cf0d90fd250d4d6e5172365828f,Chen Yue Zhang,Core.Library.Sabre,3/2/2016 12:30:16 PM,unlinked,unlinked,modified storage part ut
+7c52269b6d60b822b393e1a8fdb8e8faadd50a23,Chen Yue Zhang,Core.Library.Sabre,3/2/2016 12:28:12 PM,unlinked,unlinked,fix bug on storage
+793cc86968c5a025c2d8a8e3ecedeadf56e98756,Chen Yue Zhang,Core.Library.Sabre,3/2/2016 12:20:52 PM,unlinked,unlinked,add storage in core part
+da031c09be466add0b5c36dadfb410ec6f942386,Chen Yue Zhang,Core.Library.Sabre,3/1/2016 12:30:34 PM,unlinked,unlinked,modified log insert and test cases
+270e56bc8b1dd268e80c83ad19aff51f45f93471,Hui Qiu,Core.Service.AuditLogging,3/7/2016 6:07:00 AM,User Story,383354,[qh] #383354 fix bug in sonar task
+b32bf8464eb4d186fc7a08555624e11cec2dac7f,ywang38,Core.Service.AuditLogging,3/7/2016 5:46:43 AM,User Story,383357,[WY ZDY] #383357 make _index is a valid condition for integration test.
+079309c17ec0646d3f4c9a967db70293ad310605,ywang38,Core.Service.AuditLogging,3/4/2016 7:59:56 AM,User Story,383357,[WY ZYH] #383357 Make elasticsearch url configurable.
+dc711cdba707707cc7254d4e765272ef0d4d13c9,Hui Qiu,Core.Service.AuditLogging,3/4/2016 6:53:46 AM,User Story,383354,[qh] #383354 add sonor-project.properties
+dc947bdad5a1860996e610387365464af40922c0,Hui Qiu,Core.Service.AuditLogging,3/4/2016 6:52:14 AM,User Story,383354,[qh] #383354 update sonar task
+12882e03ca824310b574c795b23a2a1edf27516c,ywang38,Core.Service.AuditLogging,3/4/2016 5:30:03 AM,User Story,383357,[WY ZYH] #383357 exclude test code from coverage.
+74f1154a099cd9484c31d9faca83b20f4052b3c8,ywang38,Core.Service.AuditLogging,3/4/2016 5:26:58 AM,unlinked,unlinked,[WY ZYH] #Add more cases for analyzequerystring.
+d01e0a7b6b83d96bbc6ae5d23a5f1a4bb8c537f4,ywang38,Core.Service.AuditLogging,3/4/2016 5:18:27 AM,User Story,383357,[WY ZYH] #383357 Add datetime format validation test and implementation.
+1cd7a179d0056c644d35f1fc7c130b2b4f94c085,Hui Qiu,Core.Service.AuditLogging,3/3/2016 9:41:12 AM,User Story,383354,[qh] #383354 add sonar task
+13d894640bf1d6d0f8f1358d6cd5c300b08b3641,ywang38,Core.Service.AuditLogging,3/3/2016 8:49:07 AM,User Story,383357,[WY ZYH] #383357 automaticly put host to event and correct unit test.
+d861d86265d3ea0cbe345c14da88de0e90bf903c,ywang38,Core.Service.AuditLogging,3/3/2016 8:31:34 AM,User Story,383357,[WY ZYH] #383357 Put correct host name in event.
+9d1c7066152e55cf227a257a18c087662d919618,Hui Qiu,Core.Service.AuditLogging,3/3/2016 8:22:40 AM,User Story,385652,[qh] #385652 fix ut testresult dir bug.
+ecc98cdf62dc02f62190eebd5fb603fa48e19d7c,ywang38,Core.Service.AuditLogging,3/3/2016 8:19:57 AM,User Story,383357,[WY ZYH] #383357 Add more CT cases for search api.
+095d979297bcfdee26481810f41e421554b3b668,ywang38,Core.Service.AuditLogging,3/3/2016 7:35:53 AM,User Story,383357,[WY ZYH] #383357 Add search Contract Test.
+01b0afc3e9ef56e0f4b8840cbf47c6f9baa46125,ywang38,Core.Service.AuditLogging,3/3/2016 3:22:26 AM,User Story,383357,[WY ZYH] #383357 Fix size query syntax and add help comments.
+ec2f192cd1265a1a80271b6b561102db710b2c9d,ywang38,Core.Service.AuditLogging,3/3/2016 3:19:53 AM,User Story,383357,[WY ZYH] #383357 Add max return records size 100.
+5f0e5aa27a63544d830b64acd7b8d7dff6e1583d,ywang38,Core.Service.AuditLogging,3/3/2016 2:10:53 AM,unlinked,unlinked,[WY ZYH] # 383357 Add more positive case for elasticsearchwrapper.
+b239ce8fd3d958d615689c1025c17b5ed7c1d697,ywang38,Core.Service.AuditLogging,3/2/2016 9:49:29 AM,User Story,383357,[WY ZYH] #383357 Add first unit test case for ElasticSearch wrapper.
+5a2841d6b2abcc8fd06260062c7176b7cf43d553,ywang38,Core.Service.AuditLogging,3/2/2016 8:23:12 AM,User Story,383357,[WY] #383357 refactor.
+b7f131c70523077df02761799f2f1c239a85e740,ywang38,Core.Service.AuditLogging,3/2/2016 7:19:41 AM,User Story,383357,[WY ZYH] #383357 Exclude documentation code from UT coverage.
+f09afd25a4507c954304b9dad32145fdf8e20b22,ywang38,Core.Service.AuditLogging,3/2/2016 7:14:31 AM,User Story,383357,[WY ZYH] #383357 generate response result structure.
+b9563ee5af53db2b39d1b867c8a6ec2dac672fca,Yong Chao BIAN,Core.Service.AuditLogging,3/2/2016 3:02:38 AM,User Story,383357,[YC] #383357 Update the API version as latest
+436391ebd8c8cd5d239b82eaf8a1323237186dd0,ywang38,Core.Service.AuditLogging,3/2/2016 3:02:25 AM,User Story,383357,[WY ZYH] #383357 API response comments
+b145ea9acd56769d89d111a27168cbbcb71d71a8,ywang38,Core.Service.AuditLogging,3/2/2016 2:43:44 AM,User Story,383357,[WY ZYH] #383357 Add result class and remove useless API
+92a4d3ce7488ce2625e18697c9ad797907ce401d,ywang38,Core.Service.AuditLogging,3/2/2016 2:03:58 AM,User Story,383357,[WY ZYH] #383357 Add clientEvent prefix for search key when needed.
+e25ad40255e85f463e8ed1e8e471d739da0f444c,Yong Chao BIAN,Core.Service.AuditLogging,3/1/2016 10:07:14 AM,User Story,383357,[YC] #383357 Update the default swagger url and add sample description
+b61f4a5bb998481644736384e67c0d0209e3abd4,Yong Chao BIAN,Core.Service.AuditLogging,3/1/2016 9:58:53 AM,User Story,383357,[YC] #383357 Update the default swagger url
+ddd500840633c4d7f64699ff5544737f1b844029,Yong Chao BIAN,Core.Service.AuditLogging,3/1/2016 9:04:46 AM,User Story,383357,[YC] #383357 remove duplicated route config
+826a51c73d3d8051d701e2375277be1e7ca5d640,ywang38,Core.Service.AuditLogging,3/1/2016 9:00:41 AM,User Story,383357,[WY ZYH] #383357 Exclude Documentation code from UT coverage.
+316a6b47f5f743495ab1af0da551df145212f372,ywang38,Core.Service.AuditLogging,3/1/2016 8:55:29 AM,User Story,383357,[WY ZYH] #383357 Exclude documentation code from UT coverage.
+8a1d177466cd855bd4bfc6946effa20f0c3e116a,ywang38,Core.Service.AuditLogging,3/1/2016 8:41:34 AM,User Story,383357,[WY ZYH] #383357 Handle ElasticSearch result.
+9fd8cd77dcae0a0bab987814444b9f0327899b87,Yong Chao BIAN,Core.Service.AuditLogging,3/1/2016 8:32:33 AM,User Story,383357,[YC] #383357 Add default model values on Swagger page
+bb3874d11b249dcf22568644fce37381d3d6619f,Yong Chao BIAN,Core.Service.AuditLogging,3/1/2016 7:29:25 AM,User Story,383357,[YC] #383357 Correct integration test
+c153144b1494caaa776d364c94442c65e1189f54,Yong Chao BIAN,Core.Service.AuditLogging,3/1/2016 6:53:13 AM,User Story,383357,[YC] #383357 Correct integration test
+d4f5f06dcae42bb1c289e67df61f87bc9451dd39,Yong Chao BIAN,Core.Service.AuditLogging,3/1/2016 5:20:29 AM,User Story,383357,[YC] #383357 Add swagger to AuditLogging service
+e36ef538d0d60203937d8442a3779a785c243747,Yong Chao BIAN,Core.Service.AuditLogging,3/1/2016 5:14:22 AM,User Story,383357,Revert "[YC] #383357 Add swagger to AuditLogging service"  This reverts commit 6c0c12b599f6c948b596e
+c7239c2ce4747c777ef9cba6b38fae6d9e70b31f,WANG Yu(InterACT),Core.Service.AuditLogging,3/1/2016 3:54:03 AM,User Story,383357,[WY  ZYH] #383357 Fix failed UT.
+6c0c12b599f6c948b596e2dcc30b652e774ce770,Yong Chao BIAN,Core.Service.AuditLogging,3/1/2016 3:51:20 AM,User Story,383357,[YC] #383357 Add swagger to AuditLogging service
+d738aa7e7367f5fd6f1d9b470878eb2117cf1196,WANG Yu(InterACT),Core.Service.AuditLogging,3/1/2016 3:15:53 AM,User Story,383357,[WY YHZ] #383357 Add search api.
+af95aea062ab3be70f8a76d24652883318ba8434,Tong Feng,Core.Service.Listener,3/3/2016 6:31:49 AM,User Story,377411,[FT] #377411 Add signalR endpoint for listener service
+0a843a43fbb1a8ac46fdb0e657170a6df6ba0388,Xiao Lei Song,Core.Service.Listener,3/3/2016 3:10:28 AM,User Story,377411,[Sxl] #377411 Add partition info in webapi control to test load balance
+cd72bcbed6b8013a92c877bcb48c60b94396e449,Xiao Lei Song,Core.Service.Listener,3/3/2016 3:10:08 AM,User Story,377411,[Sxl] #377411 Add partition info in webapi control to test load balance
+8f14990f7eb2143895a9784980b2e977f54e2a74,Xiao Lei Song,Core.Service.Listener,3/1/2016 11:55:52 AM,unlinked,unlinked,[Sxl Ft] 377411 add signalr support
+848c0425237b793aabfd56856c31a77defced73b,Tong Feng,Core.Service.Listener,3/1/2016 9:28:47 AM,User Story,377411,[FT  Xiaolei] #377411 Provide public communication interface
+72346e179ff8abc9ed0d2ce862c20724fcc8229a,Tong Feng,Core.Service.Listener,3/1/2016 8:14:28 AM,User Story,377411,[SXL FT] #377411 Initialize listener service projects
+20d5afa14824f86caeb3245e9e349ae8f45d3d8d,Xiao Lei Song,Core.Service.Listener,3/1/2016 3:12:02 AM,User Story,377411,[Sxl] #377411 add pipeline.yaml
+6597d2ec691e756d6c44b438a795a6a427d7ded9,Hui Qiu,Core.Service.Listener,3/1/2016 2:51:36 AM,User Story,377411,[qh sxl] #377411 initial commit
+5aeb5dd30236fb913741d03da26581540036332d,Yong Chao BIAN,Core.Service.StreamRouter,3/7/2016 9:53:37 AM,User Story,389124,[YC] #389124 Add SenderSimulator test and use msfake to replace moq
+030ee81c9b1fe2892371c6a380bee170478627e7,Yong Chao BIAN,Core.Service.StreamRouter,3/7/2016 9:10:51 AM,User Story,389124,[YC] #389124 Remove comments in code
+42111e15cf6e41f0942a88bee5347e61e480b054,Yong Chao BIAN,Core.Service.StreamRouter,3/7/2016 8:56:41 AM,User Story,389124,[YC] #389124 Use the new service fabric cluster
+b4d6f8d11bd1496abeffaa2344a5ff1aa7966aa5,Yong Chao BIAN,Core.Service.StreamRouter,3/7/2016 7:25:14 AM,User Story,389124,[YC] #389124 Correct the publish settings
+bf1b74b2926855970b29ac62e8df424946191160,Yong Chao BIAN,Core.Service.StreamRouter,3/7/2016 5:50:05 AM,User Story,389124,[YC] #389124 Update the IT IoTHub EventHub name
+ac6553678b46e52a5020cdf5043bf9fe8739c0f2,Yong Chao BIAN,Core.Service.StreamRouter,3/7/2016 5:34:18 AM,User Story,389124,[YC] #389124 Rename the dev iothub and eventhub
+36025d481854edb97c61c1993669a8ad9c7afd0d,Yong Chao BIAN,Core.Service.StreamRouter,3/4/2016 7:50:39 AM,User Story,389124,[LQ  YC] #389124 Update the nuget retrieve feeds
+aa8bf50e4e857fc772f6aa3f5876ffc23ffb56d7,Yong Chao BIAN,Core.Service.StreamRouter,3/4/2016 4:16:06 AM,User Story,389124,[LQ  YC] #389124 package integration test and deploy sf
+27e7bba03c8af5f5848115d03eefc461bad193f5,Yong Chao BIAN,Core.Service.StreamRouter,3/4/2016 3:24:07 AM,User Story,389124,[LQ  YC] #389124 add pakcage switch when building sf project
+372794f49e9f875084983b96a885722f7fd0cd57,Yong Chao BIAN,Core.Service.StreamRouter,3/4/2016 3:19:26 AM,User Story,389124,[LQ  YC] #389124 Move StreamRouter nuspec out from AzureDeploy
+9f06a031a44bf580648eb50baeed8fe9d6d3b386,Yong Chao BIAN,Core.Service.StreamRouter,3/3/2016 8:06:13 AM,User Story,389124,[LQ  YC] #389124 Correct the go.local.config and go.server.config
+2c22189f208eb29e4810d4a5717fc964c53fbea7,Yong Chao BIAN,Core.Service.StreamRouter,3/3/2016 7:57:59 AM,User Story,389124,[LQ  YC] #389124 Add app settings to integration test
+17a950eca09c015fc4a2ddf8accee77c1c3dc69a,Yong Chao BIAN,Core.Service.StreamRouter,3/3/2016 7:56:40 AM,User Story,389124,[LQ  YC] #389124 Add integration test  sender and receiver simulator
+1d8d1103de7d507c4a5c45a5b1ab7ed6fd92ba83,Yong Chao BIAN,Core.Service.StreamRouter,3/3/2016 7:24:49 AM,User Story,389124,[LQ  YC] #389124 Pakcage StreamRouter service fabric project
+42085b929f231c0664693dc70793f5696d0c1737,Yong Chao BIAN,Core.Service.StreamRouter,3/3/2016 7:24:16 AM,User Story,389124,[LQ  YC] #389124 Exclude _working folder from git
+9c1ed0baac6ddf71803db7d5c5646dc496bb978f,Yong Chao BIAN,Core.Service.StreamRouter,3/3/2016 6:47:04 AM,User Story,389124,[LQ  YC] #389124 Correct package version and SF endpoint name
+c481ef5e70ee7c4df54820c3f93b174dfcc20bb3,Yong Chao BIAN,Core.Service.StreamRouter,3/3/2016 6:15:00 AM,User Story,389124,[LQ  YC] #389124 Update the nuget reference
+7ba026b68ab2efa0b4cadae9630c1f923c62d179,LI Qin,Core.Service.StreamRouter,3/3/2016 6:03:16 AM,User Story,389124,[YC LQ] #389124 fix compile failure
+6cd52d68f85ca2bf21ba2b471d133fcfa50a732c,Yong Chao BIAN,Core.Service.StreamRouter,3/3/2016 3:12:20 AM,User Story,389124,[LQ  YC] #389124 Run unit test in x64 platform
+9b6509d4089a9b3948885a42fae029d015c00075,Yong Chao BIAN,Core.Service.StreamRouter,3/2/2016 10:44:50 AM,User Story,389124,[LQ  YC] #389124 Add unit test
+277937c4fa53db557ebc962d58d758a071a143eb,Yong Chao BIAN,Core.Service.StreamRouter,3/2/2016 10:12:17 AM,User Story,389124,[LQ  YC] #389124 Fix deployment error
+52c6d65eab0efa9209919593cbd2f99462d0be3a,Yong Chao BIAN,Core.Service.StreamRouter,3/2/2016 10:06:16 AM,User Story,389124,[LQ  YC] #389124 Add logic to DispatcherService and SurveyProcessor
+1834316ac190d231f95e86b8b03fd3db17caef4f,Yong Chao BIAN,Core.Service.StreamRouter,3/2/2016 9:40:55 AM,User Story,389124,[LQ  YC] #389124 Add logic to DispatcherService and SurveyProcessor
+0134e8cdf51edbdd6a49347aaa10ceb1a67eb47f,LI Qin,Core.Service.StreamRouter,3/2/2016 9:41:43 AM,User Story,389124,[YC LQ] #389124 copy survey processor code to new solution
+0d7ec112ca1bb44a7a661562a764bbc958772378,Yong Chao BIAN,Core.Service.StreamRouter,3/2/2016 9:09:37 AM,User Story,389124,[LQ  YC] #389124 Add SF projects
+6761488b07a6626e272bd2250081eaa47f27d283,Yong Chao BIAN,Core.Service.StreamRouter,3/2/2016 8:59:57 AM,User Story,389124,[LQ  YC] #389124 Add init solution
+3a70c10a1efe6d41f6ab909b35feb28bb5c75d5f,Yong Chao BIAN,Core.Service.StreamRouter,3/2/2016 8:26:13 AM,User Story,389124,[LQ  YC] #389124 Clear the message processing repo

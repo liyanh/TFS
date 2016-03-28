@@ -1,0 +1,8 @@
+D:\TFS\BuildCount\BuildCount\bin\Debug\BuildCount.exe.config
+D:\TFS\BuildCount\BuildCount\bin\Debug\BuildCount.exe
+D:\TFS\BuildCount\BuildCount\bin\Debug\BuildCount.pdb
+D:\TFS\BuildCount\BuildCount\bin\Debug\Newtonsoft.Json.dll
+D:\TFS\BuildCount\BuildCount\bin\Debug\Newtonsoft.Json.xml
+D:\TFS\BuildCount\BuildCount\obj\Debug\BuildCount.csprojResolveAssemblyReference.cache
+D:\TFS\BuildCount\BuildCount\obj\Debug\BuildCount.exe
+D:\TFS\BuildCount\BuildCount\obj\Debug\BuildCount.pdb

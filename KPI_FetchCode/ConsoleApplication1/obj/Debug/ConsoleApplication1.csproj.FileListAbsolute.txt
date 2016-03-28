@@ -45,3 +45,13 @@ C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debu
 C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
 C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\bin\Debug\Microsoft.WITDataStore.dll
 C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\TFS\KPI_FetchCode\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\TFS\KPI_FetchCode\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\TFS\KPI_FetchCode\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\TFS\KPI_FetchCode\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\TFS\KPI_FetchCode\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\TFS\KPI_FetchCode\ConsoleApplication1\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\TFS\KPI_FetchCode\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\TFS\KPI_FetchCode\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\TFS\KPI_FetchCode\ConsoleApplication1\bin\Debug\Microsoft.WITDataStore.dll
+D:\TFS\KPI_FetchCode\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

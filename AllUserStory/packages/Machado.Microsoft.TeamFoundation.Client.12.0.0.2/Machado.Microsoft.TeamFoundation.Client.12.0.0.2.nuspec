@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Machado.Microsoft.TeamFoundation.Client</id>
+    <version>12.0.0.2</version>
+    <authors>Alexandre</authors>
+    <owners>Alexandre</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pacote da da biblioteca Client do Microsoft.TeamFoundation</description>
+    <dependencies>
+      <dependency id="Machado.Microsoft.TeamFoundation" version="12.0.0.0" />
+    </dependencies>
+  </metadata>
+</package>

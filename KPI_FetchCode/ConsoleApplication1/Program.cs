@@ -26,8 +26,6 @@ namespace ConsoleApplication1
         static string cmdPath = "cmd.exe";
         static DateTime DateStart = DateTime.Now;
         static DateTime DateEnd = DateTime.Now;
-        static string startdate = "";
-        static string enddate = "";
        
         static void Main(string[] args)
         {                       

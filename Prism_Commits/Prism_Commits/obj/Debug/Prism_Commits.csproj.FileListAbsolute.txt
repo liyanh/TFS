@@ -18,3 +18,6 @@ C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\Prism_Commits\bin\Debug\Newt
 C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\Prism_Commits\bin\Debug\Newtonsoft.Json.xml
 C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\Prism_Commits\bin\Debug\Microsoft.WITDataStore.dll
 C:\Users\YLi102\Desktop\ConsoleApplication1 - Prism\Prism_Commits\obj\Debug\Prism_Commits.csprojResolveAssemblyReference.cache
+D:\TFS\Prism_Commits\Prism_Commits\bin\Debug\Prism_Commits.exe.config
+D:\TFS\Prism_Commits\Prism_Commits\obj\Debug\Prism_Commits.exe
+D:\TFS\Prism_Commits\Prism_Commits\obj\Debug\Prism_Commits.pdb
